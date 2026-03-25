@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  epg-grabber:
+  epg-scraper:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
