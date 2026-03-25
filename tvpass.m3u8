@@ -1,0 +1,532 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="ENTERTAINMENT",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="ENTERTAINMENT",ABC (KABC) Los Angeles
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="ENTERTAINMENT",ABC (WABC) New York, NY
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-id="acc-network" tvg-name="ACC Network" group-title="SPORTS",ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png" tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" group-title="SPORTS",Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="MOVIES",AMC Eastern Feed
+https://tvpass.org/live/AMCEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="DOCUMENTARY",American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="DOCUMENTARY",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="ENTERTAINMENT",BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="NEWS",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="ENTERTAINMENT",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" tvg-id="bet-her" tvg-name="BET Her" group-title="ENTERTAINMENT",BET Her
+https://tvpass.org/live/BETHerEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="SPORTS",Big Ten Network
+https://tvpass.org/live/BTN/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="NEWS",Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" tvg-id="boomerang" tvg-name="Boomerang" group-title="KIDS",Boomerang
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="ENTERTAINMENT",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" tvg-id="cspan" tvg-name="C-SPAN" group-title="NEWS",C-SPAN
+https://tvpass.org/live/CSPAN/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="NEWS",C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="KIDS",Cartoon Network USA Eastern Feed
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="ENTERTAINMENT",CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="ENTERTAINMENT",CBS (WCBS) New York, NY
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="SPORTS",CBS Sports Network USA
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="SPORTS",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="MOVIES",Cinemax Eastern Feed
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="ENTERTAINMENT",CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="NEWS",CNBC USA
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-id="cnn" tvg-name="CNN US" group-title="NEWS",CNN US
+https://tvpass.org/live/CNN/sd
+
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Comedy.png" tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="ENTERTAINMENT",Comedy Central (US) Eastern Feed
+https://tvpass.org/live/ComedyCentralEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="ENTERTAINMENT",Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png" tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="ENTERTAINMENT",CW (KFMB-TV2) San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png" tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" group-title="ENTERTAINMENT",CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-id="destination-america" tvg-name="Destination America" group-title="ENTERTAINMENT",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="DOCUMENTARY",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="DOCUMENTARY",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="DOCUMENTARY",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screen-bug/disney-channel-bug-us.png?raw=true" tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="KIDS",Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="KIDS",Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="KIDS",Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="ENTERTAINMENT",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-id="espn" tvg-name="ESPN" group-title="SPORTS",ESPN
+https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="SPORTS",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-id="espn-news" tvg-name="ESPN News" group-title="SPORTS",ESPN News
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-id="espn-u" tvg-name="ESPN U" group-title="SPORTS",ESPN U
+https://tvpass.org/live/ESPNU/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-id="espn2" tvg-name="ESPN2" group-title="SPORTS",ESPN2
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-indiana-us.png" tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="SPORTS",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-detroit-us.png" tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="SPORTS",Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-florida-us.png" tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="SPORTS",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-great-lakes-us.png" tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="SPORTS",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-north-us.png" tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="SPORTS",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-ohio-us.png" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="SPORTS",Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-oklahoma-us.png" tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="SPORTS",Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-san-diego-us.png" tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="SPORTS",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-socal-us.png" tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="SPORTS",Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-south-us.png" tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="SPORTS",Fanduel Sports Network South Carolinas
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-south-us.png" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="SPORTS",Fanduel Sports Network South Tennessee
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-west-us.png" tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="SPORTS",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-wisconsin-us.png" tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="SPORTS",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-southeast-us.png" tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="SPORTS",Fanduel Sports Southeast Georgia
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-southeast-us.png" tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="SPORTS",Fanduel Sports Southeast North Carolina
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-southeast-us.png" tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="SPORTS",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-southeast-us.png" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="SPORTS",Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-sun-us.png" tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="SPORTS",Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-south-us.png" tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="SPORTS",Fanduel Sports Tennessee East
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="ENTERTAINMENT",Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="ENTERTAINMENT",FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="ENTERTAINMENT",FOX (WNYW) New York, NY
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-id="fox-business" tvg-name="Fox Business" group-title="ENTERTAINMENT",Fox Business
+https://tvpass.org/live/FoxBusiness/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" tvg-id="fox-news" tvg-name="Fox News" group-title="NEWS",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-id="fox-sports-1" tvg-name="Fox Sports 1" group-title="SPORTS",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-id="fox-sports-2" tvg-name="Fox Sports 2" group-title="SPORTS",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="ENTERTAINMENT",Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="ENTERTAINMENT",FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="MOVIES",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="ENTERTAINMENT",FX Networks East Coast
+https://tvpass.org/live/FXEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="ENTERTAINMENT",FXX USA Eastern
+https://tvpass.org/live/FXXEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="ENTERTAINMENT",FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="ENTERTAINMENT",Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="SPORTS",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="ENTERTAINMENT",Hallmark Eastern Feed
+https://tvpass.org/live/HallmarkChannelEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="ENTERTAINMENT",Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="ENTERTAINMENT",Hallmark Mystery Eastern HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="MOVIES",HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="MOVIES",HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="MOVIES",HBO Comedy HD East
+https://tvpass.org/live/HBOComedyEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="MOVIES",HBO Family Eastern Feed
+https://tvpass.org/live/HBOFamilyEast/sd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png" tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="MOVIES",HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-zone-us.png?raw=true" tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="MOVIES",HBO Zone HD East
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="ENTERTAINMENT",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="DOCUMENTARY",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" tvg-id="hln" tvg-name="HLN" group-title="ENTERTAINMENT",HLN
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="ENTERTAINMENT",Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="DOCUMENTARY",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="ENTERTAINMENT",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="MOVIES",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="ENTERTAINMENT",Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" tvg-id="logo-east" tvg-name="LOGO East" group-title="ENTERTAINMENT",LOGO East
+https://tvpass.org/live/LogoEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" group-title="SPORTS",Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png" tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="KIDS",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="ENTERTAINMENT",MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png" tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network" group-title="SPORTS",Midatlantic Sports Network
+https://tvpass.org/live/midatlantic-sports-network/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="mlb-network" tvg-name="MLB Network" group-title="SPORTS",MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/monumental-sports-network-us.png" tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" group-title="SPORTS",Monumental Sports Network
+https://tvpass.org/live/monumental-sports-network/sd
+
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MoreMAX.png" tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="ENTERTAINMENT",MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="ENTERTAINMENT",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="MOVIES",MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="SPORTS",MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-plus-us.png" tvg-id="msg-plus" tvg-name="MSG Plus" group-title="SPORTS",MSG Plus
+https://tvpass.org/live/msg-plus/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" tvg-id="msnbc-usa" tvg-name="MSNBC USA" group-title="ENTERTAINMENT",MSNBC USA
+https://tvpass.org/live/MSNBC/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="ENTERTAINMENT",MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="ENTERTAINMENT",MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="DOCUMENTARY",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="DOCUMENTARY",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="SPORTS",NBA TV USA
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="ENTERTAINMENT",NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="ENTERTAINMENT",NBC (WNBC) New York, NY
+https://tvpass.org/live/WNBCDT1/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-us.png" tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" group-title="SPORTS",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-us.png" tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" group-title="SPORTS",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-california-us.png" tvg-id="nbc-sports-california" tvg-name="NBC Sports California" group-title="SPORTS",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" group-title="SPORTS",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" tvg-id="new-england-sports-network" tvg-name="New England Sports Network" group-title="SPORTS",New England Sports Network
+https://tvpass.org/live/new-england-sports-network/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" tvg-id="newsmax-tv" tvg-name="NewsMax TV" group-title="NEWS",NewsMax TV
+https://tvpass.org/live/NewsmaxTV/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="nfl-network" tvg-name="NFL Network" group-title="SPORTS",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="SPORTS",NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="SPORTS",NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="KIDS",Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="KIDS",Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="KIDS",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="ENTERTAINMENT",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="ENTERTAINMENT",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="ENTERTAINMENT",Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" group-title="ENTERTAINMENT",PBS (WNET) New York, NY
+https://tvpass.org/live/WNET/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="ENTERTAINMENT",ReelzChannel
+https://tvpass.org/live/Reelz/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-id="science" tvg-name="Science" group-title="DOCUMENTARY",Science
+https://tvpass.org/live/Science/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" tvg-id="sec-network" tvg-name="SEC Network" group-title="SPORTS",SEC Network
+https://tvpass.org/live/SECN/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="MOVIES",Showtime Eastern Feed
+https://tvpass.org/live/ShowtimeEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="MOVIES",Showtime 2 Eastern
+https://tvpass.org/live/Showtime2East/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sny-us.png" tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" group-title="SPORTS",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" tvg-id="space-city-home-network" tvg-name="Space City Home Network" group-title="ENTERTAINMENT",Space City Home Network
+https://tvpass.org/live/space-city-home-network/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" group-title="SPORTS",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" group-title="SPORTS",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" group-title="SPORTS",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" group-title="SPORTS",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" tvg-id="sportsnet-one" tvg-name="Sportsnet One" group-title="SPORTS",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" group-title="SPORTS",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" group-title="SPORTS",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" group-title="SPORTS",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-snw-ca.png" tvg-id="sportsnet-west" tvg-name="Sportsnet West" group-title="SPORTS",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="MOVIES",Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="ENTERTAINMENT",SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="ENTERTAINMENT",Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-id="tbs-east" tvg-name="TBS East" group-title="ENTERTAINMENT",TBS East
+https://tvpass.org/live/TBSEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="KIDS",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="ENTERTAINMENT",Telemundo Eastern Feed
+https://tvpass.org/live/TelemundoEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="ENTERTAINMENT",The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="SPORTS",The Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="NEWS",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="ENTERTAINMENT",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="ENTERTAINMENT",TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="ENTERTAINMENT",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-id="travel-us-east" tvg-name="Travel US East" group-title="ENTERTAINMENT",Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="ENTERTAINMENT",truTV USA Eastern
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" tvg-id="tsn1" tvg-name="TSN1" group-title="SPORTS",TSN1
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" tvg-id="tsn2" tvg-name="TSN2" group-title="SPORTS",TSN2
+https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" tvg-id="tsn3" tvg-name="TSN3" group-title="SPORTS",TSN3
+https://tvpass.org/live/tsn3/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" tvg-id="tsn4" tvg-name="TSN4" group-title="SPORTS",TSN4
+https://tvpass.org/live/tsn4/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" tvg-id="tsn5" tvg-name="TSN5" group-title="SPORTS",TSN5
+https://tvpass.org/live/tsn5/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="MOVIES",Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png" tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="ENTERTAINMENT",TV Land Eastern
+https://tvpass.org/live/tv-land-eastern/sd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" tvg-id="tv-one" tvg-name="TV One" group-title="ENTERTAINMENT",TV One
+https://tvpass.org/live/TVOne/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" tvg-id="universal-kids" tvg-name="Universal Kids" group-title="KIDS",Universal Kids
+https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" group-title="ENTERTAINMENT",Univision Eastern Feed
+https://tvpass.org/live/UnivisionEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="ENTERTAINMENT",USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="ENTERTAINMENT",VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" tvg-id="vice" tvg-name="VICE" group-title="ENTERTAINMENT",VICE
+https://tvpass.org/live/VICETV/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="ENTERTAINMENT",WE (Women's Entertainment) Eastern
+https://tvpass.org/live/WeTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)" group-title="ENTERTAINMENT",WPIX New York (SUPERSTATION)
+https://tvpass.org/live/WPIX/sd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" tvg-id="yes-network" tvg-name="Yes Network" group-title="SPORTS",Yes Network
+https://tvpass.org/live/yes-network/sd
