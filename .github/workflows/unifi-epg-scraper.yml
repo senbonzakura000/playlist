@@ -1,0 +1,46 @@
+name: unifi-epg-scraper
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+jobs:
+  epg_scraper_job:
+    runs-on: ubuntu-latest
+   
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download and Run Python Script
+        run: |
+          curl -o epg.py "${{ secrets.UNIFI_EPG }}"
+          python epg.py
+
+      - name: Commit and push the epg files
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          
+          git add unifi/unifi_epg.xml unifi/unifi_epg.xml.gz
+          git status
+          git diff --staged --name-only  
+          
+          git commit -m "Update epg files" || echo "No changes to commit"
+          git log -1 --stat  # Show last commit details
+          git push --force
+        
