@@ -338,18 +338,6 @@
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
-  <programme start="20260726220000 +0800" stop="20260726223000 +0800" channel="ANC.ph">
-    <title lang="en">Executive Class</title>
-  </programme>
-  <programme start="20260726223000 +0800" stop="20260726230000 +0800" channel="ANC.ph">
-    <title lang="en">Asian Air Safari</title>
-  </programme>
-  <programme start="20260726230000 +0800" stop="20260726233000 +0800" channel="ANC.ph">
-    <title lang="en">Women of Style</title>
-  </programme>
-  <programme start="20260726233000 +0800" stop="20260727000000 +0800" channel="ANC.ph">
-    <title lang="en">On Cue</title>
-  </programme>
   <programme start="20260727000000 +0800" stop="20260727003000 +0800" channel="ANC.ph">
     <title lang="en">G Diaries: Stronger Together</title>
     <category lang="en">Lifestyle</category>
@@ -381,45 +369,6 @@
   <programme start="20260727040000 +0800" stop="20260727043000 +0800" channel="ANC.ph">
     <title lang="en">Casa Daza</title>
   </programme>
-  <programme start="20260726210000 +0800" stop="20260726225500 +0800" channel="AXN.ph">
-    <title lang="en">The Equalizer 3</title>
-    <desc lang="en">Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <actor>Denzel Washington</actor>
-      <actor>Dakota Fanning</actor>
-      <actor>Eugenio Mastrandrea</actor>
-      <actor>Remo Girone</actor>
-      <actor>David Denman</actor>
-      <actor>Melissa Leo</actor>
-      <writer>Richard Wenk</writer>
-      <producer>Steve Tisch</producer>
-      <producer>Denzel Washington</producer>
-      <producer>Antoine Fuqua</producer>
-      <producer>Todd Black</producer>
-      <producer>Jason Blumenthal</producer>
-      <producer>Clayton Townsend</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <country lang="en">United States</country>
-    <rating system="MTRCB">
-      <value>R-16</value>
-    </rating>
-  </programme>
-  <programme start="20260726225500 +0800" stop="20260726234500 +0800" channel="AXN.ph">
-    <title lang="en">FBI</title>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S8</episode-num>
-  </programme>
-  <programme start="20260726234500 +0800" stop="20260727004000 +0800" channel="AXN.ph">
-    <title lang="en">The Rookie</title>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S7</episode-num>
-  </programme>
   <programme start="20260727004000 +0800" stop="20260727024000 +0800" channel="AXN.ph">
     <title lang="en">Seraphim Falls</title>
     <credits>
@@ -442,6 +391,54 @@
     <title lang="en">Twisted Metal</title>
     <category lang="en">Action/Adventure</category>
     <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260727210000 -0500" stop="20260727220000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727220000 -0500" stop="20260727230000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727230000 -0500" stop="20260728000000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728000000 -0500" stop="20260728010000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728010000 -0500" stop="20260728020000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728020000 -0500" stop="20260728030000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728030000 -0500" stop="20260728040000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728040000 -0500" stop="20260728050000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728050000 -0500" stop="20260728060000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728060000 -0500" stop="20260728070000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728070000 -0500" stop="20260728080000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728080000 -0500" stop="20260728090000 -0500" channel="Aljazeera.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260728090000 -0500" stop="20260728100000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
@@ -635,51 +632,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Cartoon.Net.Hd.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Aljazeera.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -1019,51 +1016,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Cgnl.Nba.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Cartoon.Net.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -1403,6 +1400,102 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Cgnl.Nba.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727210000 -0500" stop="20260727220000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727220000 -0500" stop="20260727230000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727230000 -0500" stop="20260728000000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728000000 -0500" stop="20260728010000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728010000 -0500" stop="20260728020000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728020000 -0500" stop="20260728030000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728030000 -0500" stop="20260728040000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728040000 -0500" stop="20260728050000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728050000 -0500" stop="20260728060000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728060000 -0500" stop="20260728070000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728070000 -0500" stop="20260728080000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728080000 -0500" stop="20260728090000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
   <programme start="20260728090000 -0500" stop="20260728100000 -0500" channel="Channelnews.Asia.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
@@ -1595,14 +1688,53 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726220000 +0800" stop="20260727000000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Home Along Da Riles 1</title>
-    <date>1999</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Channelnews.Asia.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260727000000 +0800" stop="20260727020000 +0800" channel="Cinema.One.ph">
     <title lang="en">Open</title>
@@ -1630,18 +1762,6 @@
   <programme start="20260727020000 +0800" stop="20260727040000 +0800" channel="Cinema.One.ph">
     <title lang="en">Damdamin</title>
   </programme>
-  <programme start="20260726215500 +0800" stop="20260726224500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Sleeping With A Killer S2</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260726224500 +0800" stop="20260726234500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">My Ghost Story Asia S1</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260726234500 +0800" stop="20260727003500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Undercover: Caught On Tape</title>
-    <category lang="en">Documentary</category>
-  </programme>
   <programme start="20260727003500 +0800" stop="20260727012500 +0800" channel="Crime.Investigation.ph">
     <title lang="en">Ozark Law</title>
     <category lang="en">Documentary</category>
@@ -1657,54 +1777,6 @@
   <programme start="20260727031000 +0800" stop="20260727040500 +0800" channel="Crime.Investigation.ph">
     <title lang="en">Taking The Stand S3</title>
     <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Fashiontv.Hd.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
@@ -2042,51 +2114,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="France24.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="France24.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="France24.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="France24.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="France24.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="France24.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="France24.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="France24.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="France24.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="France24.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="France24.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="France24.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Fashiontv.Hd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -2426,60 +2498,158 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726220000 +0800" stop="20260726230000 +0800" channel="GMA.ph">
-    <title lang="en">TBATS On The Go</title>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="France24.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727093000 +0800" stop="20260727110000 +0800" channel="GMA.ph">
+    <title lang="en">Kapuso Movie Festival</title>
+  </programme>
+  <programme start="20260727110000 +0800" stop="20260727120000 +0800" channel="GMA.ph">
+    <title lang="en">Tiktoclock</title>
+  </programme>
+  <programme start="20260727120000 +0800" stop="20260727143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+    <category lang="en">Game</category>
+    <category lang="en">Variety Show</category>
+  </programme>
+  <programme start="20260727143000 +0800" stop="20260727152000 +0800" channel="GMA.ph">
+    <title lang="en">Born To Shine</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727152000 +0800" stop="20260727160500 +0800" channel="GMA.ph">
+    <title lang="en">Kamao</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727160500 +0800" stop="20260727164500 +0800" channel="GMA.ph">
+    <title lang="en">You're My Favorite Song</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727164500 +0800" stop="20260727171000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260727171000 +0800" stop="20260727173500 +0800" channel="GMA.ph">
+    <title lang="en">Lovers Of The Red Sky</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727173500 +0800" stop="20260727183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud</title>
+    <category lang="en">Game</category>
+  </programme>
+  <programme start="20260727183000 +0800" stop="20260727200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727205000 +0800" channel="GMA.ph">
+    <title lang="en">The Master Cutter</title>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20260727205000 +0800" stop="20260727213500 +0800" channel="GMA.ph">
+    <title lang="en">Task Force Firewall</title>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20260727213500 +0800" stop="20260727222000 +0800" channel="GMA.ph">
+    <title lang="en">First Yaya</title>
+  </programme>
+  <programme start="20260727222000 +0800" stop="20260727230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727230000 +0800" stop="20260727233000 +0800" channel="GMA.ph">
+    <title lang="en">You Touched My Heart</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727090000 +0800" stop="20260727110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260726211500 +0800" stop="20260726230000 +0800" channel="GTV.ph">
-    <title lang="en">Kapuso Mo, Jessica Soho</title>
+  <programme start="20260727110000 +0800" stop="20260727120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727120000 +0800" stop="20260727134500 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <category lang="en">Special</category>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727134500 +0800" stop="20260727164500 +0800" channel="GTV.ph">
+    <title lang="en">The Vice President On Trial</title>
+    <category lang="en">Special</category>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727164500 +0800" stop="20260727171500 +0800" channel="GTV.ph">
+    <title lang="en">Grazilda</title>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727171500 +0800" stop="20260727174500 +0800" channel="GTV.ph">
+    <title lang="en">Love You Stranger</title>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727174500 +0800" stop="20260727183000 +0800" channel="GTV.ph">
+    <title lang="en">Because Of You</title>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727183000 +0800" stop="20260727200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras</title>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727200000 +0800" stop="20260727205000 +0800" channel="GTV.ph">
+    <title lang="en">The Master Cutter</title>
+    <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727205000 +0800" stop="20260727223000 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+    <category lang="en">Teens</category>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727223000 +0800" stop="20260727230500 +0800" channel="GTV.ph">
+    <title lang="en">Task Force Firewall</title>
+    <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Ibc13.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260727230500 +0800" stop="20260727232500 +0800" channel="GTV.ph">
+    <title lang="en">State Of The Nation</title>
+    <category lang="en">Talk</category>
   </programme>
   <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Ibc13.ph">
     <title lang="en">To Be Announced</title>
@@ -2817,9 +2987,53 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726220000 +0800" stop="20260727000000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">ASAP XP</title>
-    <category lang="en">Variety Show</category>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Ibc13.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260727000000 +0800" stop="20260727004500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Home Along Da Riles</title>
@@ -2843,64 +3057,77 @@
     <title lang="en">Hanggang Saan</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260726214500 +0800" stop="20260726224500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Maalaala Mo Kaya</title>
+  <programme start="20260727083000 +0800" stop="20260727103000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Blockbuster Sa Umaga</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727103000 +0800" stop="20260727110000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Oh My Gan!</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727110000 +0800" stop="20260727120000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Face 2 Face with Ate Koring</title>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260727120000 +0800" stop="20260727143000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
+    <category lang="en">Game</category>
+    <category lang="en">Variety Show</category>
+  </programme>
+  <programme start="20260727143000 +0800" stop="20260727151500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Can't Buy Me Love</title>
+    <category lang="en">Drama</category>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20260727151500 +0800" stop="20260727160000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">High Street</title>
+    <category lang="en">Drama</category>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20260727160000 +0800" stop="20260727173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727173000 +0800" stop="20260727174500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Express</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727174500 +0800" stop="20260727183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Minute To Win It</title>
+  </programme>
+  <programme start="20260727183000 +0800" stop="20260727200000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727204500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Sigabo</title>
+    <category lang="en">Action/Adventure</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260726224500 +0800" stop="20260727020000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Sunday's Best</title>
+  <programme start="20260727204500 +0800" stop="20260727213000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Blood vs. Duty</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260727020000 +0800" stop="20260727034500 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20260727213000 +0800" stop="20260727221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Alibi: Ang Buong Katotohanan</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727221500 +0800" stop="20260727224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Fireworks Of My Heart</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727224500 +0800" stop="20260727231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727231500 +0800" stop="20260728020000 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Knowledge.Channel.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
+  <programme start="20260728020000 +0800" stop="20260728034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+    <category lang="en">Special</category>
   </programme>
   <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
@@ -3238,51 +3465,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Lotusmacau.Prd.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Knowledge.Channel.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -3622,51 +3849,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Moonbug.Kids.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Lotusmacau.Prd.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -4006,78 +4233,140 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726220000 +0800" stop="20260727000000 +0800" channel="Net.25.ph">
-    <title lang="en">INCinema</title>
-    <category lang="en">Special</category>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260727000000 +0800" stop="20260727003000 +0800" channel="Net.25.ph">
-    <title lang="en">Ang Iglesia Ni Cristo</title>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260727003000 +0800" stop="20260727010000 +0800" channel="Net.25.ph">
-    <title lang="en">Kini Ang Kamatuoran</title>
-    <category lang="en">Special</category>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260727010000 +0800" stop="20260727020000 +0800" channel="Net.25.ph">
-    <title lang="en">Your Light Forever</title>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260727020000 +0800" stop="20260727023000 +0800" channel="Net.25.ph">
-    <title lang="en">Executive News Feature</title>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Moonbug.Kids.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727100000 +0800" stop="20260727120000 +0800" channel="Net.25.ph">
+    <title lang="en">Kada Umaga</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260727023000 +0800" stop="20260727033000 +0800" channel="Net.25.ph">
-    <title lang="en">INCinema</title>
+  <programme start="20260727120000 +0800" stop="20260727123000 +0800" channel="Net.25.ph">
+    <title lang="en">Mata Ng Agila Sa Tanghali</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727123000 +0800" stop="20260727130000 +0800" channel="Net.25.ph">
+    <title lang="en">Meet Yourself</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260727033000 +0800" stop="20260727040000 +0800" channel="Net.25.ph">
+  <programme start="20260727130000 +0800" stop="20260727133000 +0800" channel="Net.25.ph">
+    <title lang="en">Go Go Squid</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727133000 +0800" stop="20260727140000 +0800" channel="Net.25.ph">
+    <title lang="en">As Beautiful As You</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727140000 +0800" stop="20260727143000 +0800" channel="Net.25.ph">
+    <title lang="en">Here We Meet Again</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727143000 +0800" stop="20260727150000 +0800" channel="Net.25.ph">
+    <title lang="en">Happy Ending</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727150000 +0800" stop="20260727160000 +0800" channel="Net.25.ph">
+    <title lang="en">Oh No, Its B.O.!</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727160000 +0800" stop="20260727163000 +0800" channel="Net.25.ph">
+    <title lang="en">Road to Starkada</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727163000 +0800" stop="20260727180000 +0800" channel="Net.25.ph">
+    <title lang="en">Sa Ganang Mamamayan</title>
+  </programme>
+  <programme start="20260727180000 +0800" stop="20260727193000 +0800" channel="Net.25.ph">
+    <title lang="en">Mata Ng Agila</title>
+  </programme>
+  <programme start="20260727193000 +0800" stop="20260727200000 +0800" channel="Net.25.ph">
+    <title lang="en">Wonderful Mama</title>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727203000 +0800" channel="Net.25.ph">
+    <title lang="en">Kimchi Family</title>
+  </programme>
+  <programme start="20260727203000 +0800" stop="20260727210000 +0800" channel="Net.25.ph">
+    <title lang="en">You Are My Hero</title>
+  </programme>
+  <programme start="20260727210000 +0800" stop="20260727213000 +0800" channel="Net.25.ph">
+    <title lang="en">Rising with the Wind</title>
+  </programme>
+  <programme start="20260727213000 +0800" stop="20260727223000 +0800" channel="Net.25.ph">
+    <title lang="en">Mata Ng Agila International</title>
+  </programme>
+  <programme start="20260727223000 +0800" stop="20260727230000 +0800" channel="Net.25.ph">
+    <title lang="en">REV</title>
+  </programme>
+  <programme start="20260727230000 +0800" stop="20260727233000 +0800" channel="Net.25.ph">
+    <title lang="en">In Good Shape</title>
+  </programme>
+  <programme start="20260727233000 +0800" stop="20260728000000 +0800" channel="Net.25.ph">
+    <title lang="en">Tomorrow Today</title>
+  </programme>
+  <programme start="20260728000000 +0800" stop="20260728003000 +0800" channel="Net.25.ph">
+    <title lang="en">See For Yourself</title>
+  </programme>
+  <programme start="20260728003000 +0800" stop="20260728010000 +0800" channel="Net.25.ph">
+    <title lang="en">Kini Ang Kamatuoran</title>
+  </programme>
+  <programme start="20260728010000 +0800" stop="20260728013000 +0800" channel="Net.25.ph">
+    <title lang="en">INC international Edition</title>
+  </programme>
+  <programme start="20260728013000 +0800" stop="20260728020000 +0800" channel="Net.25.ph">
+    <title lang="en">Gabay Sa Mabuting Asal</title>
+  </programme>
+  <programme start="20260728020000 +0800" stop="20260728023000 +0800" channel="Net.25.ph">
+    <title lang="en">Executive News Feature</title>
+  </programme>
+  <programme start="20260728023000 +0800" stop="20260728033000 +0800" channel="Net.25.ph">
+    <title lang="en">Landas Ng Buhay</title>
+  </programme>
+  <programme start="20260728033000 +0800" stop="20260728040000 +0800" channel="Net.25.ph">
     <title lang="en">Turning Point</title>
-  </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Nickjr.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
@@ -4415,51 +4704,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Onenews.Hd.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Nickjr.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -4799,6 +5088,102 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Onenews.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726220000 -0500" stop="20260726230000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726230000 -0500" stop="20260727000000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727000000 -0500" stop="20260727010000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727010000 -0500" stop="20260727020000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727020000 -0500" stop="20260727030000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727030000 -0500" stop="20260727040000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727040000 -0500" stop="20260727050000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727050000 -0500" stop="20260727060000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727060000 -0500" stop="20260727070000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727070000 -0500" stop="20260727080000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727080000 -0500" stop="20260727090000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
   <programme start="20260727090000 -0500" stop="20260727100000 -0500" channel="Oneph.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
@@ -5084,6 +5469,102 @@
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260730080000 -0500" stop="20260730090000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Oneph.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726220000 -0500" stop="20260726230000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260726230000 -0500" stop="20260727000000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727000000 -0500" stop="20260727010000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727010000 -0500" stop="20260727020000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727020000 -0500" stop="20260727030000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727030000 -0500" stop="20260727040000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727040000 -0500" stop="20260727050000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727050000 -0500" stop="20260727060000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727060000 -0500" stop="20260727070000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727070000 -0500" stop="20260727080000 -0500" channel="Onesports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260727080000 -0500" stop="20260727090000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -5375,51 +5856,51 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Onesportsplus.Hd.ph">
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Onesports.ph">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
@@ -5759,44 +6240,53 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726213000 +0800" stop="20260726233000 +0800" channel="PBO.ph">
-    <title lang="en">Ekis</title>
-    <credits>
-      <actor>Albert Martinez</actor>
-      <actor>Raymond Bagatsing</actor>
-      <actor>Jaime Fabregas</actor>
-      <actor>Ryan Eigenmann</actor>
-      <actor>John Arcilla</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sexy</category>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726233000 +0800" stop="20260727013000 +0800" channel="PBO.ph">
-    <title lang="en">Bakit 'Di Mo Sabihin?</title>
-    <desc lang="en">A deaf couple learns that it is not their inability to speak or hear that tears them apart.</desc>
-    <credits>
-      <actor>JC de Vera</actor>
-      <actor>Janine Gutierrez</actor>
-      <actor>Divine Aucina</actor>
-      <actor>RJ Agustin</actor>
-      <actor>Sheenly Gener</actor>
-      <actor>Disney Aguila</actor>
-      <actor>Jamil Carvajal</actor>
-      <actor>Sunshine Teodoro</actor>
-      <actor>Althea Ruedas</actor>
-      <writer>Floriza Francisco Reyes</writer>
-      <producer>Vic Del Rosario Jr.</producer>
-      <producer>RJ Agustin</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Onesportsplus.Hd.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260727013000 +0800" stop="20260727031500 +0800" channel="PBO.ph">
     <title lang="en">Alindog Ni Barbara</title>
@@ -5815,54 +6305,6 @@
     <rating system="MTRCB">
       <value>R</value>
     </rating>
-  </programme>
-  <programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726100000 -0500" stop="20260726110000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726110000 -0500" stop="20260726120000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726120000 -0500" stop="20260726130000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726130000 -0500" stop="20260726140000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726140000 -0500" stop="20260726150000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726150000 -0500" stop="20260726160000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726160000 -0500" stop="20260726170000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726170000 -0500" stop="20260726180000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260726200000 -0500" stop="20260726210000 -0500" channel="Rptv.ph">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260726210000 -0500" stop="20260726220000 -0500" channel="Rptv.ph">
     <title lang="en">To Be Announced</title>
@@ -6200,29 +6642,53 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726220000 +0800" stop="20260727000000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Jaguar</title>
-    <desc lang="en">Poldo, a poor man, takes up a job as a security guard at a high-class apartment complex. However, he soon finds himself protecting his employer's son from the violent attacks of a nightclub owner.</desc>
-    <credits>
-      <director>Lino Brocka</director>
-      <actor>Phillip Salvador</actor>
-      <actor>Menggie Cobarrubias</actor>
-      <actor>Amy Austria</actor>
-      <actor>Johnny Delgado</actor>
-      <actor>Jimmy Santos</actor>
-      <actor>Anita Linda</actor>
-      <actor>Aida Carmona</actor>
-      <actor>Dexter Doria</actor>
-      <actor>Deborah Sun</actor>
-      <actor>Roi Vinzon</actor>
-      <actor>Joel Lamangan</actor>
-      <producer>Rolando S. Atienza</producer>
-    </credits>
-    <date>1979</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <country lang="en">Philippines</country>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Rptv.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260727000000 +0800" stop="20260727010000 +0800" channel="Solar.Flix.ph">
     <title lang="en">Forbidden Fruit S2</title>
@@ -6235,17 +6701,130 @@
   <programme start="20260727020000 +0800" stop="20260727040000 +0800" channel="Solar.Flix.ph">
     <title lang="en">Makamandag Na Bango</title>
   </programme>
-  <programme start="20260726214500 +0800" stop="20260726223000 +0800" channel="TV5.ph">
-    <title lang="en">Project Loki</title>
+  <programme start="20260727083000 +0800" stop="20260727103000 +0800" channel="TV5.ph">
+    <title lang="en">Cine Cinco Sa Umaga</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260726223000 +0800" stop="20260727003000 +0800" channel="TV5.ph">
-    <title lang="en">Kapatid Sunday Specials</title>
+  <programme start="20260727103000 +0800" stop="20260727110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express Live</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260727003000 +0800" stop="20260727043000 +0800" channel="TV5.ph">
+  <programme start="20260727110000 +0800" stop="20260727120000 +0800" channel="TV5.ph">
+    <title lang="en">Face 2 Face with Ate Koring</title>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260727120000 +0800" stop="20260727143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga</title>
+    <category lang="en">Comedy</category>
+    <category lang="en">Variety Show</category>
+  </programme>
+  <programme start="20260727143000 +0800" stop="20260727151500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express Live</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727151500 +0800" stop="20260727160000 +0800" channel="TV5.ph">
+    <title lang="en">Mano Po Legacy: The Family Fortune</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727160000 +0800" stop="20260727164500 +0800" channel="TV5.ph">
+    <title lang="en">Cooking Master Boy</title>
+  </programme>
+  <programme start="20260727164500 +0800" stop="20260727173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20260727173000 +0800" stop="20260727181500 +0800" channel="TV5.ph">
+    <title lang="en">Una Sa Lahat</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727181500 +0800" stop="20260727200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727204500 +0800" stop="20260727213000 +0800" channel="TV5.ph">
+    <title lang="en">A Secret In Prague</title>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727213000 +0800" stop="20260727221500 +0800" channel="TV5.ph">
+    <title lang="en">My Bespren Emman</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260727221500 +0800" stop="20260727224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260727224500 +0800" stop="20260727230000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727230000 +0800" stop="20260727233000 +0800" channel="TV5.ph">
+    <title lang="en">Nag-aapoy Na Damdamin</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727233000 +0800" stop="20260728000000 +0800" channel="TV5.ph">
+    <title lang="en">Pira-Pirasong Paraiso</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260728000000 +0800" stop="20260728043000 +0800" channel="TV5.ph">
     <title lang="en">Oras Ng Himala</title>
     <category lang="en">Religion</category>
+  </programme>
+  <programme start="20260728210000 -0500" stop="20260728220000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728220000 -0500" stop="20260728230000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260728230000 -0500" stop="20260729000000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729000000 -0500" stop="20260729010000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729010000 -0500" stop="20260729020000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729020000 -0500" stop="20260729030000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729030000 -0500" stop="20260729040000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729040000 -0500" stop="20260729050000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729050000 -0500" stop="20260729060000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729060000 -0500" stop="20260729070000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729070000 -0500" stop="20260729080000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260729080000 -0500" stop="20260729090000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260729090000 -0500" stop="20260729100000 -0500" channel="Tap.Sports.ph">
     <title lang="en">To Be Announced</title>
@@ -6343,26 +6922,53 @@
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726200000 +0800" stop="20260726221500 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Bagets 2</title>
-    <credits>
-      <actor>Aga Muhlach</actor>
-      <actor>William Martinez</actor>
-      <actor>Raymond Lauchengco</actor>
-      <actor>Herbert Bautista</actor>
-    </credits>
-    <category lang="en">Comedy</category>
+  <programme start="20260730090000 -0500" stop="20260730100000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
-  <programme start="20260726221500 +0800" stop="20260727003000 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Abrakadabra</title>
-    <credits>
-      <actor>Dolphy</actor>
-      <actor>Willie Revillame</actor>
-      <actor>Miguel Rodriguez</actor>
-    </credits>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
+  <programme start="20260730100000 -0500" stop="20260730110000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730110000 -0500" stop="20260730120000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730120000 -0500" stop="20260730130000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730130000 -0500" stop="20260730140000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730140000 -0500" stop="20260730150000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730150000 -0500" stop="20260730160000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730160000 -0500" stop="20260730170000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730170000 -0500" stop="20260730180000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730180000 -0500" stop="20260730190000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730190000 -0500" stop="20260730200000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
+  </programme>
+  <programme start="20260730200000 -0500" stop="20260730210000 -0500" channel="Tap.Sports.ph">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Program information is not yet available.</desc>
   </programme>
   <programme start="20260727003000 +0800" stop="20260727023000 +0800" channel="VIVA.Cinema.ph">
     <title lang="en">Anak ni Baby Ama</title>
@@ -6384,9 +6990,60 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20260726214500 +0800" stop="20260726224500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Maalaala Mo Kaya</title>
+  <programme start="20260727100000 +0800" stop="20260727120000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Blockbuster Sa Umaga</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727120000 +0800" stop="20260727143000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
+    <category lang="en">Game</category>
+    <category lang="en">Variety Show</category>
+  </programme>
+  <programme start="20260727143000 +0800" stop="20260727151500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Can't Buy Me Love</title>
     <category lang="en">Drama</category>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20260727151500 +0800" stop="20260727160000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">High Street</title>
+    <category lang="en">Drama</category>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20260727160000 +0800" stop="20260727173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Afternoon Zinema</title>
+  </programme>
+  <programme start="20260727173000 +0800" stop="20260727174500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Express</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260727174500 +0800" stop="20260727183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Minute To Win It</title>
+  </programme>
+  <programme start="20260727183000 +0800" stop="20260727200000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727204500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Sigabo</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727204500 +0800" stop="20260727213000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Blood vs. Duty</title>
+    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727213000 +0800" stop="20260727221500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Alibi: Ang Buong Katotohanan</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727221500 +0800" stop="20260727224500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Fireworks Of My Heart</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260727224500 +0800" stop="20260727231500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Balitang A2Z</title>
+    <category lang="en">News</category>
   </programme>
 <channel id="A2Z.ph">
     <display-name lang="en">A2Z</display-name>
@@ -6472,58 +7129,13 @@
     <icon src="http://202.78.65.124/epgcms/uploads/TV5.png" />
     <url>http://www.mysky.com.ph</url>
   </channel>
-  <programme start="20260726110000 +0800" stop="20260726130000 +0800" channel="CINEMO!.ph">
-    <title lang="en">EXTRA SERVICE ARCI MUNOZ</title>
-  </programme>
-  <programme start="20260726130000 +0800" stop="20260726140000 +0800" channel="CINEMO!.ph">
-    <title lang="en">LABAG SA BATAS RAMON REVILLA</title>
-  </programme>
-  <programme start="20260726140000 +0800" stop="20260726150000 +0800" channel="CINEMO!.ph">
-    <title lang="en">LABAG SA BATAS RAMON REVILLA</title>
-  </programme>
-  <programme start="20260726150000 +0800" stop="20260726170000 +0800" channel="CINEMO!.ph">
-    <title lang="en">FUTURE WORLD JAMES FRANCO</title>
-  </programme>
-  <programme start="20260726170000 +0800" stop="20260726190000 +0800" channel="CINEMO!.ph">
-    <title lang="en">FINAL SCORE DAVE BAUTISTA</title>
-  </programme>
-  <programme start="20260726190000 +0800" stop="20260726200000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BIRADOR RUDY FERNANDEZ</title>
-  </programme>
-  <programme start="20260726200000 +0800" stop="20260726210000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BIRADOR RUDY FERNANDEZ</title>
-  </programme>
-  <programme start="20260726210000 +0800" stop="20260726230000 +0800" channel="CINEMO!.ph">
-    <title lang="en">LEON NG MAYNILA LT. COL. ROMEO MAGANTO BONG REVILLA</title>
-  </programme>
-  <programme start="20260726230000 +0800" stop="20260727010000 +0800" channel="CINEMO!.ph">
-    <title lang="en">ALIEN PREDATOR XAVI ISRAEL</title>
-  </programme>
-  <programme start="20260727010000 +0800" stop="20260727020000 +0800" channel="CINEMO!.ph">
-    <title lang="en">DIVINO ANAK NI TOTOY MOLA SABRINA M.</title>
-  </programme>
-  <programme start="20260727020000 +0800" stop="20260727030000 +0800" channel="CINEMO!.ph">
-    <title lang="en">DIVINO ANAK NI TOTOY MOLA SABRINA M.</title>
-  </programme>
-  <programme start="20260727030000 +0800" stop="20260727040000 +0800" channel="CINEMO!.ph">
-    <title lang="en">LASTIKMAN</title>
-  </programme>
-  <programme start="20260727040000 +0800" stop="20260727050000 +0800" channel="CINEMO!.ph">
-    <title lang="en">GALEMA</title>
-  </programme>
-  <programme start="20260727050000 +0800" stop="20260727070000 +0800" channel="CINEMO!.ph">
-    <title lang="en">FIRST DAY HIGH KIM CHIU</title>
-  </programme>
-  <programme start="20260727070000 +0800" stop="20260727090000 +0800" channel="CINEMO!.ph">
-    <title lang="en">MANO PO 2 LORNA TOLENTINO</title>
-  </programme>
-  <programme start="20260727090000 +0800" stop="20260727110000 +0800" channel="CINEMO!.ph">
-    <title lang="en">TORA TORA BANG BANG JANNO GIBBS</title>
-  </programme>
   <programme start="20260727110000 +0800" stop="20260727130000 +0800" channel="CINEMO!.ph">
     <title lang="en">MGA ANAK NI FACIFICA FALAYFAY DOLPHY</title>
   </programme>
-  <programme start="20260727130000 +0800" stop="20260727150000 +0800" channel="CINEMO!.ph">
+  <programme start="20260727130000 +0800" stop="20260727140000 +0800" channel="CINEMO!.ph">
+    <title lang="en">WARREN BALANE ANTHONY ALONZO</title>
+  </programme>
+  <programme start="20260727140000 +0800" stop="20260727150000 +0800" channel="CINEMO!.ph">
     <title lang="en">WARREN BALANE ANTHONY ALONZO</title>
   </programme>
   <programme start="20260727150000 +0800" stop="20260727170000 +0800" channel="CINEMO!.ph">
@@ -6532,267 +7144,50 @@
   <programme start="20260727170000 +0800" stop="20260727190000 +0800" channel="CINEMO!.ph">
     <title lang="en">AGENT X44 VHONG NAVARRO</title>
   </programme>
-  <programme start="20260726110000 +0800" stop="20260726110200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
+  <programme start="20260727190000 +0800" stop="20260727200000 +0800" channel="CINEMO!.ph">
+    <title lang="en">SAGAD NA ANG ATRASO MO GEORGE ESTREGAN JR.</title>
   </programme>
-  <programme start="20260726110200 +0800" stop="20260726113000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Euromaxx</title>
+  <programme start="20260727200000 +0800" stop="20260727210000 +0800" channel="CINEMO!.ph">
+    <title lang="en">SAGAD NA ANG ATRASO MO GEORGE ESTREGAN JR.</title>
   </programme>
-  <programme start="20260726113000 +0800" stop="20260726120000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Wine consumption is declining in Europe. This poses a threat to European winegrowing regions. Winemakers in Spain and Germany are seeking a way out of the crisis by producing alcoholfree wine.</desc>
+  <programme start="20260727210000 +0800" stop="20260727230000 +0800" channel="CINEMO!.ph">
+    <title lang="en">RUSTICO ACUZAR WARAY BALDO MARRO</title>
   </programme>
-  <programme start="20260726120000 +0800" stop="20260726120200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
+  <programme start="20260727230000 +0800" stop="20260728010000 +0800" channel="CINEMO!.ph">
+    <title lang="en">BAD GIRL CRISTINA GONZALES</title>
   </programme>
-  <programme start="20260726120200 +0800" stop="20260726121500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">HER Women in Asia</title>
-    <desc lang="en">Many women dream of it, while others are compelled by their circumstances starting over. Leaving your previous life behind is often very difficult, even if it wasnt a good one. Breaking with the past and leaping into something completely new is a real challenge in practice. But you can fly high if you manage to set yourself free, says one of the three women who share their story with HER.</desc>
+  <programme start="20260728010000 +0800" stop="20260728020000 +0800" channel="CINEMO!.ph">
+    <title lang="en">HAYOP SA SARAP IRMA ALEGRE</title>
   </programme>
-  <programme start="20260726121500 +0800" stop="20260726123000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Reporter</title>
+  <programme start="20260728020000 +0800" stop="20260728030000 +0800" channel="CINEMO!.ph">
+    <title lang="en">HAYOP SA SARAP IRMA ALEGRE</title>
   </programme>
-  <programme start="20260726123000 +0800" stop="20260726130000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Berlins Museum Island is turning 200. Time for a look back at its storied past. And a look at the present How do we live? 240 photos show the state of our world. Plus A light artist makes structures shine. And A trip along Germanys Main Streets.</desc>
+  <programme start="20260728030000 +0800" stop="20260728040000 +0800" channel="CINEMO!.ph">
+    <title lang="en">LASTIKMAN</title>
   </programme>
-  <programme start="20260726130000 +0800" stop="20260726130300 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
+  <programme start="20260728040000 +0800" stop="20260728050000 +0800" channel="CINEMO!.ph">
+    <title lang="en">GALEMA</title>
   </programme>
-  <programme start="20260726130300 +0800" stop="20260726140000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">The graphic novel My Friend Dahmer recounts the early years of a serial killer in the US. This deeply disturbing book by Derf Backderf, a school friend of Dahmers, delves into the depths of human madness.</desc>
+  <programme start="20260728050000 +0800" stop="20260728070000 +0800" channel="CINEMO!.ph">
+    <title lang="en">THE UNMARRIED WIFE ANGELICA PANGANIBAN</title>
   </programme>
-  <programme start="20260726140000 +0800" stop="20260726140200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
+  <programme start="20260728070000 +0800" stop="20260728090000 +0800" channel="CINEMO!.ph">
+    <title lang="en">SA NGALAN NG ANAK EDDIE GARCIA</title>
   </programme>
-  <programme start="20260726140200 +0800" stop="20260726141500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+  <programme start="20260728090000 +0800" stop="20260728110000 +0800" channel="CINEMO!.ph">
+    <title lang="en">JOHNNY TINOSO AND THE PROUD BEAUTY GRETCHEN BARRETTO</title>
   </programme>
-  <programme start="20260726141500 +0800" stop="20260726143000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Shift</title>
-    <desc lang="en">Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
+  <programme start="20260728110000 +0800" stop="20260728130000 +0800" channel="CINEMO!.ph">
+    <title lang="en">KAMING MATATAPANG ANG APOG DOLPHY</title>
   </programme>
-  <programme start="20260726143000 +0800" stop="20260726150000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Best of DW Podcasts</title>
+  <programme start="20260728130000 +0800" stop="20260728150000 +0800" channel="CINEMO!.ph">
+    <title lang="en">PISTOLERO JERIC RAVAL</title>
   </programme>
-  <programme start="20260726150000 +0800" stop="20260726151500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
+  <programme start="20260728150000 +0800" stop="20260728170000 +0800" channel="CINEMO!.ph">
+    <title lang="en">SUSPEK VICTOR NERI</title>
   </programme>
-  <programme start="20260726151500 +0800" stop="20260726153000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Travel</title>
-    <desc lang="en">Join DWs Sarah Hucal on a Greek islandhopping adventure! She shows you the highlights on Rhodes, Symi, and Kalymnos in the eastern Aegean Sea. Sarah shares practical tips on getting around, the best food to eat, and where to stay.</desc>
-  </programme>
-  <programme start="20260726153000 +0800" stop="20260726160000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Berlins Museum Island is turning 200. Time for a look back at its storied past. And a look at the present How do we live? 240 photos show the state of our world. Plus A light artist makes structures shine. And A trip along Germanys Main Streets.</desc>
-  </programme>
-  <programme start="20260726160000 +0800" stop="20260726161500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726161500 +0800" stop="20260726163000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Reporter</title>
-  </programme>
-  <programme start="20260726163000 +0800" stop="20260726170000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Afrimaxx</title>
-    <desc lang="en">This time, Afrimaxx host Suecey welcomes you from the Zambian Art and Design Show in Lusaka. Plus un update for Senegalese boubou, some quirky accommodations in Clarens, South Africa and Nigerian bronze sculptures.</desc>
-  </programme>
-  <programme start="20260726170000 +0800" stop="20260726171500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726171500 +0800" stop="20260726173000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Sports Life</title>
-  </programme>
-  <programme start="20260726173000 +0800" stop="20260726180000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Euromaxx</title>
-  </programme>
-  <programme start="20260726180000 +0800" stop="20260726181500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726181500 +0800" stop="20260726183000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Shift</title>
-    <desc lang="en">Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
-  </programme>
-  <programme start="20260726183000 +0800" stop="20260726190000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">REV</title>
-    <desc lang="en">Every hour, four people die on Brazils streetsmore than from guns or natural disasters. A look at how they became some of the deadliest in the world. And A teenager in Nigeria uses roller skates to commute to school.</desc>
-  </programme>
-  <programme start="20260726190000 +0800" stop="20260726191500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726191500 +0800" stop="20260726200000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">For almost 120 years, the Circumetnea narrowgauge railway has been circling Europes highest volcano. The train travels through impressive lava landscapes and vegetation zones, as well as two nature parks, with the UNESCO World Heritage Site of Mount Etna always in view.</desc>
-  </programme>
-  <programme start="20260726200000 +0800" stop="20260726201500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726201500 +0800" stop="20260726203000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Sports Life</title>
-  </programme>
-  <programme start="20260726203000 +0800" stop="20260726210000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726210000 +0800" stop="20260726210200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726210200 +0800" stop="20260726211500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">HER Women in Asia</title>
-    <desc lang="en">Many women dream of it, while others are compelled by their circumstances starting over. Leaving your previous life behind is often very difficult, even if it wasnt a good one. Breaking with the past and leaping into something completely new is a real challenge in practice. But you can fly high if you manage to set yourself free, says one of the three women who share their story with HER.</desc>
-  </programme>
-  <programme start="20260726211500 +0800" stop="20260726213000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Reporter</title>
-  </programme>
-  <programme start="20260726213000 +0800" stop="20260726220000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Tomorrow Today</title>
-  </programme>
-  <programme start="20260726220000 +0800" stop="20260726220200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726220200 +0800" stop="20260726223000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Afrimaxx</title>
-    <desc lang="en">This time, Afrimaxx host Suecey welcomes you from the Zambian Art and Design Show in Lusaka. Plus un update for Senegalese boubou, some quirky accommodations in Clarens, South Africa and Nigerian bronze sculptures.</desc>
-  </programme>
-  <programme start="20260726223000 +0800" stop="20260726230000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Best of DW Podcasts</title>
-  </programme>
-  <programme start="20260726230000 +0800" stop="20260726230200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260726230200 +0800" stop="20260726231500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme start="20260726231500 +0800" stop="20260726233000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Shift</title>
-    <desc lang="en">Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
-  </programme>
-  <programme start="20260726233000 +0800" stop="20260727000000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">REV</title>
-    <desc lang="en">Every hour, four people die on Brazils streetsmore than from guns or natural disasters. A look at how they became some of the deadliest in the world. And A teenager in Nigeria uses roller skates to commute to school.</desc>
-  </programme>
-  <programme start="20260727000000 +0800" stop="20260727000200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727000200 +0800" stop="20260727003000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Euromaxx</title>
-  </programme>
-  <programme start="20260727003000 +0800" stop="20260727010000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Global Us</title>
-  </programme>
-  <programme start="20260727010000 +0800" stop="20260727010200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727010200 +0800" stop="20260727011500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme start="20260727011500 +0800" stop="20260727014500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Wine consumption is declining in Europe. This poses a threat to European winegrowing regions. Winemakers in Spain and Germany are seeking a way out of the crisis by producing alcoholfree wine.</desc>
-  </programme>
-  <programme start="20260727014500 +0800" stop="20260727020000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Reporter</title>
-  </programme>
-  <programme start="20260727020000 +0800" stop="20260727020200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727020200 +0800" stop="20260727023000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Eco India</title>
-    <desc lang="en">In the worlds wettest state  Meghalaya  local communities tackle water shortages, while Indias thirsty megacities use more water than can be replenished. What are the solutions?</desc>
-  </programme>
-  <programme start="20260727023000 +0800" stop="20260727030000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Best of DW Podcasts</title>
-  </programme>
-  <programme start="20260727030000 +0800" stop="20260727030200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727030200 +0800" stop="20260727033000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">In Good Shape</title>
-    <desc lang="en">Women are disadvantaged in healthcare  in some cases due to different symptoms in women than in men. This is especially true for heart conditions, where women even face lower survival rates after cardiac arrest.</desc>
-  </programme>
-  <programme start="20260727033000 +0800" stop="20260727040000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Euromaxx</title>
-  </programme>
-  <programme start="20260727040000 +0800" stop="20260727040200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727040200 +0800" stop="20260727041500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme start="20260727041500 +0800" stop="20260727044500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Global Us</title>
-  </programme>
-  <programme start="20260727044500 +0800" stop="20260727050000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Reporter</title>
-  </programme>
-  <programme start="20260727050000 +0800" stop="20260727050200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727050200 +0800" stop="20260727053000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Wine consumption is declining in Europe. This poses a threat to European winegrowing regions. Winemakers in Spain and Germany are seeking a way out of the crisis by producing alcoholfree wine.</desc>
-  </programme>
-  <programme start="20260727053000 +0800" stop="20260727060000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Tomorrow Today</title>
-  </programme>
-  <programme start="20260727060000 +0800" stop="20260727060200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727060200 +0800" stop="20260727061500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Sports Life</title>
-  </programme>
-  <programme start="20260727061500 +0800" stop="20260727063000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Shift</title>
-    <desc lang="en">Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
-  </programme>
-  <programme start="20260727063000 +0800" stop="20260727070000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Eco Africa</title>
-    <desc lang="en">How nanotechnology helps to preserve fruit and reduce methane emissions while protecting livelihoods. Plus glacier melt from Kenya to Austria.</desc>
-  </programme>
-  <programme start="20260727070000 +0800" stop="20260727070200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727070200 +0800" stop="20260727071500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme start="20260727071500 +0800" stop="20260727080000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">In many German cities, bicycle couriers deliver burgers, pizza, and other food to peoples homes. Thousands of these riders come from India, lured by the promise of studying in Germany, and have incurred heavy debts.</desc>
-  </programme>
-  <programme start="20260727080000 +0800" stop="20260727080200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727080200 +0800" stop="20260727083000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Wine consumption is declining in Europe. This poses a threat to European winegrowing regions. Winemakers in Spain and Germany are seeking a way out of the crisis by producing alcoholfree wine.</desc>
-  </programme>
-  <programme start="20260727083000 +0800" stop="20260727090000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Best of DW Podcasts</title>
-  </programme>
-  <programme start="20260727090000 +0800" stop="20260727090200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727090200 +0800" stop="20260727091500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">Our deep dive format explains the stories that matter  \n\nwith clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover whats driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-  </programme>
-  <programme start="20260727091500 +0800" stop="20260727100000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">For almost 120 years, the Circumetnea narrowgauge railway has been circling Europes highest volcano. The train travels through impressive lava landscapes and vegetation zones, as well as two nature parks, with the UNESCO World Heritage Site of Mount Etna always in view.</desc>
-  </programme>
-  <programme start="20260727100000 +0800" stop="20260727100200 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DW News</title>
-  </programme>
-  <programme start="20260727100200 +0800" stop="20260727101500 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">Sports Life</title>
-  </programme>
-  <programme start="20260727101500 +0800" stop="20260727110000 +0800" channel="DEUTSCHEWELLE.ph">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">What do young Chinese people dream of? What hopes and goals do they have? Do the grandchildren of the rising generation still believe in progress through work, and prosperity for all? Or do they have different values?</desc>
+  <programme start="20260728170000 +0800" stop="20260728190000 +0800" channel="CINEMO!.ph">
+    <title lang="en">LABS KITA OKEY KA LANG JOLINA MAGDANGAL</title>
   </programme>
   <programme start="20260727110000 +0800" stop="20260727110200 +0800" channel="DEUTSCHEWELLE.ph">
     <title lang="en">DW News</title>
@@ -6879,127 +7274,314 @@
   <programme start="20260727193000 +0800" stop="20260727200000 +0800" channel="DEUTSCHEWELLE.ph">
     <title lang="en">Best of DW Podcasts</title>
   </programme>
-  <programme start="20260726110000 +0800" stop="20260726140000 +0800" channel="SOLAR.SPORTS.ph">
+  <programme start="20260727200000 +0800" stop="20260727203000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260727203000 +0800" stop="20260727210000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Day</title>
+  </programme>
+  <programme start="20260727210000 +0800" stop="20260727210200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260727210200 +0800" stop="20260727211500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260727211500 +0800" stop="20260727220000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">For almost 120 years, the Circumetnea narrowgauge railway has been circling Europes highest volcano. The train travels through impressive lava landscapes and vegetation zones, as well as two nature parks, with the UNESCO World Heritage Site of Mount Etna always in view.</desc>
+  </programme>
+  <programme start="20260727220000 +0800" stop="20260727220200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260727220200 +0800" stop="20260727223000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Day</title>
+  </programme>
+  <programme start="20260727223000 +0800" stop="20260727230000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Dip</title>
+    <desc lang="en">Europe is still years away from launching a digital euro. While this idea has just remained a glimmer in the European Central Banks eye, Brazil has paved the way for digital payments in the last half decade. The Pix payment system, launched at the end of 2020 by the Brazilian Central Bank, has been widely adopted across the country.</desc>
+  </programme>
+  <programme start="20260727230000 +0800" stop="20260727230200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260727230200 +0800" stop="20260727231500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260727231500 +0800" stop="20260727233000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260727233000 +0800" stop="20260728000000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly halfhour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+  </programme>
+  <programme start="20260728000000 +0800" stop="20260728000200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728000200 +0800" stop="20260728003000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Day</title>
+  </programme>
+  <programme start="20260728003000 +0800" stop="20260728010000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">How nanotechnology helps to preserve fruit and reduce methane emissions while protecting livelihoods. Plus glacier melt from Kenya to Austria.</desc>
+  </programme>
+  <programme start="20260728010000 +0800" stop="20260728010300 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728010300 +0800" stop="20260728020000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The sensational abuse trial involving Gisle Pelicot, as seen through her daughters eyes. A documentary about the harrowing reality of druginduced sexual violence and the courage of the victims to speak out.</desc>
+  </programme>
+  <programme start="20260728020000 +0800" stop="20260728020200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728020200 +0800" stop="20260728023000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Day</title>
+  </programme>
+  <programme start="20260728023000 +0800" stop="20260728030000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">REV</title>
+    <desc lang="en">Every hour, four people die on Brazils streetsmore than from guns or natural disasters. A look at how they became some of the deadliest in the world. And A teenager in Nigeria uses roller skates to commute to school.</desc>
+  </programme>
+  <programme start="20260728030000 +0800" stop="20260728030200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728030200 +0800" stop="20260728031500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728031500 +0800" stop="20260728033000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260728033000 +0800" stop="20260728040000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly halfhour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+  </programme>
+  <programme start="20260728040000 +0800" stop="20260728040300 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728040300 +0800" stop="20260728050000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The sensational abuse trial involving Gisle Pelicot, as seen through her daughters eyes. A documentary about the harrowing reality of druginduced sexual violence and the courage of the victims to speak out.</desc>
+  </programme>
+  <programme start="20260728050000 +0800" stop="20260728050200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728050200 +0800" stop="20260728053000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Day</title>
+  </programme>
+  <programme start="20260728053000 +0800" stop="20260728060000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Dip</title>
+    <desc lang="en">Europe is still years away from launching a digital euro. While this idea has just remained a glimmer in the European Central Banks eye, Brazil has paved the way for digital payments in the last half decade. The Pix payment system, launched at the end of 2020 by the Brazilian Central Bank, has been widely adopted across the country.</desc>
+  </programme>
+  <programme start="20260728060000 +0800" stop="20260728060200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728060200 +0800" stop="20260728061500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728061500 +0800" stop="20260728063000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260728063000 +0800" stop="20260728070000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Berlins Museum Island is turning 200. Time for a look back at its storied past. And a look at the present How do we live? 240 photos show the state of our world. Plus A light artist makes structures shine. And A trip along Germanys Main Streets.</desc>
+  </programme>
+  <programme start="20260728070000 +0800" stop="20260728070200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728070200 +0800" stop="20260728071500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728071500 +0800" stop="20260728080000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">For almost 120 years, the Circumetnea narrowgauge railway has been circling Europes highest volcano. The train travels through impressive lava landscapes and vegetation zones, as well as two nature parks, with the UNESCO World Heritage Site of Mount Etna always in view.</desc>
+  </programme>
+  <programme start="20260728080000 +0800" stop="20260728080200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728080200 +0800" stop="20260728083000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Global Us</title>
+  </programme>
+  <programme start="20260728083000 +0800" stop="20260728090000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">How nanotechnology helps to preserve fruit and reduce methane emissions while protecting livelihoods. Plus glacier melt from Kenya to Austria.</desc>
+  </programme>
+  <programme start="20260728090000 +0800" stop="20260728090200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728090200 +0800" stop="20260728091500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728091500 +0800" stop="20260728094500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly halfhour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+  </programme>
+  <programme start="20260728094500 +0800" stop="20260728100000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Reporter</title>
+  </programme>
+  <programme start="20260728100000 +0800" stop="20260728100300 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728100300 +0800" stop="20260728110000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The sensational abuse trial involving Gisle Pelicot, as seen through her daughters eyes. A documentary about the harrowing reality of druginduced sexual violence and the courage of the victims to speak out.</desc>
+  </programme>
+  <programme start="20260728110000 +0800" stop="20260728110200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728110200 +0800" stop="20260728113000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Tomorrow Today</title>
+  </programme>
+  <programme start="20260728113000 +0800" stop="20260728120000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">Women are disadvantaged in healthcare  in some cases due to different symptoms in women than in men. This is especially true for heart conditions, where women even face lower survival rates after cardiac arrest.</desc>
+  </programme>
+  <programme start="20260728120000 +0800" stop="20260728120200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728120200 +0800" stop="20260728121500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728121500 +0800" stop="20260728124500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly halfhour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+  </programme>
+  <programme start="20260728124500 +0800" stop="20260728130000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Shift</title>
+    <desc lang="en">Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
+  </programme>
+  <programme start="20260728130000 +0800" stop="20260728130200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728130200 +0800" stop="20260728131500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728131500 +0800" stop="20260728133000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260728133000 +0800" stop="20260728140000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Eco India</title>
+    <desc lang="en">In the worlds wettest state  Meghalaya  local communities tackle water shortages, while Indias thirsty megacities use more water than can be replenished. What are the solutions?</desc>
+  </programme>
+  <programme start="20260728140000 +0800" stop="20260728140200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728140200 +0800" stop="20260728141500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728141500 +0800" stop="20260728144500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly halfhour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+  </programme>
+  <programme start="20260728144500 +0800" stop="20260728150000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Reporter</title>
+  </programme>
+  <programme start="20260728150000 +0800" stop="20260728153000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728153000 +0800" stop="20260728160000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">The Dip</title>
+    <desc lang="en">Europe is still years away from launching a digital euro. While this idea has just remained a glimmer in the European Central Banks eye, Brazil has paved the way for digital payments in the last half decade. The Pix payment system, launched at the end of 2020 by the Brazilian Central Bank, has been widely adopted across the country.</desc>
+  </programme>
+  <programme start="20260728160000 +0800" stop="20260728163000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728163000 +0800" stop="20260728170000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Global Us</title>
+  </programme>
+  <programme start="20260728170000 +0800" stop="20260728171500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728171500 +0800" stop="20260728173000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260728173000 +0800" stop="20260728180000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">REV</title>
+    <desc lang="en">Every hour, four people die on Brazils streetsmore than from guns or natural disasters. A look at how they became some of the deadliest in the world. And A teenager in Nigeria uses roller skates to commute to school.</desc>
+  </programme>
+  <programme start="20260728180000 +0800" stop="20260728183000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728183000 +0800" stop="20260728190000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">How nanotechnology helps to preserve fruit and reduce methane emissions while protecting livelihoods. Plus glacier melt from Kenya to Austria.</desc>
+  </programme>
+  <programme start="20260728190000 +0800" stop="20260728190200 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News</title>
+  </programme>
+  <programme start="20260728190200 +0800" stop="20260728191500 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">DW News Focus</title>
+  </programme>
+  <programme start="20260728191500 +0800" stop="20260728193000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Best of DWonline Content</title>
+  </programme>
+  <programme start="20260728193000 +0800" stop="20260728200000 +0800" channel="DEUTSCHEWELLE.ph">
+    <title lang="en">Tomorrow Today</title>
+  </programme>
+  <programme start="20260727110000 +0800" stop="20260727140000 +0800" channel="SOLAR.SPORTS.ph">
     <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
   </programme>
-  <programme start="20260726140000 +0800" stop="20260726170000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">2026 SHAKEYS NATIONAL INVITATIONAL</title>
-  </programme>
-  <programme start="20260726170000 +0800" stop="20260726190000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">2026 SHAKEYS NATIONAL INVITATIONAL</title>
-  </programme>
-  <programme start="20260726190000 +0800" stop="20260726200000 +0800" channel="SOLAR.SPORTS.ph">
+  <programme start="20260727140000 +0800" stop="20260727160000 +0800" channel="SOLAR.SPORTS.ph">
     <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
   </programme>
-  <programme start="20260726200000 +0800" stop="20260726230000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
+  <programme start="20260727160000 +0800" stop="20260727170000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">2026 MPBL</title>
   </programme>
-  <programme start="20260726230000 +0800" stop="20260727000000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
-  </programme>
-  <programme start="20260727000000 +0800" stop="20260727020000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">ACTION  AFTER DARK</title>
-  </programme>
-  <programme start="20260727020000 +0800" stop="20260727030000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">THE LEGEND OF BRUCE LEE</title>
-  </programme>
-  <programme start="20260727030000 +0800" stop="20260727050000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">WORLD CLASS BOXING</title>
-  </programme>
-  <programme start="20260727050000 +0800" stop="20260727070000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">ALL OUT ACTION</title>
-  </programme>
-  <programme start="20260727070000 +0800" stop="20260727080000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">OZ STYLE</title>
-  </programme>
-  <programme start="20260727080000 +0800" stop="20260727160000 +0800" channel="SOLAR.SPORTS.ph">
-    <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
-  </programme>
-  <programme start="20260727160000 +0800" stop="20260727180000 +0800" channel="SOLAR.SPORTS.ph">
+  <programme start="20260727170000 +0800" stop="20260727180000 +0800" channel="SOLAR.SPORTS.ph">
     <title lang="en">2026 MPBL</title>
   </programme>
   <programme start="20260727180000 +0800" stop="20260727200000 +0800" channel="SOLAR.SPORTS.ph">
     <title lang="en">2026 MPBL</title>
   </programme>
-  <programme start="20260726110000 +0800" stop="20260726120000 +0800" channel="TV5.ph">
-    <title lang="en">THE SINGING LODI</title>
+  <programme start="20260727200000 +0800" stop="20260727230000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">2026 MPBL</title>
   </programme>
-  <programme start="20260726120000 +0800" stop="20260726133000 +0800" channel="TV5.ph">
-    <title lang="en">VIBE PLAYBACK</title>
+  <programme start="20260727230000 +0800" stop="20260727233000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ICARUS MAGAZINE SHOW</title>
   </programme>
-  <programme start="20260726133000 +0800" stop="20260726140000 +0800" channel="TV5.ph">
-    <title lang="en">CINE CINCO ASTIG SUNDAY ROGER CORMANS DEATH RACE 2050 TAG</title>
+  <programme start="20260727233000 +0800" stop="20260728000000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ICARUS MAGAZINE SHOW</title>
   </programme>
-  <programme start="20260726140000 +0800" stop="20260726151500 +0800" channel="TV5.ph">
-    <title lang="en">CINE CINCO ASTIG SUNDAY ROGER CORMANS DEATH RACE 2050 TAG</title>
+  <programme start="20260728000000 +0800" stop="20260728020000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ACTION AFTER DARKS</title>
   </programme>
-  <programme start="20260726151500 +0800" stop="20260726160000 +0800" channel="TV5.ph">
-    <title lang="en">OGIE DIAZ INSPIRES</title>
+  <programme start="20260728020000 +0800" stop="20260728030000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">THE LEGEND OF BRUCE LEE</title>
   </programme>
-  <programme start="20260726160000 +0800" stop="20260726163000 +0800" channel="TV5.ph">
-    <title lang="en">JULIUS BABAO UNPLUGGED</title>
+  <programme start="20260728030000 +0800" stop="20260728050000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">WORLD CLASS BOXING</title>
   </programme>
-  <programme start="20260726163000 +0800" stop="20260726170000 +0800" channel="TV5.ph">
-    <title lang="en">PRESINTO 5</title>
+  <programme start="20260728050000 +0800" stop="20260728070000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ALL OUT ACTION</title>
   </programme>
-  <programme start="20260726170000 +0800" stop="20260726180000 +0800" channel="TV5.ph">
-    <title lang="en">FRONTLINE WEEKEND</title>
+  <programme start="20260728070000 +0800" stop="20260728080000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">OZ STYLE</title>
   </programme>
-  <programme start="20260726180000 +0800" stop="20260726190000 +0800" channel="TV5.ph">
-    <title lang="en">KAPATID MO, IDOL RAFFY TULFO</title>
+  <programme start="20260728080000 +0800" stop="20260728083000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ICARUS MAGAZINE SHOW</title>
   </programme>
-  <programme start="20260726190000 +0800" stop="20260726193000 +0800" channel="TV5.ph">
-    <title lang="en">TOP 5, MGA KWENTONG MARC LOGAN</title>
+  <programme start="20260728083000 +0800" stop="20260728090000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">ICARUS MAGAZINE SHOW</title>
   </programme>
-  <programme start="20260726193000 +0800" stop="20260726200000 +0800" channel="TV5.ph">
-    <title lang="en">DEAL OR NO DEAL</title>
+  <programme start="20260728090000 +0800" stop="20260728110000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">SHAKEYS GIRLS VOLLEYBALL LEAGUE 2026</title>
   </programme>
-  <programme start="20260726200000 +0800" stop="20260726203000 +0800" channel="TV5.ph">
-    <title lang="en">DEAL OR NO DEAL</title>
+  <programme start="20260728110000 +0800" stop="20260728120000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">CYCLING</title>
   </programme>
-  <programme start="20260726203000 +0800" stop="20260726214500 +0800" channel="TV5.ph">
-    <title lang="en">EVERYBODY SING</title>
+  <programme start="20260728120000 +0800" stop="20260728160000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">2026  UIPM  JUNIOR DIVISION WORLD CHAMP.</title>
   </programme>
-  <programme start="20260726214500 +0800" stop="20260726223000 +0800" channel="TV5.ph">
-    <title lang="en">PROJECT LOKI</title>
+  <programme start="20260728160000 +0800" stop="20260728180000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">2026 MPBL</title>
   </programme>
-  <programme start="20260726223000 +0800" stop="20260726230000 +0800" channel="TV5.ph">
-    <title lang="en">KAPATID SUNDAY SPECIAL SAMJIN COMPANY ENGLISH CLASS TAG</title>
-  </programme>
-  <programme start="20260726230000 +0800" stop="20260727003000 +0800" channel="TV5.ph">
-    <title lang="en">KAPATID SUNDAY SPECIAL SAMJIN COMPANY ENGLISH CLASS TAG</title>
-  </programme>
-  <programme start="20260727003000 +0800" stop="20260727013000 +0800" channel="TV5.ph">
-    <title lang="en">ORAS NG HIMALA</title>
-  </programme>
-  <programme start="20260727013000 +0800" stop="20260727020000 +0800" channel="TV5.ph">
-    <title lang="en">Sign Off</title>
-  </programme>
-  <programme start="20260727020000 +0800" stop="20260727042800 +0800" channel="TV5.ph">
-    <title lang="en">Sign Off</title>
-  </programme>
-  <programme start="20260727042800 +0800" stop="20260727043000 +0800" channel="TV5.ph">
-    <title lang="en">Sign On</title>
-  </programme>
-  <programme start="20260727043000 +0800" stop="20260727053000 +0800" channel="TV5.ph">
-    <title lang="en">MGA KWENTONG MX3</title>
-  </programme>
-  <programme start="20260727053000 +0800" stop="20260727080000 +0800" channel="TV5.ph">
-    <title lang="en">GUD MORNING KAPATID LIVE</title>
-  </programme>
-  <programme start="20260727080000 +0800" stop="20260727083000 +0800" channel="TV5.ph">
-    <title lang="en">COOKING MASTERBOY</title>
-  </programme>
-  <programme start="20260727083000 +0800" stop="20260727103000 +0800" channel="TV5.ph">
-    <title lang="en">BLOCKBUSTER SA UMAGA TAXI 5 2018 TAG</title>
-  </programme>
-  <programme start="20260727103000 +0800" stop="20260727110000 +0800" channel="TV5.ph">
-    <title lang="en">FRONTLINE EXPRESS LIVE</title>
+  <programme start="20260728180000 +0800" stop="20260728200000 +0800" channel="SOLAR.SPORTS.ph">
+    <title lang="en">2026 MPBL</title>
   </programme>
   <programme start="20260727110000 +0800" stop="20260727120000 +0800" channel="TV5.ph">
     <title lang="en">FACE TO FACE WITH ATE KORING</title>
   </programme>
-  <programme start="20260727120000 +0800" stop="20260727143000 +0800" channel="TV5.ph">
+  <programme start="20260727120000 +0800" stop="20260727140000 +0800" channel="TV5.ph">
+    <title lang="en">E.A.T. Bulaga</title>
+  </programme>
+  <programme start="20260727140000 +0800" stop="20260727143000 +0800" channel="TV5.ph">
     <title lang="en">E.A.T. Bulaga</title>
   </programme>
   <programme start="20260727143000 +0800" stop="20260727151500 +0800" channel="TV5.ph">
@@ -7008,13 +7590,85 @@
   <programme start="20260727151500 +0800" stop="20260727160000 +0800" channel="TV5.ph">
     <title lang="en">FRONTLINE EXPRESS LIVE</title>
   </programme>
-  <programme start="20260727160000 +0800" stop="20260727173000 +0800" channel="TV5.ph">
+  <programme start="20260727160000 +0800" stop="20260727170000 +0800" channel="TV5.ph">
+    <title lang="en">SONA LIVE</title>
+  </programme>
+  <programme start="20260727170000 +0800" stop="20260727173000 +0800" channel="TV5.ph">
     <title lang="en">SONA LIVE</title>
   </programme>
   <programme start="20260727173000 +0800" stop="20260727181500 +0800" channel="TV5.ph">
     <title lang="en">UNA SA LAHAT</title>
   </programme>
   <programme start="20260727181500 +0800" stop="20260727200000 +0800" channel="TV5.ph">
+    <title lang="en">FRONTLINE PILIPINAS</title>
+  </programme>
+  <programme start="20260727200000 +0800" stop="20260727204500 +0800" channel="TV5.ph">
+    <title lang="en">SIGABO</title>
+  </programme>
+  <programme start="20260727204500 +0800" stop="20260727213000 +0800" channel="TV5.ph">
+    <title lang="en">SOMEONE SOMEDAY</title>
+  </programme>
+  <programme start="20260727213000 +0800" stop="20260727221500 +0800" channel="TV5.ph">
+    <title lang="en">A SECRET IN PRAGUE</title>
+  </programme>
+  <programme start="20260727221500 +0800" stop="20260727224500 +0800" channel="TV5.ph">
+    <title lang="en">FRONTLINE TONIGHT</title>
+  </programme>
+  <programme start="20260727224500 +0800" stop="20260727230000 +0800" channel="TV5.ph">
+    <title lang="en">VIBE NIGHTS PLUS</title>
+  </programme>
+  <programme start="20260727230000 +0800" stop="20260728000000 +0800" channel="TV5.ph">
+    <title lang="en">PIRAPIRASONG PARAISO</title>
+  </programme>
+  <programme start="20260728000000 +0800" stop="20260728010000 +0800" channel="TV5.ph">
+    <title lang="en">ORAS NG HIMALA</title>
+  </programme>
+  <programme start="20260728010000 +0800" stop="20260728020000 +0800" channel="TV5.ph">
+    <title lang="en">Sign Off</title>
+  </programme>
+  <programme start="20260728020000 +0800" stop="20260728042800 +0800" channel="TV5.ph">
+    <title lang="en">Sign Off</title>
+  </programme>
+  <programme start="20260728042800 +0800" stop="20260728043000 +0800" channel="TV5.ph">
+    <title lang="en">Sign On</title>
+  </programme>
+  <programme start="20260728043000 +0800" stop="20260728053000 +0800" channel="TV5.ph">
+    <title lang="en">MGA KWENTONG MX3</title>
+  </programme>
+  <programme start="20260728053000 +0800" stop="20260728080000 +0800" channel="TV5.ph">
+    <title lang="en">GUD MORNING KAPATID LIVE</title>
+  </programme>
+  <programme start="20260728080000 +0800" stop="20260728083000 +0800" channel="TV5.ph">
+    <title lang="en">COOKING MASTERBOY</title>
+  </programme>
+  <programme start="20260728083000 +0800" stop="20260728103000 +0800" channel="TV5.ph">
+    <title lang="en">BLOCKBUSTER SA UMAGA ANNA 2019 TAG</title>
+  </programme>
+  <programme start="20260728103000 +0800" stop="20260728110000 +0800" channel="TV5.ph">
+    <title lang="en">FRONTLINE EXPRESS LIVE</title>
+  </programme>
+  <programme start="20260728110000 +0800" stop="20260728120000 +0800" channel="TV5.ph">
+    <title lang="en">FACE TO FACE WITH ATE KORING</title>
+  </programme>
+  <programme start="20260728120000 +0800" stop="20260728143000 +0800" channel="TV5.ph">
+    <title lang="en">E.A.T. Bulaga</title>
+  </programme>
+  <programme start="20260728143000 +0800" stop="20260728151500 +0800" channel="TV5.ph">
+    <title lang="en">MY BESPREN EMMAN ANG TOTOONG LABAN</title>
+  </programme>
+  <programme start="20260728151500 +0800" stop="20260728160000 +0800" channel="TV5.ph">
+    <title lang="en">FRONTLINE EXPRESS LIVE</title>
+  </programme>
+  <programme start="20260728160000 +0800" stop="20260728164500 +0800" channel="TV5.ph">
+    <title lang="en">MANO PO LEGACY THE FAMILY FORTUNE</title>
+  </programme>
+  <programme start="20260728164500 +0800" stop="20260728173000 +0800" channel="TV5.ph">
+    <title lang="en">KNIGHT RIDER</title>
+  </programme>
+  <programme start="20260728173000 +0800" stop="20260728181500 +0800" channel="TV5.ph">
+    <title lang="en">UNA SA LAHAT</title>
+  </programme>
+  <programme start="20260728181500 +0800" stop="20260728200000 +0800" channel="TV5.ph">
     <title lang="en">FRONTLINE PILIPINAS</title>
   </programme>
 </tv>
