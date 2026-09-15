@@ -338,16 +338,6 @@
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
-  <programme start="20260914220000 +0800" stop="20260914223000 +0800" channel="ANC.ph">
-    <title lang="en">Tomorrow Today</title>
-  </programme>
-  <programme start="20260914223000 +0800" stop="20260914230000 +0800" channel="ANC.ph">
-    <title lang="en">Entrep Lab</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260914230000 +0800" stop="20260915000000 +0800" channel="ANC.ph">
-    <title lang="en">Beached</title>
-  </programme>
   <programme start="20260915000000 +0800" stop="20260915003000 +0800" channel="ANC.ph">
     <title lang="en">The World Tonight</title>
     <category lang="en">News</category>
@@ -377,21 +367,6 @@
   <programme start="20260915040000 +0800" stop="20260915043000 +0800" channel="ANC.ph">
     <title lang="en">Women of Style</title>
   </programme>
-  <programme start="20260914214500 +0800" stop="20260914224000 +0800" channel="AXN.ph">
-    <title lang="en">FBI: International</title>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20260914224000 +0800" stop="20260914233500 +0800" channel="AXN.ph">
-    <title lang="en">CIA</title>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260914233500 +0800" stop="20260915003000 +0800" channel="AXN.ph">
-    <title lang="en">FBI: International</title>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
   <programme start="20260915003000 +0800" stop="20260915012500 +0800" channel="AXN.ph">
     <title lang="en">CIA</title>
     <category lang="en">Drama</category>
@@ -413,67 +388,178 @@
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S7</episode-num>
   </programme>
-  <programme start="20260914210000 +0800" stop="20260914230000 +0800" channel="Cinema.One.ph">
-    <title lang="en">#Walang Forever</title>
-    <desc lang="en">Mia, a celebrated writer of romantic-comedy films, is at a turning point in her life which makes it difficult for her to believe that love could last. Everything comes to a head when Ethan returns, only for her to find out that he has become a cynic of lasting love because she broke his heart.</desc>
-    <credits>
-      <director>Dan Villegas</director>
-      <actor>Jennylyn Mercado</actor>
-      <actor>Jericho Rosales</actor>
-      <actor>Lorna Tolentino</actor>
-      <actor>Matet de Leon</actor>
-      <actor>Jerald Napoles</actor>
-      <actor>Kim Molina</actor>
-      <actor>Nico Antonio</actor>
-      <actor>Pepe Herrera</actor>
-      <actor>Cai Cortez</actor>
-      <actor>Juan Miguel Severo</actor>
-      <actor>Sebastian Castro</actor>
-      <actor>Dionne Monsanto</actor>
-      <producer>Joji Alonso</producer>
-      <producer>Bianca Balbuena</producer>
-    </credits>
-    <date>2015</date>
+  <programme start="20260915090000 +0800" stop="20260915110000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Haba Baba Doo Puti Puti Poo</title>
+    <date>1997</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260915110000 +0800" stop="20260915130000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Super Noypi</title>
+    <credits>
+      <actor>Mark Herras</actor>
+      <actor>Jennylyn Mercado</actor>
+      <actor>John Prats</actor>
+      <actor>Polo Ravales</actor>
+      <actor>Katrina Halili</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://www.clickthecity.com/movies/img/10464.jpg" />
+    <rating system="MTRCB">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260915130000 +0800" stop="20260915150000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Kusina Kings</title>
+    <desc lang="en">It tells the story of easy-go-lucky Ronnie and chef restaurateur Benjie who have been best friends since high school. When Benjie decided to put up his own restaurant, Ronnie has never left his side especially that Benjie has joined a shady \"Kusina King Challenge\" to save the restaurant.</desc>
+    <credits>
+      <director>Victor Villanueva</director>
+      <actor>Zanjoe Marudo</actor>
+      <actor>Empoy Marquez</actor>
+      <actor>Ryan Bang</actor>
+      <actor>Nathalie Hart</actor>
+      <actor>Maxine Medina</actor>
+      <actor>Hyubs Azarcon</actor>
+      <writer>Victor Villanueva</writer>
+      <writer>Joma  Labayen</writer>
+      <writer>Jeps Gallon</writer>
+      <writer>Enrico C. Santos</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260915150000 +0800" stop="20260915170000 +0800" channel="Cinema.One.ph">
+    <title lang="en">My Perfect You</title>
+    <desc lang="en">Burn, a man who’s down in the dumps, and Abi, the girl who helps him see the light again. Will they find the perfect love for them or will they have to fave heartbreak again?</desc>
+    <credits>
+      <director>Cathy Garcia-Molina</director>
+      <actor>Gerald Anderson</actor>
+      <actor>Tonton Gutierrez</actor>
+      <actor>Janus Del Prado</actor>
+      <actor>Dimples Romana</actor>
+      <actor>Wilma Doesnt</actor>
+      <actor>RJ Ledesma</actor>
+      <actor>Paolo O'Hara</actor>
+      <actor>Xia Vigor</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Romance</category>
     <country lang="en">Philippines</country>
     <rating system="MTRCB">
       <value>PG</value>
     </rating>
-    <star-rating system="Critics">
-      <value>2.0</value>
-    </star-rating>
   </programme>
-  <programme start="20260914230000 +0800" stop="20260915010000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Markova: Comfort Gay</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20260915010000 +0800" stop="20260915030000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Pagsaluhan</title>
+  <programme start="20260915170000 +0800" stop="20260915190000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Fantastica</title>
+    <desc lang="en">Belat, her mother Fec and adopted siblings Daks, Pepe and Junjun face the possibility of being evicted from their land as they struggle to save their carnival. Hoping to prevent the carnival from closing, they turn to Prince, a man from Belat`s past, for help. He promises to give them a hand if they first help him look for the lost princesses Rapunselya, Maulan and Ariella so they can save the magical land, Fantastica.</desc>
     <credits>
-      <director>Cesar SB. Abella</director>
+      <actor>Vice Ganda</actor>
+      <actor>Richard Gutierrez</actor>
+      <actor>Dingdong Dantes</actor>
+      <actor>Ryan Bang</actor>
+      <actor>Ronnie Alonte</actor>
+      <actor>Loisa Andalio</actor>
+      <actor>Bela Padilla</actor>
+      <actor>Jaclyn Jose</actor>
+      <actor>Maymay  Entrata</actor>
+      <actor>Donny Pangilinan</actor>
+      <actor>Lassy Marquez</actor>
+      <actor>Chokoleit</actor>
+      <actor>Johnny Revilla</actor>
+      <actor>Marian Rivera</actor>
+      <actor>Sarah Lahbati</actor>
+      <actor>Joven Olvido</actor>
+      <actor>Joshua Colet</actor>
+      <actor>Luisa Lee</actor>
+      <writer>Danno Kristoper C. Mariquit</writer>
+      <writer>Moira Lang</writer>
+      <producer>Veronique del Rosario-Corpus</producer>
+      <producer>Vic Del Rosario Jr.</producer>
+      <producer>Moira Lang</producer>
     </credits>
-    <date>2002</date>
+    <date>2018</date>
     <category lang="en">Movie</category>
-    <category lang="en">Sexy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <country lang="en">Philippines</country>
     <rating system="MTRCB">
-      <value>R</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260914215500 +0800" stop="20260914224500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Cold Case Files: Dead West</title>
-    <category lang="en">Crime-Mystery</category>
-    <category lang="en">Documentary</category>
+  <programme start="20260915190000 +0800" stop="20260915210000 +0800" channel="Cinema.One.ph">
+    <title lang="en">The Strangers</title>
+    <desc lang="en">A family taking a roadtrip breaks down in the middle of nowhere, and gets caught in the middle of a conflict between a small village and a mysterious hunter that lives in the woods.</desc>
+    <credits>
+      <director>Lawrence Fajardo</director>
+      <actor>Enchong Dee</actor>
+      <actor>Julia Montes</actor>
+      <actor>Enrique Gil</actor>
+      <actor>Jaime Fabregas</actor>
+      <actor>Cherry Pie Picache</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <icon src="http://www.clickthecity.com/movies/img/13848.jpg" />
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>PG</value>
+    </rating>
+    <star-rating system="Critics">
+      <value>2.5</value>
+    </star-rating>
   </programme>
-  <programme start="20260914224500 +0800" stop="20260914233500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Evil Up Close S6</title>
-    <category lang="en">Documentary</category>
+  <programme start="20260915210000 +0800" stop="20260915230000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Otso-Otso, Pamela-Mela Wan</title>
+    <credits>
+      <actor>Bayani Agbayani</actor>
+      <actor>Vhong Navarro</actor>
+      <actor>Pinky Marquez</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <rating system="MTRCB">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260914233500 +0800" stop="20260915002500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Accused: Did I Do It?</title>
-    <category lang="en">Documentary</category>
+  <programme start="20260915230000 +0800" stop="20260916010000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Open</title>
+    <credits>
+      <director>Andoy Ranay</director>
+      <actor>Arci Munoz</actor>
+      <actor>JC Santos</actor>
+      <actor>Ina  Raymundo</actor>
+      <actor>Sofia Andres</actor>
+      <actor>Ivana Alawi</actor>
+      <actor>Jenny Miller</actor>
+      <writer>Dwein  Baltazar</writer>
+      <writer>Katherine Labayen</writer>
+      <writer>Wanggo Gallaga</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>R-13</value>
+    </rating>
+  </programme>
+  <programme start="20260916010000 +0800" stop="20260916030000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Donselya</title>
   </programme>
   <programme start="20260915002500 +0800" stop="20260915012000 +0800" channel="Crime.Investigation.ph">
     <title lang="en">The Double Kidnap Of Teddy Wang</title>
@@ -491,88 +577,6 @@
   <programme start="20260915031000 +0800" stop="20260915040500 +0800" channel="Crime.Investigation.ph">
     <title lang="en">After The First 48 S16</title>
     <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260914093000 +0800" stop="20260914110000 +0800" channel="GMA.ph">
-    <title lang="en">Kapuso Movie Festival</title>
-  </programme>
-  <programme start="20260914110000 +0800" stop="20260914120000 +0800" channel="GMA.ph">
-    <title lang="en">Tiktoclock</title>
-  </programme>
-  <programme start="20260914120000 +0800" stop="20260914143000 +0800" channel="GMA.ph">
-    <title lang="en">It's Showtime</title>
-    <category lang="en">Game</category>
-    <category lang="en">Variety Show</category>
-  </programme>
-  <programme start="20260914143000 +0800" stop="20260914152000 +0800" channel="GMA.ph">
-    <title lang="en">Born To Shine</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914152000 +0800" stop="20260914160500 +0800" channel="GMA.ph">
-    <title lang="en">Kamao</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914160500 +0800" stop="20260914163000 +0800" channel="GMA.ph">
-    <title lang="en">Fast Talk with Boy Abunda</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260914163000 +0800" stop="20260914171000 +0800" channel="GMA.ph">
-    <title lang="en">Maria Clara At Ibarra</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20260914171000 +0800" stop="20260914173500 +0800" channel="GMA.ph">
-    <title lang="en">Branding In Seongsu</title>
-    <category lang="en">Romance</category>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260914173500 +0800" stop="20260914183000 +0800" channel="GMA.ph">
-    <title lang="en">Family Feud</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260914183000 +0800" stop="20260914200000 +0800" channel="GMA.ph">
-    <title lang="en">24 Oras</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260914200000 +0800" stop="20260914205000 +0800" channel="GMA.ph">
-    <title lang="en">The Master Cutter</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20260914205000 +0800" stop="20260914213500 +0800" channel="GMA.ph">
-    <title lang="en">Task Force Firewall</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20260914213500 +0800" stop="20260914222000 +0800" channel="GMA.ph">
-    <title lang="en">First Yaya</title>
-  </programme>
-  <programme start="20260914222000 +0800" stop="20260914230000 +0800" channel="GMA.ph">
-    <title lang="en">Saksi</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260914230000 +0800" stop="20260914233000 +0800" channel="GMA.ph">
-    <title lang="en">You Touched My Heart</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914205000 +0800" stop="20260914223000 +0800" channel="GTV.ph">
-    <title lang="en">G! Flicks</title>
-    <category lang="en">Teens</category>
-  </programme>
-  <programme start="20260914223000 +0800" stop="20260914230500 +0800" channel="GTV.ph">
-    <title lang="en">Task Force Firewall</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20260914230500 +0800" stop="20260914232500 +0800" channel="GTV.ph">
-    <title lang="en">State Of The Nation</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260914220000 +0800" stop="20260914231500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Sana Bukas Pa Ang Kahapon</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914231500 +0800" stop="20260915000000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Los Bastardos</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260915000000 +0800" stop="20260915004500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Bukas Na Lang Kita Mamahalin</title>
@@ -599,41 +603,9 @@
     <title lang="en">Sana Bukas Pa Ang Kahapon</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260914213000 +0800" stop="20260914221500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">A Secret In Prague</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914221500 +0800" stop="20260914224500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Falling Into Your Smile</title>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260914224500 +0800" stop="20260914231500 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">The World Tonight</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260914231500 +0800" stop="20260915020000 +0800" channel="Kapamilya.Channel.ph">
-    <title lang="en">Movie Central Presents</title>
-    <category lang="en">Special</category>
-  </programme>
   <programme start="20260915020000 +0800" stop="20260915034500 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
-  </programme>
-  <programme start="20260914213000 +0800" stop="20260914223000 +0800" channel="Net.25.ph">
-    <title lang="en">Mata Ng Agila International</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260914223000 +0800" stop="20260914230000 +0800" channel="Net.25.ph">
-    <title lang="en">REV</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260914230000 +0800" stop="20260914233000 +0800" channel="Net.25.ph">
-    <title lang="en">In Good Shape</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260914233000 +0800" stop="20260915000000 +0800" channel="Net.25.ph">
-    <title lang="en">Tomorrow Today</title>
   </programme>
   <programme start="20260915000000 +0800" stop="20260915003000 +0800" channel="Net.25.ph">
     <title lang="en">See For Yourself</title>
@@ -660,33 +632,6 @@
   <programme start="20260915033000 +0800" stop="20260915040000 +0800" channel="Net.25.ph">
     <title lang="en">Turning Point</title>
   </programme>
-  <programme start="20260914213000 +0800" stop="20260914233000 +0800" channel="PBO.ph">
-    <title lang="en">Jowable</title>
-    <desc lang="en">Despite being surrounded and supported by friends, Elsa still feels miserable and envious of every couple she sees. Finally, Lady Luck smiles upon her and she meets a guy, and the attraction is instantly mutual.</desc>
-    <credits>
-      <director>Darryl  Yap</director>
-      <actor>Kim Molina</actor>
-      <actor>Jerald Napoles</actor>
-      <actor>Kakai Bautista</actor>
-      <actor>Fabio Ide</actor>
-      <actor>Cai Cortez</actor>
-      <actor>Chad  Kinis</actor>
-      <writer>Darryl  Yap</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <country lang="en">Philippines</country>
-    <rating system="MTRCB">
-      <value>R-13</value>
-    </rating>
-    <star-rating system="Critics">
-      <value>2.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20260914233000 +0800" stop="20260915013000 +0800" channel="PBO.ph">
-    <title lang="en">Mang Jose</title>
-  </programme>
   <programme start="20260915013000 +0800" stop="20260915030000 +0800" channel="PBO.ph">
     <title lang="en">Ang Lalake Sa Parola</title>
     <credits>
@@ -709,9 +654,6 @@
       <value>R-18</value>
     </rating>
   </programme>
-  <programme start="20260914220000 +0800" stop="20260915000000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Winasak Na Pangarap</title>
-  </programme>
   <programme start="20260915000000 +0800" stop="20260915010000 +0800" channel="Solar.Flix.ph">
     <title lang="en">Forbidden Fruit S2</title>
     <category lang="en">Drama</category>
@@ -725,40 +667,9 @@
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260914213000 +0800" stop="20260914221500 +0800" channel="TV5.ph">
-    <title lang="en">A Secret In Prague</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914221500 +0800" stop="20260914224500 +0800" channel="TV5.ph">
-    <title lang="en">Frontline Tonight</title>
-    <category lang="en">News</category>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260914224500 +0800" stop="20260914230000 +0800" channel="TV5.ph">
-    <title lang="en">Vibe Nights</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260914230000 +0800" stop="20260915000000 +0800" channel="TV5.ph">
-    <title lang="en">Midnight Dj</title>
-  </programme>
   <programme start="20260915000000 +0800" stop="20260915043000 +0800" channel="TV5.ph">
     <title lang="en">Oras Ng Himala</title>
     <category lang="en">Religion</category>
-  </programme>
-  <programme start="20260914200000 +0800" stop="20260914221500 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Hindi Ako Ander, Tanong Mo Kay Kumander</title>
-    <credits>
-      <actor>Bing Loyzaga</actor>
-      <actor>Pilita Corrales</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20260914221500 +0800" stop="20260915001500 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Silang Mga Sisiw sa Lansangan</title>
-    <category lang="en">Movie</category>
   </programme>
   <programme start="20260915001500 +0800" stop="20260915020000 +0800" channel="VIVA.Cinema.ph">
     <title lang="en">Blondie</title>
@@ -776,19 +687,6 @@
     <title lang="en">Kailan Tama Ang Mali</title>
     <category lang="en">Drama</category>
     <category lang="en">Movie</category>
-  </programme>
-  <programme start="20260914213000 +0800" stop="20260914221500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">A Secret In Prague</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260914221500 +0800" stop="20260914224500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Falling Into Your Smile</title>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260914224500 +0800" stop="20260914231500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Balitang A2Z</title>
-    <category lang="en">News</category>
   </programme>
 <channel id="A2Z.ph">
     <display-name lang="en">A2Z</display-name>
