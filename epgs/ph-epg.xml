@@ -338,32 +338,43 @@
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
-  <programme start="20260926000000 +0800" stop="20260926003000 +0800" channel="ANC.ph">
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="ANC.ph">
+    <title lang="en">Asian Le Mans Series</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926230000 +0800" stop="20260927000000 +0800" channel="ANC.ph">
+    <title lang="en">Metabeats</title>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260927000000 +0800" stop="20260927003000 +0800" channel="ANC.ph">
     <title lang="en">The World Tonight</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260926003000 +0800" stop="20260926010000 +0800" channel="ANC.ph">
-    <title lang="en">Insight with April Lee-Tan</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260926010000 +0800" stop="20260926020000 +0800" channel="ANC.ph">
-    <title lang="en">Headstart with Karen Davila</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20260926020000 +0800" stop="20260926023000 +0800" channel="ANC.ph">
+  <programme start="20260927003000 +0800" stop="20260927010000 +0800" channel="ANC.ph">
     <title lang="en">Local Legends</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20260926023000 +0800" stop="20260926030000 +0800" channel="ANC.ph">
-    <title lang="en">On Cue</title>
+  <programme start="20260927010000 +0800" stop="20260927013000 +0800" channel="ANC.ph">
+    <title lang="en">Tao Po!</title>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20260926030000 +0800" stop="20260926033000 +0800" channel="ANC.ph">
-    <title lang="en">EIC on The Move</title>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260926033000 +0800" stop="20260926040000 +0800" channel="ANC.ph">
+  <programme start="20260927013000 +0800" stop="20260927020000 +0800" channel="ANC.ph">
     <title lang="en">At The Moment</title>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20260927020000 +0800" stop="20260927030000 +0800" channel="ANC.ph">
+    <title lang="en">24x24</title>
+  </programme>
+  <programme start="20260927030000 +0800" stop="20260927033000 +0800" channel="ANC.ph">
+    <title lang="en">On Cue</title>
+  </programme>
+  <programme start="20260927033000 +0800" stop="20260927040000 +0800" channel="ANC.ph">
+    <title lang="en">LSS: The Martin Nievera Show</title>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260927040000 +0800" stop="20260927043000 +0800" channel="ANC.ph">
+    <title lang="en">G Diaries: Stronger Together</title>
+    <category lang="en">Lifestyle</category>
   </programme>
   <programme start="20260926011000 +0800" stop="20260926020500 +0800" channel="AXN.ph">
     <title lang="en">CIA</title>
@@ -521,20 +532,32 @@
     <title lang="en">Kung Tawagin Siya'y Animal</title>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20260926003500 +0800" stop="20260926012500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Sleeping With A Killer S2</title>
+  <programme start="20260926215500 +0800" stop="20260926224500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Taking The Stand S4</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20260926012500 +0800" stop="20260926021500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Evil Up Close S6</title>
+  <programme start="20260926224500 +0800" stop="20260926233500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Murder In The 21st</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20260926021500 +0800" stop="20260926031000 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Evil Up Close S6</title>
+  <programme start="20260926233500 +0800" stop="20260927002500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">First Blood S1</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20260926031000 +0800" stop="20260926040500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Alaska State Troopers S9</title>
+  <programme start="20260927002500 +0800" stop="20260927012000 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Fugitive Hunters: Mexico</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260927012000 +0800" stop="20260927021500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Taking The Stand S4</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260927021500 +0800" stop="20260927031000 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Murder In The 21st</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260927031000 +0800" stop="20260927040500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Interrogation Raw S2</title>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20260926100000 +0800" stop="20260926101500 +0800" channel="GMA.ph">
@@ -637,7 +660,19 @@
     <title lang="en">Darating Ang Umaga</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260926020000 +0800" stop="20260926034500 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20260926214500 +0800" stop="20260926224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260926224500 +0800" stop="20260927003000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Y-Speak 2.0</title>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20260927003000 +0800" stop="20260927020000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20260927020000 +0800" stop="20260927040000 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
   </programme>
@@ -730,55 +765,60 @@
     <title lang="en">Trabaho Ko To</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20260926013000 +0800" stop="20260926031500 +0800" channel="PBO.ph">
-    <title lang="en">Nag-aapoy Na Langit</title>
+  <programme start="20260926213000 +0800" stop="20260926233000 +0800" channel="PBO.ph">
+    <title lang="en">Binhi</title>
+    <desc lang="en">A young couple with a child on the way tries to start over in Baguio. But the house they're living in proves to be home to something otherworldly.</desc>
     <credits>
-      <actor>Sabrina M.</actor>
+      <director>Pedring Lopez</director>
+      <actor>Joem Bascon</actor>
+      <actor>Mercedes Cabral</actor>
+      <actor>Roxanne Barcelo</actor>
+      <actor>Cholo Barretto</actor>
+      <actor>Jef Gaitan</actor>
+      <actor>Kariz Espinosa</actor>
+      <actor>Akihiro Blanco</actor>
     </credits>
+    <date>2015</date>
     <category lang="en">Movie</category>
-    <category lang="en">Sexy</category>
+    <category lang="en">Horror</category>
+    <icon src="http://www.clickthecity.com/movies/img/15044.jpg" />
+    <country lang="en">Philippines</country>
     <rating system="MTRCB">
-      <value>R</value>
+      <value>PG</value>
     </rating>
+    <star-rating system="Critics">
+      <value>2.0</value>
+    </star-rating>
   </programme>
-  <programme start="20260926080000 +0800" stop="20260926130000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Forbidden Fruit S2</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260926130000 +0800" stop="20260926180000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Recipe Of Love</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260926180000 +0800" stop="20260926200000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Pauwi Na</title>
+  <programme start="20260926233000 +0800" stop="20260927013000 +0800" channel="PBO.ph">
+    <title lang="en">Nuuk</title>
+    <desc lang="en">Elaisa is a middle-aged Filipino widow who lives in Nuuk with her rebellious adult son Karl. She meets Mark Alvarez, a visiting Filipino seaman. He is friendly and caring. But a blizzard is threatening to cause more havoc in her life.</desc>
     <credits>
-      <director>Paolo  Villaluna</director>
-      <actor>Bembol Roco</actor>
-      <actor>Cherry Pie Picache</actor>
-      <actor>Jerald Napoles</actor>
-      <actor>Meryll Soriano</actor>
-      <actor>Jess Mendoza</actor>
+      <director>Veronica Velasco</director>
+      <actor>Aga Muhlach</actor>
+      <actor>Alice Dixson</actor>
+      <producer>Erwin  Blanco</producer>
+      <producer>Veronique del Rosario-Corpus</producer>
+      <producer>Vic Del Rosario Jr.</producer>
+      <producer>Aga Muhlach</producer>
     </credits>
-    <date>2016</date>
+    <date>2019</date>
     <category lang="en">Movie</category>
-    <category lang="en">Indie</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Romance</category>
     <country lang="en">Philippines</country>
     <rating system="MTRCB">
       <value>R-13</value>
     </rating>
   </programme>
-  <programme start="20260926200000 +0800" stop="20260926220000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">1957</title>
-    <credits>
-      <director>Hubert  Tiri</director>
-      <actor>Ronwaldo Martin</actor>
-      <actor>Richard Quan</actor>
-      <actor>Menggie Cobarrubias</actor>
-    </credits>
-    <date>2018</date>
+  <programme start="20260927013000 +0800" stop="20260927030000 +0800" channel="PBO.ph">
+    <title lang="en">Manikang Papel</title>
+    <date>2008</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <country lang="en">Philippines</country>
+    <rating system="MTRCB">
+      <value>R-18</value>
+    </rating>
   </programme>
   <programme start="20260926220000 +0800" stop="20260927000000 +0800" channel="Solar.Flix.ph">
     <title lang="en">Linsanity</title>
@@ -850,48 +890,6 @@
     <rating system="MTRCB">
       <value>R-18</value>
     </rating>
-  </programme>
-  <programme start="20260926100000 +0800" stop="20260926120000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Blockbuster Sa Umaga</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20260926120000 +0800" stop="20260926143000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">It's Showtime</title>
-    <category lang="en">Game</category>
-    <category lang="en">Variety Show</category>
-  </programme>
-  <programme start="20260926143000 +0800" stop="20260926160000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Miss Behave</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Crime-Mystery</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260926160000 +0800" stop="20260926164500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Tao Po!</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260926164500 +0800" stop="20260926170000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Philippines Oddest Jobs</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260926170000 +0800" stop="20260926174500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">SOCO</title>
-  </programme>
-  <programme start="20260926174500 +0800" stop="20260926184500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">TV Patrol Weekend</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260926184500 +0800" stop="20260926193000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Tao Po!</title>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20260926193000 +0800" stop="20260926203000 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Kapamilya Deal Or No Deal S6</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20260926203000 +0800" stop="20260926214500 +0800" channel="a2z.Channel.11.ph">
-    <title lang="en">Everybody Sing S4</title>
-    <category lang="en">Game</category>
   </programme>
   <programme start="20260926214500 +0800" stop="20260926224500 +0800" channel="a2z.Channel.11.ph">
     <title lang="en">Maalaala Mo Kaya</title>
