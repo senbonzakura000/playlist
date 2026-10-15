@@ -166,11 +166,7 @@
     <title lang="en">What Lies Beneath</title>
     <desc lang="en">What Lies Beneath.</desc>
   </programme>
-  <programme start="20261014071500 +0000" stop="20261014080000 +0000" channel="A2Z.ph">
-    <title lang="en">Cant Buy Me Love</title>
-    <desc lang="en">Cant Buy Me Love.</desc>
-  </programme>
-  <programme start="20261014080000 +0000" stop="20261014093000 +0000" channel="A2Z.ph">
+  <programme start="20261014071500 +0000" stop="20261014093000 +0000" channel="A2Z.ph">
     <title lang="en">Afternoon Zinema</title>
     <desc lang="en">Afternoon Zinema.</desc>
   </programme>
@@ -250,11 +246,7 @@
     <title lang="en">What Lies Beneath</title>
     <desc lang="en">What Lies Beneath.</desc>
   </programme>
-  <programme start="20261015071500 +0000" stop="20261015080000 +0000" channel="A2Z.ph">
-    <title lang="en">Cant Buy Me Love</title>
-    <desc lang="en">Cant Buy Me Love.</desc>
-  </programme>
-  <programme start="20261015080000 +0000" stop="20261015093000 +0000" channel="A2Z.ph">
+  <programme start="20261015071500 +0000" stop="20261015093000 +0000" channel="A2Z.ph">
     <title lang="en">Afternoon Zinema</title>
     <desc lang="en">Afternoon Zinema.</desc>
   </programme>
@@ -334,11 +326,7 @@
     <title lang="en">What Lies Beneath</title>
     <desc lang="en">What Lies Beneath.</desc>
   </programme>
-  <programme start="20261016071500 +0000" stop="20261016080000 +0000" channel="A2Z.ph">
-    <title lang="en">Cant Buy Me Love</title>
-    <desc lang="en">Cant Buy Me Love.</desc>
-  </programme>
-  <programme start="20261016080000 +0000" stop="20261016093000 +0000" channel="A2Z.ph">
+  <programme start="20261016071500 +0000" stop="20261016093000 +0000" channel="A2Z.ph">
     <title lang="en">Afternoon Zinema</title>
     <desc lang="en">Afternoon Zinema.</desc>
   </programme>
@@ -438,13 +426,13 @@
     <title lang="en">Kapamilya Deal Or No Deal</title>
     <desc lang="en">Kapamilya Deal Or No Deal.</desc>
   </programme>
-  <programme start="20261017123000 +0000" stop="20261017134500 +0000" channel="A2Z.ph">
-    <title lang="en">Everybody Sing</title>
-    <desc lang="en">Everybody Sing.</desc>
+  <programme start="20261017123000 +0000" stop="20261017133000 +0000" channel="A2Z.ph">
+    <title lang="en">Maalala Mo Kaya</title>
+    <desc lang="en">Maalala Mo Kaya.</desc>
   </programme>
-  <programme start="20261017134500 +0000" stop="20261017144500 +0000" channel="A2Z.ph">
-    <title lang="en">MMK</title>
-    <desc lang="en">MMK.</desc>
+  <programme start="20261017133000 +0000" stop="20261017144500 +0000" channel="A2Z.ph">
+    <title lang="en">Matteo G Primetime</title>
+    <desc lang="en">Matteo G Primetime.</desc>
   </programme>
   <programme start="20261017144500 +0000" stop="20261017220000 +0000" channel="A2Z.ph">
     <title lang="en">Jesus The Healer</title>
@@ -2019,25 +2007,45 @@
     <title lang="en">Knowledge Channel</title>
     <desc lang="en">Knowledge Channel.</desc>
   </programme>
-  <programme start="20261014000000 +0800" stop="20261014003000 +0800" channel="Net.25.ph">
-    <title lang="en">Ang Iglesia Ni Cristo</title>
+  <programme start="20261014213000 +0800" stop="20261014223000 +0800" channel="Net.25.ph">
+    <title lang="en">Mata Ng Agila International</title>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20261014003000 +0800" stop="20261014010000 +0800" channel="Net.25.ph">
+  <programme start="20261014223000 +0800" stop="20261014230000 +0800" channel="Net.25.ph">
+    <title lang="en">In Good Shape</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261014230000 +0800" stop="20261014233000 +0800" channel="Net.25.ph">
+    <title lang="en">REV</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261014233000 +0800" stop="20261015000000 +0800" channel="Net.25.ph">
+    <title lang="en">Global Us</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261015000000 +0800" stop="20261015003000 +0800" channel="Net.25.ph">
+    <title lang="en">See For Yourself</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261015003000 +0800" stop="20261015010000 +0800" channel="Net.25.ph">
     <title lang="en">Ti Pudno A Dalan</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20261014010000 +0800" stop="20261014020000 +0800" channel="Net.25.ph">
-    <title lang="en">Your Light Forever</title>
+  <programme start="20261015010000 +0800" stop="20261015013000 +0800" channel="Net.25.ph">
+    <title lang="en">INC international Edition</title>
+    <category lang="en">Special</category>
   </programme>
-  <programme start="20261014020000 +0800" stop="20261014023000 +0800" channel="Net.25.ph">
+  <programme start="20261015013000 +0800" stop="20261015020000 +0800" channel="Net.25.ph">
+    <title lang="en">Gabay Sa Mabuting Asal</title>
+  </programme>
+  <programme start="20261015020000 +0800" stop="20261015023000 +0800" channel="Net.25.ph">
     <title lang="en">Executive News Feature</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261014023000 +0800" stop="20261014033000 +0800" channel="Net.25.ph">
-    <title lang="en">INCinema</title>
-    <category lang="en">Special</category>
+  <programme start="20261015023000 +0800" stop="20261015033000 +0800" channel="Net.25.ph">
+    <title lang="en">Landas Ng Buhay</title>
   </programme>
-  <programme start="20261014033000 +0800" stop="20261014040000 +0800" channel="Net.25.ph">
+  <programme start="20261015033000 +0800" stop="20261015040000 +0800" channel="Net.25.ph">
     <title lang="en">Turning Point</title>
   </programme>
   <programme start="20261014090000 +0800" stop="20261014110000 +0800" channel="PBO.ph">
