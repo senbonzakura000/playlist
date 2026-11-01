@@ -132398,15 +132398,6 @@
     <display-name lang="de">Sky Sport Top Event</display-name>
     <url>http://www.tvtoday.de</url>
   </channel>
-  <programme start="20261101002500 +0000" stop="20261101022500 +0000" channel="sportdigital.Fussball.de">
-    <title lang="de">Fußball: A-League</title>
-    <sub-title lang="de">Macarthur FC – Western Sydney Wanderers (3. Spieltag)</sub-title>
-    <desc lang="de">Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
-    <country lang="de">AUS</country>
-  </programme>
   <programme start="20261101022500 +0000" stop="20261101042500 +0000" channel="sportdigital.Fussball.de">
     <title lang="de">Fußball: EFL-Cup</title>
     <sub-title lang="de">Liverpool FC – FC Chelsea (4. Runde)</sub-title>
@@ -132827,13 +132818,123 @@
     <icon src="http://img.tvspielfilm.de/39/27/f1/6a46e77d37d24c784ff12739.jpeg" />
     <country lang="de">GB</country>
   </programme>
-  <programme start="20261101004500 +0000" stop="20261101024500 +0000" channel="Sky.Sport.Bundesliga.de">
-    <title lang="de">Fußball: Bundesliga</title>
-    <sub-title lang="de">FC Bayern München – Borussia Dortmund, tipico Topspiel der Woche, 8. Spieltag</sub-title>
-    <desc lang="de">Der Klassiker: Die Bayern empfangen den BVB zum großen Duell. Bleiben die Münchner zu Hause souverän oder kann Dortmund punkten? (Senderinfo).</desc>
-    <category lang="de">1. Bundesliga</category>
-    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+  <programme start="20261104054500 +0000" stop="20261104074500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Scottish Premiership</title>
+    <sub-title lang="de">Falkirk FC – Celtic Glasgow (12. Spieltag)</sub-title>
+    <desc lang="de">Die Scottish Premiership ist seit 2013 die höchste Fußballliga in Schottland und gehört zur Scottish Professional Football League. 2013 wurde sie als Nachfolger für die Scottish Premier League gegründet.  (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/b8/a5/11/6aafbc5e207c32108a11a5b8.jpeg" />
+  </programme>
+  <programme start="20261104074500 +0000" stop="20261104094500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Liga Profesional</title>
+    <sub-title lang="de">Boca Juniors – CA River Plate (15. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20261104094500 +0000" stop="20261104101500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Polen! Alle Tore</title>
+    <sub-title lang="de">Highlights Ekstraklasa (13. Spieltag)</sub-title>
+    <desc lang="de">Hier können die Zuschauer die beeindruckendsten Tore der höchsten polnischen Liga nochmals sehen. Alle Tore werden von renommierten Fußball-Experten kommentiert. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/8a/4b/df/69c193ecf8d1137692df4b8a.jpeg" />
     <country lang="de">D</country>
+  </programme>
+  <programme start="20261104101500 +0000" stop="20261104104500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Portugal! Alle Tore</title>
+    <sub-title lang="de">Highlights Primeira Liga (10. Spieltag)</sub-title>
+    <desc lang="de">Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/01/f3/a0/69a72603f8d1137692a0f301.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104104500 +0000" stop="20261104130000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">9. Spieltag: Manchester City – Brighton &amp; Hove</sub-title>
+    <desc lang="de">Die teuerste und die vielleicht auch beste Liga der Welt im Mutterland des Fußballs. Alle Spiele, alle Spieler, die Trainer und jede Menge Hintergrundinfos aus den Stadien und Trainingsplätzen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/39/27/f1/6a46e77d37d24c784ff12739.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104150000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Glasgow Rangers – FC Aberdeen</title>
+    <sub-title lang="de">Scottish League Cup (Halbfinale)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/7e/be/42/6ac6965d207c32108a42be7e.jpeg" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104170000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Scottish League Cup</title>
+    <sub-title lang="de">Heart of Midlothian – FC Hibernian (Halbfinale)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/f4/bd/d0/69da268c542c4c3bbed0bdf4.jpeg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104174500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore! Das internationale Fussballmagazin</title>
+    <sub-title lang="de">Tore und Ergebnisse international</sub-title>
+    <desc lang="de">Gezeigt werden Szenen aus der Eredivisie (Niederlande), Liga NOS (Portugal), Hyundai A-League (Australien), J. League (Japan) sowie die Copa Libertadores, Copa Sudamericana und Copa do Brasil. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/95/cb/1b/6ab3f81f207c32108a1bcb95.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104174500 +0000" stop="20261104181500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Australien! Alle Tore</title>
+    <sub-title lang="de">Highlights A-League (3. Spieltag)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/c8/65/eb/6a9a7fcd207c32108aeb65c8.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104181500 +0000" stop="20261104184500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Saudi-Arabien! Alle Tore</title>
+    <sub-title lang="de">Highlights Saudi Pro League (13. Spieltag)</sub-title>
+    <desc lang="de">Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/40/18/c7/6a88bcee207c32108ac71840.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104184500 +0000" stop="20261104191500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Argentinien! Alle Tore</title>
+    <sub-title lang="de">Highlights Liga Profesional Clausura (15. Spieltag)</sub-title>
+    <desc lang="de">Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von "scooore" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/94/f1/a0/69a725fff8d1137692a0f194.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104191500 +0000" stop="20261104211500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Eredivisie</title>
+    <sub-title lang="de">Feyenoord Rotterdam – Fortuna Sittard (11. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20261104211500 +0000" stop="20261104231500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Liga Profesional</title>
+    <sub-title lang="de">CA Velez Sarsfield – CA San Lorenzo (15. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20261104231500 +0000" stop="20261105011500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Heart of Midlothian – FC Hibernian</title>
+    <sub-title lang="de">Scottish League Cup (Halbfinale)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/f4/bd/d0/69da268c542c4c3bbed0bdf4.jpeg" />
   </programme>
   <programme start="20261101024500 +0000" stop="20261101044500 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: 2. Bundesliga</title>
@@ -133490,21 +133591,189 @@
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101010000 +0000" channel="Sky.Sport.Premier.League.de">
-    <title lang="de">Fußball: Premier League</title>
-    <sub-title lang="de">Highlights Samstag, 9. Spieltag</sub-title>
-    <desc lang="de">Die Spieltags-Highlights der Premier League in kompakter Form. (Senderinfo).</desc>
+  <programme start="20261104040000 +0000" stop="20261104043000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">90in30: FCB – BVB, 8. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Bundesliga in komprimierter Form. (Senderinfo).</desc>
     <date>2026</date>
-    <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="Sky.Sport.Premier.League.de">
-    <title lang="de">Fußball: Premier League</title>
-    <sub-title lang="de">Coventry City – AFC Sunderland, 9. Spieltag</sub-title>
-    <desc lang="de">Zitterpartie: Sunderland rettete zuletzt ein Remis gegen Leeds. Um aus dem Tabellenkeller zu kommen, muss ein Sieg her. Gelingt das gegen Coventry City? (Senderinfo).</desc>
+  <programme start="20261104043000 +0000" stop="20261104044500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Torparade 10. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104044500 +0000" stop="20261104050000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Torparade 8. Spieltag</sub-title>
+    <desc lang="de">Tore, Tore und nochmals Tore: Sky zeigt dir die Treffer des Spieltags. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104050000 +0000" stop="20261104053000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">90in30: KSC – FCH, 10. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der 2. Bundesliga in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104053000 +0000" stop="20261104060000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">90in30: FCB – BVB, 8. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Bundesliga in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104080000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Borussia M'gladbach – SC Paderborn 07, 8. Spieltag</sub-title>
+    <desc lang="de">Nicht ausrutschen: Nach dem schwachen Saisonstart will Gladbach wieder auf die Beine kommen. Zu Hause sind drei Punkte gegen Paderborn Pflicht. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Meine Geschichte</title>
+    <desc lang="de">Ehrlich, privat und hautnah wie nie: Riccardo Basile besucht prominente Persönlichkeiten aus der Welt des Sports und spricht mit ihnen über ihr Leben und besondere Geschichten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Porträt</category>
+    <icon src="http://img.tvspielfilm.de/07/41/4a/6177d8ef8189652ccb4a4107.jpeg" />
+  </programme>
+  <programme start="20261104083000 +0000" stop="20261104103000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">1. FC Kaiserslautern – Hertha BSC, 10. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104103000 +0000" stop="20261104104500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Dein Spieltags-Sprint (8)</sub-title>
+    <desc lang="de">Der Spieltags-Sprint: Alles Wissenswerte zum vergangenen Spieltag in kompakten 15 Minuten. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104104500 +0000" stop="20261104110000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Dein Spieltags-Sprint (10)</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104130000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">FC Bayern München – Borussia Dortmund, tipico Topspiel der Woche, 8. Spieltag</sub-title>
+    <desc lang="de">Der Klassiker: Die Bayern empfangen den BVB zum großen Duell. Bleiben die Münchner zu Hause souverän oder kann Dortmund punkten? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga Kompakt</title>
+    <sub-title lang="de">8. Spieltag</sub-title>
+    <desc lang="de">Der 8. Spieltag mit Bayer Leverkusen – VfB Stuttgart, FC Augsburg – SC Freiburg, Borussia Mönchengladbach – SC Paderborn 07, Werder Bremen – 1899 Hoffenheim, FC Schalke 04 – RB Leipzig, FC Bayern München – Borussia Dortmund, SV Elversberg – 1. FSV Mainz 05, 1. FC Union Berlin – 1. FC Köln und Eintracht Frankfurt – Hamburger SV. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104160000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">SV Darmstadt 98 – 1. FC Magdeburg, 10. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">90in30: KSC – FCH, 10. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der 2. Bundesliga in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104173000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 3. Liga</title>
+    <sub-title lang="de">Alle Spiele, alle Tore, 12. Spieltag komplett</sub-title>
+    <desc lang="de">Das Beste vom Spieltag: Sky zeigt alle Spiele und alle Tore vom Spieltag der 3. Liga. (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104173000 +0000" stop="20261104180000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Dein Zweitligatalk – HvK &amp; Tusche</sub-title>
+    <desc lang="de">Dein Talk zum anstehenden Spieltag in der 2. Bundesliga. Sky Moderator Hartmut von Kameke und Experte Torsten Mattuschka blicken auf die wichtigen Fragen des kommenden Spieltags. (Senderinfo).</desc>
+    <category lang="de">Fußballtalk</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104190000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Glanzparade – Die Show mit Buschmann, Fuss und Wagner</sub-title>
+    <desc lang="de">Tolle Stories, klare Meinungen und viel Leidenschaft für den Fußball: In "Glanzparade – die Show mit Buschmann, Fuss und Wagner" sprechen die Sky Kommentatoren über alles, was Fußballfans bewegt. (Senderinfo).</desc>
+    <category lang="de">Fußballtalk</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga Kompakt</title>
+    <sub-title lang="de">8. Spieltag</sub-title>
+    <desc lang="de">Der 8. Spieltag mit Bayer Leverkusen – VfB Stuttgart, FC Augsburg – SC Freiburg, Borussia Mönchengladbach – SC Paderborn 07, Werder Bremen – 1899 Hoffenheim, FC Schalke 04 – RB Leipzig, FC Bayern München – Borussia Dortmund, SV Elversberg – 1. FSV Mainz 05, 1. FC Union Berlin – 1. FC Köln und Eintracht Frankfurt – Hamburger SV. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104203000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Dein Zweitligatalk – HvK &amp; Tusche</sub-title>
+    <desc lang="de">Dein Talk zum anstehenden Spieltag in der 2. Bundesliga. Sky Moderator Hartmut von Kameke und Experte Torsten Mattuschka blicken auf die wichtigen Fragen des kommenden Spieltags. (Senderinfo).</desc>
+    <category lang="de">Fußballtalk</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261104210000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">90in30: KSC – FCH, 10. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der 2. Bundesliga in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261104230000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Klassiker der Woche</sub-title>
+    <desc lang="de">Was für ein denkwürdiges Duell! Egal ob Torfestival, hitziges Derby oder Spitzenspiel – Im "Klassiker der Woche" lässt Sky legendäre Matches aus der Bundesliga wiederaufleben. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Dein Zweitligatalk – HvK &amp; Tusche</sub-title>
+    <desc lang="de">Dein Talk zum anstehenden Spieltag in der 2. Bundesliga. Sky Moderator Hartmut von Kameke und Experte Torsten Mattuschka blicken auf die wichtigen Fragen des kommenden Spieltags. (Senderinfo).</desc>
+    <category lang="de">Fußballtalk</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261105000000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">90in30: KSC – FCH, 10. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der 2. Bundesliga in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="Sky.Sport.Premier.League.de">
     <title lang="de">Fußball: Premier League</title>
@@ -134398,23 +134667,281 @@
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="Sky.Sport.Top.Event.de">
-    <title lang="de">Basketball: WNBA</title>
-    <sub-title lang="de">Atlanta Dream @ Golden State Valkyries, Finals, Spiel 7* falls nötig</sub-title>
-    <desc lang="de">Die stärkste Frauen-Basketball-Liga der Welt: In der WNBA gehen Spielerinnen wie A'ja Wilson, Breanna Stewart und viele mehr auf Korbjagd. Wer führt sein Team zum Erfolg? (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Basketball</category>
-    <icon src="http://img.tvspielfilm.de/0d/08/4a/6177c46d8189652ccb4a080d.jpeg" />
-    <country lang="de">USA</country>
+  <programme start="20261104040000 +0000" stop="20261104050000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Michael Owen</title>
+    <sub-title lang="de">Leicester City 2015/16</sub-title>
+    <desc lang="de">Momente in der Premier League, die man nie vergisst: "PL Moments" blickt auf prägende Momente der Premier-League-Historie. (Senderinfo).</desc>
+    <category lang="de">Fußballerporträt</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
   </programme>
-  <programme start="20261101030000 +0000" stop="20261101033500 +0000" channel="Sky.Sport.Top.Event.de">
-    <title lang="de">Motorrad: Großer Preis von Malaysia</title>
-    <sub-title lang="de">Warm Up – GP Malaysia</sub-title>
-    <desc lang="de">Sky zeigt das Warm-Up vor den anstehenden Rennen in der MotoGP. (Senderinfo).</desc>
+  <programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Michael Owen</title>
+    <sub-title lang="de">Thierry Henry's Top 10</sub-title>
+    <category lang="de">Fußballerporträt</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104063000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: LIV – ARS, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
     <date>2026</date>
-    <category lang="de">Motorrad</category>
-    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
-    <country lang="de">Malay.</country>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: AVL – FUL, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104070000 +0000" stop="20261104073000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Netbusters, 9. Spieltag</sub-title>
+    <desc lang="de">Der schnelle Rückblick auf die letzten Partien – unterlegt mit cooler Musik: Netbusters zeigt alle Tore, Glanzparaden, vergebenen Chancen und grandiosen Tackles des vergangenen Spieltags. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104083000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Generation xG</sub-title>
+    <desc lang="de">Die Premier League für Statistik- und Taktik-Fans: Welche strategischen Kniffe machen den modernen Fußball aus? Spieler, Trainer und Experten blicken auf die taktischen Trends. (Senderinfo).</desc>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: CHE – MUN, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104100000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Michael Owen</title>
+    <sub-title lang="de">Robert Pires</sub-title>
+    <desc lang="de">Momente in der Premier League, die man nie vergisst: "PL Moments" blickt auf prägende Momente der Premier-League-Historie. (Senderinfo).</desc>
+    <category lang="de">Fußballerporträt</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104103000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Netbusters, 9. Spieltag</sub-title>
+    <desc lang="de">Der schnelle Rückblick auf die letzten Partien – unterlegt mit cooler Musik: Netbusters zeigt alle Tore, Glanzparaden, vergebenen Chancen und grandiosen Tackles des vergangenen Spieltags. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Ray Parlour – The Invincibles</title>
+    <sub-title lang="de">Ray Parlour – The Invincibles</sub-title>
+    <desc lang="de">Nach dem erneuten Titelgewinn der "Gunners": Ray Parlour blickt in "Rewind" auf seine Karriere im Trikot des FC Arsenal und die Zeit der "Invincibles". (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: BOU – LEE, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: BRE – NFO, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: COV – SUN, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: HUL – IPS, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: MCI – BRI, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: NEW – EVE, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Netbusters, 9. Spieltag</sub-title>
+    <desc lang="de">Der schnelle Rückblick auf die letzten Partien – unterlegt mit cooler Musik: Netbusters zeigt alle Tore, Glanzparaden, vergebenen Chancen und grandiosen Tackles des vergangenen Spieltags. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104152500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Generation xG</sub-title>
+    <desc lang="de">Die Premier League für Statistik- und Taktik-Fans: Welche strategischen Kniffe machen den modernen Fußball aus? Spieler, Trainer und Experten blicken auf die taktischen Trends. (Senderinfo).</desc>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104152500 +0000" stop="20261104160000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">The Club That Conquered the Premier League</sub-title>
+    <desc lang="de">Antiguoko, ein kleiner Klub aus San Sebastián, brachte drei Toptrainer hervor: Xabi Alonso, Mikel Arteta und Andoni Iraola erzählen von ihren gemeinsamen Wurzeln. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: BOU – LEE, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: BRE – NFO, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104171500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">Under the Skin (FC Everton)</sub-title>
+    <desc lang="de">In "Under the Skin" werden die Klubs der englischen Premier League genauer unter die Lupe genommen. Diesmal FC Everton. (Senderinfo).</desc>
+    <category lang="de">Fußballreportage</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104171500 +0000" stop="20261104173000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Superhuman PL Moments</sub-title>
+    <desc lang="de">Artistische Fallrückzieher, spektakuläre Paraden und knallharte Tacklings: Superhuman Premier League Moments zeigt die außergewöhnlichsten Szenen der letzten 30 Jahre. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104173000 +0000" stop="20261104183000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Review, 9. Spieltag</sub-title>
+    <desc lang="de">Die Zusammenfassung aller Matches des 9. Spieltags der Premier League. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104190000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">PL Stories</title>
+    <sub-title lang="de">Aston Villa 92/93 – Behind The Best Season</sub-title>
+    <desc lang="de">PL Stories stellt die Persönlichkeiten vor, die die Premier League Geschichte geprägt haben. (Senderinfo).</desc>
+    <credits>
+      <producer>Mike Rodgers</producer>
+    </credits>
+    <category lang="de">Fußballdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104193000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: MCI – BRI, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104193000 +0000" stop="20261104200000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">PL Stories (Pep – The Legacy)</sub-title>
+    <credits>
+      <producer>Mike Rodgers</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="de">Fußballdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104203000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: AVL – FUL, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261104210000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: League One</title>
+    <sub-title lang="de">Highlights, 14. Spieltag</sub-title>
+    <desc lang="de">Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261104213000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">Club 100: Petr Cech</sub-title>
+    <desc lang="de">Ein exklusiver Klub für Weltklasse-Torhüter: Club 100 beleuchtet die besten Keeper der Premier League, die bereits 100 oder mehr Spiele ohne Gegentor auf dem Konto haben. (Senderinfo).</desc>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104213000 +0000" stop="20261104220000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Netbusters, 9. Spieltag</sub-title>
+    <desc lang="de">Der schnelle Rückblick auf die letzten Partien – unterlegt mit cooler Musik: Netbusters zeigt alle Tore, Glanzparaden, vergebenen Chancen und grandiosen Tackles des vergangenen Spieltags. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261104230000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Michael Owen</title>
+    <sub-title lang="de">Kevin Keegan</sub-title>
+    <desc lang="de">Sie waren bärenstarke Torhüter, knallharte Verteidiger, eiskalte Torjäger und gelten als Legenden der Premier League. "Moments" schaut auf die besten Aktionen dieser Superstars. (Senderinfo).</desc>
+    <category lang="de">Fußballerporträt</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: COV – SUN, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261105000000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">90in30: HUL – IPS, 9. Spieltag</sub-title>
+    <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
   <programme start="20261101033500 +0000" stop="20261101050000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Moto3: Großer Preis von Malaysia</title>
@@ -134774,6 +135301,104 @@
     <date>2026</date>
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104041500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: League Championship</title>
+    <sub-title lang="de">Highlights XXL: West Ham United – West Bromwich Albion, 13. Spieltag</sub-title>
+    <desc lang="de">Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104041500 +0000" stop="20261104043000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: League Championship</title>
+    <sub-title lang="de">Highlights XXL: Swansea City – Blackburn Rovers, 13. Spieltag</sub-title>
+    <desc lang="de">Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104043000 +0000" stop="20261104044500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: League Championship</title>
+    <sub-title lang="de">Highlights XXL: Wolverhampton Wanderers – Cardiff City, 13. Spieltag</sub-title>
+    <desc lang="de">Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104044500 +0000" stop="20261104050000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: League Championship</title>
+    <sub-title lang="de">Highlights XXL: FC Southampton – Queens Park Rangers, 13. Spieltag</sub-title>
+    <desc lang="de">Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">MotoGP: Großer Preis von Malaysia</title>
+    <sub-title lang="de">Highlights</sub-title>
+    <desc lang="de">Der spektakulärste Motorsport auf zwei Rädern: Sky zeigt die MotoGP live. Die Highlights aller Klassen vom vergangenen Rennwochenende. (Senderinfo).</desc>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+    <country lang="de">Malay.</country>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104080000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">FC Liverpool – FC Arsenal, Match of the Week, 9. Spieltag</sub-title>
+    <desc lang="de">Kracher an der Anfield Road: Arsenal macht Jagd auf die Tabellenspitze, doch Liverpool könnte zum Stolperstein werden. Wer setzt sich durch? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104100000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">FC Bayern München – Borussia Dortmund, tipico Topspiel der Woche, 8. Spieltag</sub-title>
+    <desc lang="de">Der Klassiker: Die Bayern empfangen den BVB zum großen Duell. Bleiben die Münchner zu Hause souverän oder kann Dortmund punkten? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104220000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Tennis: ATP Masters 1000 in Paris</title>
+    <sub-title lang="de">Rolex Paris Masters in Paris (F), 3. Tag</sub-title>
+    <desc lang="de">In Paris. \nDer Belag in Nanterre, wo das Masters seit 2025 gespielt wird, ist deutlich langsamer als der vom vorherigen Austragungsort in Bercy. Eigentlich ein Grund zur Freude für Sandplatzspezialisten wie Carlos Alcaraz. Dennoch scheiterte der Spanier im Vorjahr in der zweiten Runde.</desc>
+    <date>2026</date>
+    <category lang="de">Tennis</category>
+    <icon src="http://img.tvspielfilm.de/2e/5e/4a/6177e16b8189652ccb4a5e2e.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261104223000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball</title>
+    <sub-title lang="de">scooore Polen! Alle Tore</sub-title>
+    <desc lang="de">Highlights aus der Ekstraklasa: Der polnische Fußball erfreut sich einer großen Beliebtheit. In den letzten Jahren dominierte Legia Warschau. Durchbrechen Lech Posen oder Pogon Szczecin die Dominanz? (Senderinfo).</desc>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+  </programme>
+  <programme start="20261104223000 +0000" stop="20261104230000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball</title>
+    <sub-title lang="de">scooore Portugal! Alle Tore</sub-title>
+    <desc lang="de">Highlights aus der Primeira Liga: Portugals Fußball ist schnell und technisch hochwertig. Dazu bietet der Titelkampf zwischen dem FC Porto, Benfica Lissabon und Sporting Lissabon immer Spannung pur! (Senderinfo).</desc>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Dein Zweitligatalk – HvK &amp; Tusche</sub-title>
+    <desc lang="de">Dein Talk zum anstehenden Spieltag in der 2. Bundesliga. Sky Moderator Hartmut von Kameke und Experte Torsten Mattuschka blicken auf die wichtigen Fragen des kommenden Spieltags. (Senderinfo).</desc>
+    <category lang="de">Fußballtalk</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261105000000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">PL Stories</title>
+    <sub-title lang="de">Aston Villa 92/93 – Behind The Best Season</sub-title>
+    <desc lang="de">PL Stories stellt die Persönlichkeiten vor, die die Premier League Geschichte geprägt haben. (Senderinfo).</desc>
+    <credits>
+      <producer>Mike Rodgers</producer>
+    </credits>
+    <category lang="de">Fußballdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
   </programme>
   <channel id="LALIGA.TV.HYPERMOTION.es">
     <display-name lang="es">LALIGA TV HYPERMOTION</display-name>
@@ -135148,216 +135773,6 @@
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">Now Sports Premier League 1</display-name>
   </channel>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031060000 +0000" stop="20261031080000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Aston Villa vs Manchester City</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031080000 +0000" stop="20261031100000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Arsenal vs Everton</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031100000 +0000" stop="20261031120000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Liverpool vs Brighton &amp; Hove Albion</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031120000 +0000" stop="20261031143000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Chelsea vs Manchester United</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031143000 +0000" stop="20261031170000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Manchester City vs Brighton &amp; Hove Albion</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031170000 +0000" stop="20261031193000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Tottenham Hotspur vs Crystal Palace</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031193000 +0000" stop="20261031220000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Aston Villa vs Fulham</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031220000 +0000" stop="20261031221500 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 7</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031221500 +0000" stop="20261031223000 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 8</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031223000 +0000" stop="20261031230000 +0000">
-    <title lang="en">PL Stories 26/27</title>
-    <sub-title lang="en">FABRICIO COLOCCINI</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031230000 +0000" stop="20261031233000 +0000">
-    <title lang="en">PL Stories 26/27</title>
-    <sub-title lang="en">THE EVOLUTION OF GOALKEEPERS</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031233000 +0000" stop="20261031234500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261031234500 +0000" stop="20261101000000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101000000 +0000" stop="20261101001500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101001500 +0000" stop="20261101003000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101003000 +0000" stop="20261101004500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101004500 +0000" stop="20261101010000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101010000 +0000" stop="20261101011500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101011500 +0000" stop="20261101013000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101013000 +0000" stop="20261101014500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101014500 +0000" stop="20261101020000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101020000 +0000" stop="20261101021500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101021500 +0000" stop="20261101023000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101023000 +0000" stop="20261101024500 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101024500 +0000" stop="20261101030000 +0000">
-    <title lang="en">PL Online 26/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101030000 +0000" stop="20261101050000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Chelsea vs Manchester United</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101050000 +0000" stop="20261101053000 +0000">
-    <title lang="en">PL Stories 26/27</title>
-    <sub-title lang="en">FABRICIO COLOCCINI</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101053000 +0000" stop="20261101054500 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 7</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101054500 +0000" stop="20261101060000 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 8</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261101060000 +0000" stop="20261101080000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Aston Villa vs Fulham</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
   <programme channel="Now.Sports.Premier.League.1.hk" start="20261101080000 +0000" stop="20261101100000 +0000">
     <title lang="en">Premier League 26/27</title>
     <sub-title lang="en">Tottenham Hotspur vs Crystal Palace</sub-title>
@@ -135919,47 +136334,117 @@
     <category lang="en">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031040000 +0000" stop="20261031080000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031080000 +0000" stop="20261031120000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031120000 +0000" stop="20261031145000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031145000 +0000" stop="20261031170000 +0000">
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261103180000 +0000" stop="20261103200000 +0000">
     <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Bournemouth vs Leeds United</sub-title>
+    <sub-title lang="en">Brentford vs Nottingham Forest</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031170000 +0000" stop="20261031200000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261103200000 +0000" stop="20261103220000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Manchester City vs Brighton &amp; Hove Albion</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261031200000 +0000" stop="20261101000000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261103220000 +0000" stop="20261104000000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Chelsea vs Manchester United</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261101000000 +0000" stop="20261101040000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104000000 +0000" stop="20261104010000 +0000">
+    <title lang="en">Premier League Highlights 26/27</title>
+    <sub-title lang="en">Week 9</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261101040000 +0000" stop="20261101080000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104010000 +0000" stop="20261104030000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Brentford vs Nottingham Forest</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104030000 +0000" stop="20261104050000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Manchester City vs Brighton &amp; Hove Albion</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104050000 +0000" stop="20261104060000 +0000">
+    <title lang="en">Premier League Highlights 26/27</title>
+    <sub-title lang="en">Week 9</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104060000 +0000" stop="20261104080000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Chelsea vs Manchester United</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104080000 +0000" stop="20261104100000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Brentford vs Nottingham Forest</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104100000 +0000" stop="20261104110000 +0000">
+    <title lang="en">Premier League Highlights 26/27</title>
+    <sub-title lang="en">Week 9</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104110000 +0000" stop="20261104130000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Manchester City vs Brighton &amp; Hove Albion</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104130000 +0000" stop="20261104150000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Chelsea vs Manchester United</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104150000 +0000" stop="20261104151500 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 9</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104151500 +0000" stop="20261104154500 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">THE EVOLUTION OF GOALKEEPERS</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104154500 +0000" stop="20261104160000 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 9</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261104160000 +0000" stop="20261104180000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Liverpool vs Arsenal</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
   <programme channel="Now.Sports.Premier.League.2.hk" start="20261101080000 +0000" stop="20261101120000 +0000">
     <title lang="en">Stay tuned for the next broadcast</title>
@@ -136048,6 +136533,36 @@
     <category lang="en">Sports Category</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
   </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261103200000 +0000" stop="20261104000000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261104000000 +0000" stop="20261104040000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261104040000 +0000" stop="20261104080000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261104080000 +0000" stop="20261104120000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261104120000 +0000" stop="20261104160000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261104160000 +0000" stop="20261104200000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
   <channel id="Virgin.Media.One.HD.ie">
     <display-name lang="en">Virgin Media One HD</display-name>
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1239_f.png" />
@@ -136060,268 +136575,6 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1238_f.png" />
     <url>http://www.virginmediatv.ie</url>
   </channel>
-  <programme start="20261031000500 +0000" stop="20261031010500 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">ER</title>
-    <sub-title lang="en">Baby Shower</sub-title>
-    <desc lang="en">A flood forces the maternity ward into the ER; Lewis receives a visit from the social worker handling her niece's adoption; Jerry meets Scottie Pippen.</desc>
-    <credits>
-      <producer>Michael Crichton</producer>
-      <producer>John Wells</producer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Medical</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1712553~~2FEP012698770255,imi:fa61782c15f8dd93bd6553a418ffa5982ef599b2/posterTile?imageVersion=3eD_EA&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20261031010500 +0000" stop="20261031014800 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">ER</title>
-    <sub-title lang="en">The Healers</sub-title>
-    <desc lang="en">Burn victims flood the ER; Lewis learns her fate regarding plans to adopt her niece; Ross considers meeting his estranged father (James Farentino).</desc>
-    <credits>
-      <producer>Michael Crichton</producer>
-      <producer>John Wells</producer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Medical</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1712554~~2FEP012698770330,imi:a5ea0e2dc52a5dc8747b75994c0792c5d02fcbe7/posterTile?imageVersion=LbS-oA&amp;w=200" />
-    <country lang="en">US</country>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20261031014800 +0000" stop="20261031020000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Channel Off Air</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:d4bc56374b7227c632bd246959beea4bffffb947/posterTile?imageVersion=9Hacjw&amp;w=200" />
-    <country lang="en">US</country>
-  </programme>
-  <programme start="20261031020000 +0000" stop="20261031062000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Channel Off Air</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:a5949091f5140f1382206267c23dafcdd4fd4288/posterTile?imageVersion=9Hacjw&amp;w=200" />
-    <country lang="en">US</country>
-  </programme>
-  <programme start="20261031062000 +0000" stop="20261031071000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Unbeatable</title>
-    <sub-title lang="en">Episode 38</sub-title>
-    <desc lang="en">Jason Manford hosts the quiz show where players face a question and pick from a board of six rankable answers. Some answers are good, but only one is unbeatable.</desc>
-    <credits>
-      <director>Derek Hallworth</director>
-      <producer>Zoe Tait</producer>
-      <producer>Glenn Hugill</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Game Show</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F24597016~~2FEP038528600088,imi:12c4218fc5b6645ece1accc3f7ec6d7487b198d3/posterTile?imageVersion=CmiO3w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2 E38</episode-num>
-  </programme>
-  <programme start="20261031071000 +0000" stop="20261031080000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Sports Stories: Paul McGrath</title>
-    <desc lang="en">Irish football legend Paul McGrath sits down with Tommy Martin for an in-depth interview on his journey through football, from Sallynoggin to Manchester United to the World Cup.</desc>
-    <date>2021</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Biography</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F22257230~~2FEP043216310001,imi:dbf22bb3076fdf81c9613510e98b9a6cfef13b58/posterTile?imageVersion=njZqHA&amp;w=200" />
-    <country lang="en">IE</country>
-  </programme>
-  <programme start="20261031080000 +0000" stop="20261031082500 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Don't Look Back in Anger</title>
-    <sub-title lang="en">2000</sub-title>
-    <desc lang="en">The year of 2000 is re-imagined, reconstructed and revisited through archive footage of the biggest news stories of the year with the popular music from that year accompanying it.</desc>
-    <date>2018</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F17702481~~2FEP030507810003,imi:69718318509ffc1a1f1ee85dea3cc6a42734b21a/posterTile?imageVersion=sWB3YQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20261031082500 +0000" stop="20261031090000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Marcus Wareing's Tales from a Kitchen Garden</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">One of Marcus' favourite things about his farm is having livestock grazing. Last year, Marcus obtained two Longhorn cows, but now he is thinking of expanding his herd. So he visits the nearby Buckhurst estate to learn about traditional Sussex cattle.</desc>
-    <credits>
-      <director>Ollie Scarth-Saunders</director>
-      <producer>Bridget Gregory</producer>
-      <producer>Kate Beetham</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Home &amp; Garden</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F25053986~~2FEP042091340024,imi:3319e671255de0f639a89dc557c40b1a3d284b0c/posterTile?imageVersion=iuO7rg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20261031090000 +0000" stop="20261031120000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Ireland AM</title>
-    <desc lang="en">Hosts explore various news topics of interests while guests open up for interviews that cover a multitude of subjects such as politics, food and human interest.</desc>
-    <credits>
-      <producer>Celine Mcgillycuddy</producer>
-      <producer>Sinead Ryan</producer>
-    </credits>
-    <category lang="en">News</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F9595077~~2FSH016477680000~~2F567269841,imi:503b78c9a574b63de44b6dfef64cab8992f33f9f/posterTile?imageVersion=stziXQ&amp;w=200" />
-    <country lang="en">IE</country>
-  </programme>
-  <programme start="20261031120000 +0000" stop="20261031124500 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Rookie Nurses</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Leah faces her biggest challenge so far when one of her patients tells her that he wants to die. Angelo has to keep up with a ward full of patients on the banter front, while Mikey thinks he's seen it all in A&amp;E when a patient comes in who has accidentally been run over by his wife. Despite the pressures, the newly-qualified nurses all reflect on how far they've come.</desc>
-    <credits>
-      <director>Sasha Webb</director>
-      <director>Jacqueline Lee</director>
-      <producer>Angela Clarke</producer>
-      <producer>Heledd Angharad</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F24755104~~2FEP047378570005,imi:4f1488ac7de462a6e220a9b4724d6007fc09bfc2/posterTile?imageVersion=bomt3w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20261031124500 +0000" stop="20261031160000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Live: Horse Racing</title>
-    <sub-title lang="en">Wetherby: Charlie Hall</sub-title>
-    <desc lang="en">Featuring coverage of various events from the horse racing calendar.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Horse Racing</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34384229~~2FEP013522612806,imi:dda6d3fe1d1b79f01d44556c2939f351786dabab/posterTile?imageVersion=NH16ww&amp;w=200" />
-    <episode-num system="onscreen">S2026 E103106</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20261031160000 +0000" stop="20261031170000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Celebrity Catchphrase</title>
-    <sub-title lang="en">Nadine Coyle, Rick Edwards and Jake Wood</sub-title>
-    <desc lang="en">Stephen Mulhern hosts a celebrity special of the classic game show with Nadine Coyle, Rick Edwards and Jake Wood all trying to guess well-known phrases from animated clues. If they can 'say what they see', they could win 50,000 pounds for charity.</desc>
-    <credits>
-      <director>Geraldine Dowd</director>
-      <producer>Sam Munday</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Game Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F29837372~~2FEP047438050104,imi:1d17158dab302694cac39a487ec46de083faeac4/posterTile?imageVersion=_thqbA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S10 E3</episode-num>
-  </programme>
-  <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Week In Review</title>
-    <sub-title lang="en">Episode 34</sub-title>
-    <desc lang="en">Week In Review looks back at the main local, national and international stories of the week.</desc>
-    <date>2026</date>
-    <category lang="en">News</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382886~~2FEP063351010034,imi:87826a1b3684417a147563c40a3bc40b2592d8bb/posterTile?imageVersion=ZQgi9A&amp;w=200" />
-    <country lang="en">IE</country>
-    <episode-num system="onscreen">S1 E34</episode-num>
-  </programme>
-  <programme start="20261031173000 +0000" stop="20261031180000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">News at 5:30</title>
-    <desc lang="en">The latest national and international news stories from the Virgin Media news team. Followed by sport and weather.</desc>
-    <category lang="en">News</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F12084762~~2FSH022574180000~~2F567269845,imi:6ddef56eb4f3281c5bdbc7ef89058dbcc0bb2dd0/posterTile?imageVersion=Vu9tUA&amp;w=200" />
-    <country lang="en">IE</country>
-  </programme>
-  <programme start="20261031180000 +0000" stop="20261031190000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Deal or No Deal</title>
-    <sub-title lang="en">Becca</sub-title>
-    <desc lang="en">Stephen Mulhern hosts the game show as contestant Becca tries to open the 22 red boxes in the right order, taking on the infamous Banker for a chance to win a life-changing cash prize.</desc>
-    <credits>
-      <producer>Tamara Gilder</producer>
-      <producer>David Hall</producer>
-      <producer>Cat Lawson</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Game Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F28611617~~2FEP049248610033,imi:1a6b3770e210730a5304adab3dadad6d5395227e/posterTile?imageVersion=7tq6dw&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Millionaire Hot Seat</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Jeremy Clarkson hosts the exciting and fast-paced quiz where each episode sees six hopefuls compete for a one-million-pound prize.</desc>
-    <credits>
-      <director>Simon Staffurth</director>
-      <producer>Kirsty Proffitt</producer>
-      <producer>Matthew Worthy</producer>
-      <producer>Kerri Reid</producer>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Game Show</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F31966571~~2FEP062124320001,imi:acef2fa92ef1dcac954046b1032593b64eda31e8/posterTile?imageVersion=z9oNhQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">Ant and Dec's Limitless Win</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Ant &amp; Dec welcome two new pairs to the Limitless Ladder - first there's Tegan and Paul, who are playing for an early retirement for Paul, and a new house for Tegan. Football teammates and kindred spirits Abbi and Amy then take their shot.</desc>
-    <credits>
-      <director>Richard van't Riet</director>
-      <producer>Victoria Ashbourne</producer>
-      <producer>Stuart Shawcross</producer>
-      <producer>Tom Blakeson</producer>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Game Show</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32298559~~2FEP041467760030,imi:b501e07638d0068e5c2252cfe6cba3c0796cc446/posterTile?imageVersion=FPbq1A&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S5 E5</episode-num>
-  </programme>
-  <programme start="20261031203000 +0000" stop="20261031222000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">The Voice UK</title>
-    <sub-title lang="en">The Final</sub-title>
-    <desc lang="en">The Voice UK reaches its Grand Final as the remaining artists take to the stage for one last night of competition. The finalists perform both solo and with their coaches before one is crowned the winner of The Voice UK.</desc>
-    <credits>
-      <director>Diccon Ramsay</director>
-      <producer>Carl Webber</producer>
-      <producer>Yasmin Rai</producer>
-      <producer>Clare Cubberley</producer>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Music</category>
-    <category lang="en">Competition reality</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382599~~2FEP015458570198,imi:90fc430455833a87691f2bbeb9fd79094416c895/posterTile?imageVersion=fh97xA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S14 E10</episode-num>
-  </programme>
-  <programme start="20261031222000 +0000" stop="20261031232500 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">The Graham Norton Show</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Double Oscar winner Michael Douglas, Hollywood great Glenn Close, `Succession' star Kieran Culkin and British actor Naomi Ackie join Graham on his sofa. With music from Sugababes.</desc>
-    <credits>
-      <director>Toby Baker</director>
-      <producer>Graham Stuart</producer>
-      <producer>Jon Magnusson</producer>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Talk Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34326715~~2FEP012609270723,imi:0ec92327c79ccc3d1ca50a3be88dc50fe872883d/posterTile?imageVersion=2abbJw&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S34 E6</episode-num>
-  </programme>
-  <programme start="20261031232500 +0000" stop="20261101002000 +0000" channel="Virgin.Media.One.HD.ie">
-    <title lang="en">The Hotel Inspector</title>
-    <sub-title lang="en">Rosehill House Hotel</sub-title>
-    <desc lang="en">Alex is in Burnley, Lancashire to try and resurrect the Rosehill House Hotel. Owned for the past 25 years by John and run by his daughter Emma, they have cluttered the 31-room converted Manor House with tat and lost sight of who their customers are.</desc>
-    <credits>
-      <director>Luke Lovell</director>
-      <director>Tom Weston</director>
-      <producer>Luke Lovell</producer>
-      <producer>Tom Weston</producer>
-      <producer>Stuart Derrick</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Travel</category>
-    <category lang="en">Home Improvement</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F16976271~~2FEP013069470148,imi:fc4ef58c445eb829138d65f9936ad6f6389acfa9/posterTile?imageVersion=_LIVpQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S15 E1</episode-num>
-  </programme>
   <programme start="20261101002000 +0000" stop="20261101022300 +0000" channel="Virgin.Media.One.HD.ie">
     <title lang="en">Prime Suspect</title>
     <sub-title lang="en">The Keeper of Souls</sub-title>
@@ -137174,198 +137427,243 @@
     <country lang="en">GB</country>
     <episode-num system="onscreen">S4 E10</episode-num>
   </programme>
-  <programme start="20261031003000 +0000" stop="20261031014500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Shetland</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">As the investigation draws to a close, Tosh and Calder try to unravel the mystery at the heart of the Baines. The identity of the killer lies in the reason why Ellen left Shetland.</desc>
+  <programme start="20261104000000 +0000" stop="20261104010000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Stand Up If You're Racist</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Martin has his comedians, but still needs a venue, more women on the bill and proof they're ready. With his dream venue in doubt, they face the ultimate pre-showcase test: his mam.</desc>
     <credits>
-      <director>Giulia Gandini</director>
-      <producer>Louise Say</producer>
+      <director>Garry Walsh</director>
+      <producer>Garry Walsh</producer>
     </credits>
-    <date>2023</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Crime Drama</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F26114952~~2FEP017039190055,imi:c78c2b5c2e69845a1754f40615d717256e1b1415/posterTile?imageVersion=Ryx72w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S8 E6</episode-num>
+    <date>2026</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Standup Comedy</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34220247~~2FEP066293080002,imi:19f758babbc3c6c9d69c54eb85c82d2466a368b1/posterTile?imageVersion=6qdlBw&amp;w=200" />
+    <country lang="en">IE</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20261031014500 +0000" stop="20261031023400 +0000" channel="Virgin.Media.Three.HD.ie">
+  <programme start="20261104010000 +0000" stop="20261104014500 +0000" channel="Virgin.Media.One.HD.ie">
     <title lang="en">The Bay</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Jenn remains determined to find out the truth about Saif's murder. With one suspect arrested, the race is on to find the missing pieces of the puzzle, before the killer is able to escape.</desc>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">A rash decision unsettles Lisa, so throwing herself into her work, she pursues a new line of investigation, uncovering a secret. As the evidence against one suspect continues to build, Manning makes a choice that risks the integrity of the case.</desc>
     <credits>
-      <producer>Philip Leach</producer>
+      <director>Julia Ford</director>
+      <director>Robert Quinn</director>
       <producer>Catherine Oldfield</producer>
+      <producer>Patrick Schweitzer</producer>
+      <producer>Alexander Lamb</producer>
     </credits>
-    <date>2022</date>
+    <date>2021</date>
     <category lang="en">Drama Series</category>
     <category lang="en">Thriller</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F21405171~~2FEP031784170018,imi:053025c3bea1886db227793018a83b35482c7b3b/posterTile?imageVersion=FjzllQ&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19359987~~2FEP031784170011,imi:a9af3c3fb105de853bfdf26ea41c6b9ba59b3e4b/posterTile?imageVersion=DqkTzw&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
+    <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20261031023400 +0000" stop="20261031024500 +0000" channel="Virgin.Media.Three.HD.ie">
+  <programme start="20261104014500 +0000" stop="20261104052500 +0000" channel="Virgin.Media.One.HD.ie">
     <title lang="en">Channel Off Air</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:6c8d62c71783f021b03cabd43c561cf8814bb9ae/posterTile?imageVersion=9Hacjw&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:7408c4d2a3b0b68a70453496f9e0fda7e4b12e0c/posterTile?imageVersion=9Hacjw&amp;w=200" />
     <country lang="en">US</country>
   </programme>
-  <programme start="20261031024500 +0000" stop="20261031064500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Channel Off Air</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:1d06c443bcf53c7a9868155b016bc95ff3c1e22d/posterTile?imageVersion=9Hacjw&amp;w=200" />
-    <country lang="en">US</country>
-  </programme>
-  <programme start="20261031064500 +0000" stop="20261031074000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Heartbeat</title>
-    <sub-title lang="en">Saint Columba's Treasure</sub-title>
-    <desc lang="en">When Professor Brigstocke dies at home, a stranger discovers the body and steals the professor's papers.</desc>
-    <credits>
-      <director>Gerry Mill</director>
-      <director>Paul Walker</director>
-      <producer>Keith Richardson</producer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Crime Drama</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685483~~2FEP012587610041,imi:4d326f88d1f192b6c02632a96131c8ce10023631/posterTile?imageVersion=sJhv7A&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S5 E13</episode-num>
-  </programme>
-  <programme start="20261031074000 +0000" stop="20261031084500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Heartbeat</title>
-    <sub-title lang="en">Sitting off the Dock of the Bay</sub-title>
-    <desc lang="en">Nick investigates a pirate radio station.</desc>
-    <credits>
-      <director>John Darnell</director>
-      <director>Paul Walker</director>
-      <producer>Keith Richardson</producer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Crime Drama</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685484~~2FEP012587610042,imi:35f02f7681ba34f46febd107b34b6688d0d4d108/posterTile?imageVersion=VVN5Vg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S5 E14</episode-num>
-  </programme>
-  <programme start="20261031084500 +0000" stop="20261031095000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Heartbeat</title>
-    <sub-title lang="en">Blood Sports</sub-title>
-    <desc lang="en">A father has kidnapped his son from his wife and brought him to Aidensfield. When the boy becomes ill with polio, a mass vaccination is arranged.</desc>
-    <credits>
-      <director>Gerry Mill</director>
-      <director>Paul Walker</director>
-      <producer>Keith Richardson</producer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Crime Drama</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685485~~2FEP012587610043,imi:dbf2836b215e30a39c20ee7fa0d3edc0106d9c69/posterTile?imageVersion=025JEQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S5 E15</episode-num>
-  </programme>
-  <programme start="20261031095000 +0000" stop="20261031105500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">The Darling Buds of May</title>
-    <sub-title lang="en">The Happiest Days of Your Life</sub-title>
-    <desc lang="en">Pop and Ma Larkin are summoned to the twins' school and advised that the disruptive Zinnia and Petunia would be better suited to a boarding school.</desc>
-    <credits>
-      <director>David Giles</director>
-      <producer>Richard Bates</producer>
-      <producer>Vernon Lawrence</producer>
-    </credits>
-    <date>1993</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1274855~~2FEP012659190026,imi:1af717ebdd2bc836a292c424583c54696da266e7/posterTile?imageVersion=EMhIcw&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20261031105500 +0000" stop="20261031120000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">The Darling Buds of May</title>
-    <sub-title lang="en">The Happiest Days of Your Life</sub-title>
-    <desc lang="en">The twins are found safe and sound after running away from boarding school, Pop becomes involved with the renovation of the school - much to the delight of the headmistress, and Primrose asks Charley for some advice about love.</desc>
-    <credits>
-      <director>David Giles</director>
-      <producer>Richard Bates</producer>
-      <producer>Vernon Lawrence</producer>
-    </credits>
-    <date>1993</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1274856~~2FEP012659190020,imi:4b78ea6b78a1b5cdabaaf696c3e60e0084464034/posterTile?imageVersion=JhMlPA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20261031120000 +0000" stop="20261031123000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Paul O'Grady: For the Love of Dogs</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Clinic staff fight to save the sight of a Tibetan terrier with a painful eye condition, Paul takes three puppies to visit sick children in a local hospital, the star of the show is Tyler, a mongrel pup who proves he can get along with just about anyone, but can he bond with Dame Jacqueline Wilson's cat? He needs to if he is to get a home with the famous children's author.</desc>
-    <date>2014</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Animals</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F11049587~~2FEP016075900023,imi:0213f97df1b0e64c85a700a305ea90093759c074/posterTile?imageVersion=Ei46IA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20261031123000 +0000" stop="20261031130000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Emmerdale</title>
-    <sub-title lang="en">Episode 208</sub-title>
-    <desc lang="en">Graham is instructed by the kidnapper, Caleb is furious, and Sadie plays innocent.</desc>
-    <credits>
-      <director>Tim O'Mara</director>
-      <producer>Iain Macleod</producer>
-      <producer>Laura Shaw</producer>
-      <producer>Sophie Roper</producer>
-    </credits>
+  <programme start="20261104052500 +0000" stop="20261104061500 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Tonight Show</title>
+    <sub-title lang="en">Episode 78</sub-title>
+    <desc lang="en">Comment and analysis on the big stories of the day in Ireland and abroad with a panel of guests covering the key issues.</desc>
     <date>2026</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Soap</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34250874~~2FEP012568688419,imi:a4854956812a168f7892cfc61154d889cb7c844e/posterTile?imageVersion=7en10Q&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">E208</episode-num>
-    <rating system="IE">
-      <value>1</value>
-    </rating>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Interview</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382522~~2FEP027724130876,imi:bcd34554e691c2131e7f3343d00cd55cd2077d12/posterTile?imageVersion=4M_SpA&amp;w=200" />
+    <country lang="en">IE</country>
+    <episode-num system="onscreen">S10 E78</episode-num>
   </programme>
-  <programme start="20261031130000 +0000" stop="20261031133000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Emmerdale</title>
+  <programme start="20261104061500 +0000" stop="20261104070000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Six O'Clock Show</title>
     <sub-title lang="en">Episode 209</sub-title>
-    <desc lang="en">Kim makes a dangerous move, Liam is confused, and Caleb and Ruby blame each other.</desc>
-    <credits>
-      <director>Tim O'Mara</director>
-      <producer>Iain Macleod</producer>
-      <producer>Laura Shaw</producer>
-      <producer>Sophie Roper</producer>
-    </credits>
+    <desc lang="en">Featuring a lively mix of celebrity chat with national and international guests, fabulous food from the country's top chefs, expert advice and all the unmissable stories making headlines.</desc>
     <date>2026</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Soap</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34308083~~2FEP012568688420,imi:ac6223d2f33b7ccac9aa67dc8067b5b51dba8502/posterTile?imageVersion=8vj6PA&amp;w=200" />
-    <country lang="en">GB</country>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382098~~2FEP025644862718,imi:ad748e9e7ab08f3197294fa18c2963f33a6bdbc9/posterTile?imageVersion=U1RRxw&amp;w=200" />
+    <country lang="en">IE</country>
     <episode-num system="onscreen">E209</episode-num>
-    <rating system="IE">
-      <value>1</value>
-    </rating>
   </programme>
-  <programme start="20261031133000 +0000" stop="20261031140000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Emmerdale</title>
-    <sub-title lang="en">Episode 210</sub-title>
-    <desc lang="en">The kidnapper is revealed, Kim fears the consequences of her actions, and Robert makes a decision.</desc>
+  <programme start="20261104070000 +0000" stop="20261104100000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Ireland AM</title>
+    <desc lang="en">Hosts explore various news topics of interests while guests open up for interviews that cover a multitude of subjects such as politics, food and human interest.</desc>
     <credits>
-      <director>Tim O'Mara</director>
-      <producer>Iain Macleod</producer>
-      <producer>Laura Shaw</producer>
-      <producer>Sophie Roper</producer>
+      <producer>Celine Mcgillycuddy</producer>
+      <producer>Sinead Ryan</producer>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F9595077~~2FSH016477680000~~2F567269747,imi:c11a378cd12f3313d2b5c92d6c8630a62ceef6eb/posterTile?imageVersion=XEkqCg&amp;w=200" />
+    <country lang="en">IE</country>
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104123000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">This Morning</title>
+    <sub-title lang="en">Episode 218</sub-title>
+    <desc lang="en">Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.</desc>
+    <credits>
+      <producer>Emma Gormley</producer>
     </credits>
     <date>2026</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Soap</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34308095~~2FEP012568688421,imi:1fe08e8837acd7742dcabd914a6ab6c6a29885b2/posterTile?imageVersion=Fy0q7g&amp;w=200" />
+    <category lang="en">News Magazine</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382652~~2FEP012612624266,imi:e5c56ab0dfc4e95b36b75ab3e3a3510f0cd88366/posterTile?imageVersion=wacIeQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">E210</episode-num>
+    <episode-num system="onscreen">S38 E218</episode-num>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">News at 12:30</title>
+    <desc lang="en">The latest national and international news stories from the Virgin Media News team, followed by sport and weather.</desc>
+    <category lang="en">News</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F10798283~~2FSH019270150000~~2F567269749,imi:1345be96785770f4f032b108a671226d7ba361b4/posterTile?imageVersion=t5BI1Q&amp;w=200" />
+    <country lang="en">IE</country>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Chase</title>
+    <sub-title lang="en">Episode 30</sub-title>
+    <desc lang="en">All that stands between Andy from Luton, Caren from Bushey, Sophie from Manchester, Harri from Cardiff and that money is the small matter of one of the country's finest quiz brains.</desc>
+    <credits>
+      <director>Mick Thomas</director>
+      <producer>Martin Scott</producer>
+      <producer>Michael Kelpie</producer>
+      <producer>Helen Tumbridge</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Game Show</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32260717~~2FEP012896312768,imi:e882dd883e9d53d020bd90875b6de2a762a73018/posterTile?imageVersion=RJKUfA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S17 E30</episode-num>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Chase</title>
+    <sub-title lang="en">Episode 34</sub-title>
+    <desc lang="en">Bradley Walsh hosts as Peter from St Albans, Shania from Harrow, Medi from Aberystwyth and Naeem from Manchester join forces in the hope that their four brains can beat one, but that one brain does happen to belong to a Chaser.</desc>
+    <credits>
+      <producer>Martin Scott</producer>
+      <producer>Michael Kelpie</producer>
+      <producer>Helen Tumbridge</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Game Show</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F31174076~~2FEP012896312711,imi:c8abb606160e209ca193689435bb8eca36882340/posterTile?imageVersion=9TPLCw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S17 E34</episode-num>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Lorraine</title>
+    <sub-title lang="en">Episode 133</sub-title>
+    <desc lang="en">Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.</desc>
+    <credits>
+      <producer>Sarah Gatenby</producer>
+      <producer>Ashley Jenkin</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34381794~~2FEP013234963956,imi:df728f8ac92f0564dd16971f13568b5b24923442/posterTile?imageVersion=CK5H5A&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S14 E133</episode-num>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Loose Women</title>
+    <sub-title lang="en">Episode 135</sub-title>
+    <desc lang="en">A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.</desc>
+    <credits>
+      <producer>Dianne Nelmes</producer>
+      <producer>Eleanor Cotter</producer>
+      <producer>Ashley Jenkin</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Interview</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34381744~~2FEP012793973871,imi:b31052b60688d9b91f90ad515c12a3feb4a3ddc0/posterTile?imageVersion=z484Mw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S30 E135</episode-num>
     <rating system="IE">
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261031140000 +0000" stop="20261031150000 +0000" channel="Virgin.Media.Three.HD.ie">
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Disrespected Date Sucker Punch?!; Fight the Power of Attorney!</sub-title>
+    <desc lang="en">An incarcerated man's mother sues his ex-lover for failing to make car payments.</desc>
+    <credits>
+      <producer>Erica Goings</producer>
+      <producer>Jazmine Hooks</producer>
+      <producer>Melanie Manooki</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F17558111~~2FEP012603134854,imi:b6e716d577a729a2711e3e247eb7d337a466cd24/posterTile?imageVersion=bGp2yA&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">S24 E56</episode-num>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104173000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Judge Judy</title>
+    <sub-title lang="en">Canine Sucker Punch!; Homeless Five-Child Family Payback!</sub-title>
+    <desc lang="en">A woman cites hard times as the reason she broke her promise to pay a co-worker for a Cadillac.</desc>
+    <credits>
+      <producer>Erica Goings</producer>
+      <producer>Jazmine Hooks</producer>
+      <producer>Melanie Manooki</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F17558112~~2FEP012603134856,imi:e2214883e325ce82230763ac2755b7166397c81d/posterTile?imageVersion=P_dSCQ&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">S24 E57</episode-num>
+  </programme>
+  <programme start="20261104173000 +0000" stop="20261104180500 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">News at 5:30</title>
+    <desc lang="en">The latest national and international news stories from the Virgin Media news team. Followed by sport and weather.</desc>
+    <category lang="en">News</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F12084762~~2FSH022574180000~~2F567269756,imi:9228f34691709953734b7ae2c14dd883963c2f3b/posterTile?imageVersion=tE4Pgg&amp;w=200" />
+    <country lang="en">IE</country>
+  </programme>
+  <programme start="20261104180500 +0000" stop="20261104190000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Six O'Clock Show</title>
+    <sub-title lang="en">Episode 210</sub-title>
+    <desc lang="en">Featuring a lively mix of celebrity chat with national and international guests, fabulous food from the country's top chefs, expert advice and all the unmissable stories making headlines.</desc>
+    <date>2026</date>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382100~~2FEP025644862719,imi:f7816610230f191f400d57cdc8ac8c15eedee91e/posterTile?imageVersion=lZL_2w&amp;w=200" />
+    <country lang="en">IE</country>
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104193000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">News at 7</title>
+    <desc lang="en">The latest national and international news stories, followed by sport and weather.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Community</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F13843841~~2FSH026268150000~~2F567269758,imi:f2ad4eb7fc3c9856c8f2949689b96b0e97303565/posterTile?imageVersion=DrH0Ow&amp;w=200" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme start="20261104193000 +0000" stop="20261104200000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Ross's Tan</sub-title>
+    <desc lang="en">Rachel and Joey nervously anticipate their first real date, Monica and Phoebe try to avoid an obnoxious friend with a fake British accent, and Ross emerges from a tanning booth with a two-toned appearance.</desc>
+    <credits>
+      <producer>Kevin Bright</producer>
+      <producer>David Crane</producer>
+      <producer>Greg Malins</producer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Sitcoms</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1712480~~2FEP012597240248,imi:a36906f442e3d55f2304c6d0bc3815cbe73c551b/posterTile?imageVersion=6q61_A&amp;w=200" />
+    <country lang="en">US</country>
+    <episode-num system="onscreen">S10 E3</episode-num>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104203000 +0000" channel="Virgin.Media.One.HD.ie">
     <title lang="en">Emmerdale</title>
-    <sub-title lang="en">Episode 211</sub-title>
-    <desc lang="en">Sadie continues her plan, Robert makes a decision, and Gabby spirals as Laurel comforts her.</desc>
+    <sub-title lang="en">Episode 214</sub-title>
+    <desc lang="en">Belle is gutted, Caleb makes a demand, and Robert confronts Charity.</desc>
     <credits>
       <director>Brett Fallis</director>
       <producer>Iain Macleod</producer>
@@ -137375,121 +137673,64 @@
     <date>2026</date>
     <category lang="en">Drama Series</category>
     <category lang="en">Soap</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34308102~~2FEP012568688422,imi:20e64a615bbcefb44f9520b0427cb08f394504bf/posterTile?imageVersion=EFOMZQ&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368191~~2FEP012568688425,imi:b4b3e82a98367936125287ac8e12e80ec1ec4b35/posterTile?imageVersion=JUU_PA&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">E211</episode-num>
+    <episode-num system="onscreen">E214</episode-num>
     <rating system="IE">
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261031150000 +0000" stop="20261031171000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">A Touch of Frost</title>
-    <sub-title lang="en">Paying the Price</sub-title>
-    <desc lang="en">A ruthless kidnapper tests Frost's skills to the full. It proves a tough case to crack and for one woman, time is running out.</desc>
+  <programme start="20261104203000 +0000" stop="20261104210000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Coronation Street</title>
+    <sub-title lang="en">Episode 214</sub-title>
+    <desc lang="en">Leanne confronts Brody and Idris with her suspicions, Carla makes a sad announcement to her staff, Dev offers Kit some respite, and Gary tackles Ross about his treatment of Marco.</desc>
     <credits>
-      <director>Ross Devenish</director>
-      <producer>Richard Bates</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Crime Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1628249~~2FEP012609360065,imi:650c2c278896f680ad8e827af807229367b3442b/posterTile?imageVersion=85Hphg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20261031171000 +0000" stop="20261031174500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">How to Clean Up for Cash</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Josie is in Essex helping David, who wants rid of his girlfriend Amanda's clutter. David has a vintage candy floss business and Amanda runs a retro ice cream parlour, so they're a match made in sugar heaven - but Amanda is the Bear Grylls of the bargain hunt and has filled their home office with all her finds. Completely unaware that her items have been boxed up and valued, Amanda returns home to the shock of a lifetime. Will the newly-cleared office be enough to tempt her to take the cash?</desc>
-    <credits>
-      <director>Alex Mucadum</director>
-      <producer>Simone Haywood</producer>
-      <producer>Tom Cullum</producer>
+      <director>Ryan Graham</director>
+      <producer>Kate Brooks</producer>
     </credits>
     <date>2026</date>
-    <category lang="en">Documentary</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33063205~~2FEP063761600006,imi:8b6e416b98ba24f4c81663f8d5fb95e23e564749/posterTile?imageVersion=6pEblA&amp;w=200" />
+    <category lang="en">Drama Series</category>
+    <category lang="en">Soap</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368137~~2FEP012606069166,imi:680cecde12847d06ce8caa92547fefe09e28b612/posterTile?imageVersion=KFO7xg&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="onscreen">E214</episode-num>
   </programme>
-  <programme start="20261031174500 +0000" stop="20261031184500 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Alex Polizzi's Secret Italy</title>
-    <sub-title lang="en">Lecce and Matera</sub-title>
-    <desc lang="en">In Puglia, Italy's rural south, Alex visits the Monte Pollino national park, and explores the troglodyte cave dwellings and samples the week-long carnival at Matera.</desc>
-    <credits>
-      <director>Chris M. Williams</director>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Travel</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F11216884~~2FEP020252160004,imi:c055ff99734f05d959872b7731f2bf416af6c0ad/posterTile?imageVersion=VX6O7g&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20261031184500 +0000" stop="20261031195000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">The Hotel Inspector</title>
-    <sub-title lang="en">The White Hart, St Albans</sub-title>
-    <desc lang="en">Alex Polizzi finds her skills and patience are tested to the limit as she tackles plummeting profits, dodgy decor and terrible reviews. Alex visits a 15th-century haunted hotel owned and run by husband-and-wife team Ross and Jayne in the historic Hertfordshire town of St Albans. The owners have been quick to take advantage of its ghost and are not prepared for a sceptical Hotel Inspector.</desc>
-    <credits>
-      <producer>Jill Lourie</producer>
-      <producer>Charles Wace</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Travel</category>
-    <category lang="en">Home Improvement</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F9394380~~2FEP013069470092,imi:1de15158a8535e88f98c8429a41853aefcd8ab5c/posterTile?imageVersion=HSeNqg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S9 E7</episode-num>
-  </programme>
-  <programme start="20261031195000 +0000" stop="20261031210000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Waterloo Road</title>
+  <programme start="20261104210000 +0000" stop="20261104220000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Gogglebox Ireland</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">A police investigation kicks off when Janeece makes a shock discovery during an archaeological dig, Rachel forces Eddie to confront issues from his past, and Mika shares a secret with Brett.</desc>
+    <desc lang="en">Following recurring Irish telly fanatics made up of couples, families and friends watching, analysing, dissecting and commenting on beloved Irish shows, all from the comfort of their sitting rooms.</desc>
     <credits>
-      <director>Laurence Moody</director>
+      <producer>Stephen Lambert</producer>
+      <producer>Darren Smith</producer>
+      <producer>Simon Proctor</producer>
     </credits>
-    <date>2007</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Romance</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F8447686~~2FEP012600130069,imi:aad67faf4334919544d7ebe4c2c9efe7fc53b665/posterTile?imageVersion=ZjV7kg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S3 E9</episode-num>
-  </programme>
-  <programme start="20261031210000 +0000" stop="20261031220000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Life Begins</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">The repercussions of Becca's overdose become apparent. Desperate to find out why Becca took drugs, Maggie reads her daughter's diary.</desc>
-    <credits>
-      <director>David Caffrey</director>
-      <director>Charles Palmer</director>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F10185041~~2FEP013756910034,imi:0ebd97e81d9f13ca609cb65f54d255b943213196/posterTile?imageVersion=R0Zr6A&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20261031220000 +0000" stop="20261031230000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">Cilla</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">A young unknown typist, Priscilla White, sings with local Liverpool bands as the Merseybeat music scene explodes in the early 1960s. Priscilla falls for young chancer Bobby Willis, but in her desperation to become a star, she elbows him aside. Then a failed audition with Beatles manager Brian Epstein leaves her frustrated and distraught.</desc>
-    <credits>
-      <director>Paul Whittington</director>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Biography</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F11049693~~2FEP019922130001,imi:c92dc59bd9e3a190f33cede87252db27140a89a0/posterTile?imageVersion=ksN9yA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20261031230000 +0000" stop="20261101003000 +0000" channel="Virgin.Media.Three.HD.ie">
-    <title lang="en">The Mystery of the Lady in the Lake</title>
-    <desc lang="en">When 26-year-old Shani Warren's bound and gagged body was found drowned in a lake in 1987, the case was front-page news.</desc>
-    <category lang="en">Documentary</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F30915489~~2FSH059804670000~~2Fspecial,imi:236eaee0507dbd0156ea01a0120226c0709ad641/posterTile?imageVersion=JL1niw&amp;w=200" />
+    <date>2026</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34381035~~2FEP025081650159,imi:b5a791896a6dfb713d8aad890bfd9ef5cb5b96cf/posterTile?imageVersion=gPK4sg&amp;w=200" />
     <country lang="en">IE</country>
+    <episode-num system="onscreen">S12 E9</episode-num>
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261104230000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">The Tonight Show</title>
+    <sub-title lang="en">Episode 79</sub-title>
+    <desc lang="en">Comment and analysis on the big stories of the day in Ireland and abroad with a panel of guests covering the key issues.</desc>
+    <date>2026</date>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Interview</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382553~~2FEP027724130877,imi:e4d4190b4fa77f611d2512592961d7bae8ad977b/posterTile?imageVersion=tJL_Hg&amp;w=200" />
+    <country lang="en">IE</country>
+    <episode-num system="onscreen">S10 E79</episode-num>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="Virgin.Media.One.HD.ie">
+    <title lang="en">Surviving Fred and Rose West: Inside Cromwell Street</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">In 1977, 17-year-old Kathleen Richards moves into 25 Cromwell Street, and soon finds herself groomed, abused, and trapped inside a house where no one can protect her.</desc>
+    <date>2026</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34382979~~2FEP066663110001,imi:a9d5d278bd0179d7e90a923300e4018d865650f3/posterTile?imageVersion=kF8FfA&amp;w=200" />
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="Virgin.Media.Three.HD.ie">
     <title lang="en">Cold Blood</title>
@@ -138398,6 +138639,323 @@
     <rating system="IE">
       <value>1</value>
     </rating>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104011500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Shetland</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">The hunt is on for Ian Bett as a picture of Anton Bergen begins to emerge. Calder and Tosh may be dealing with the revenge of a jealous ex-husband.</desc>
+    <credits>
+      <director>Fiona Walton</director>
+      <producer>Louise Say</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F28647092~~2FEP017039190057,imi:b94325910f0180f5d588aaf4147ef6f023a61629/posterTile?imageVersion=fAqmLw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20261104011500 +0000" stop="20261104021500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Judge Rinder's Crime Stories</title>
+    <sub-title lang="en">Carol Taggart; Melanie Smith</sub-title>
+    <desc lang="en">In Prestatyn, a woman's anger over a neighbourhood dispute leads her to wreak revenge on a family with tragic consequences. And the disappearance of a woman in her mid-fifties leads to a revelation beyond her family's worst nightmares.</desc>
+    <credits>
+      <producer>Caroline Foote</producer>
+      <producer>Simon Paintin</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F16370962~~2FEP024487100098,imi:f02fc3e496dbc601b186e6d147ae23948ae46dd7/posterTile?imageVersion=Zcp9Vw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20261104021500 +0000" stop="20261104024300 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Video Nasty</title>
+    <sub-title lang="en">Fangoria Fangirl</sub-title>
+    <desc lang="en">Billy and Con's parents are beside themselves with worry and set off to England to find them. Meanwhile, the teens arrive in Ashdale only for their planned rendezvous with Fangoria Fangirl to go awry. While the police in the local area link them to a violent crime, the teens attempt to track down Fangoria Fangirl's address, but get more than they bargained for when they cross paths with an oddball teenager named Topher.</desc>
+    <credits>
+      <director>Christopher Smith</director>
+      <producer>Julie Baines</producer>
+      <producer>Ailish McElmeel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F29053156~~2FEP054651730003,imi:6b43eaab6a478ec8feec8aeeee946f7c161509c5/posterTile?imageVersion=tLczcQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261104024300 +0000" stop="20261104063500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Channel Off Air</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F480440~~2FSH034728720000~~2Foffair,imi:23685246eb52bea0d9b29d7e9c4cf4018d3a4173/posterTile?imageVersion=9Hacjw&amp;w=200" />
+    <country lang="en">US</country>
+  </programme>
+  <programme start="20261104063500 +0000" stop="20261104073000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Heartbeat</title>
+    <sub-title lang="en">Hot Rocks</sub-title>
+    <desc lang="en">Lord Ashfordly's sister suspects her fiancé is a jewellery thief; Bellamy seduces Sue.</desc>
+    <credits>
+      <director>Gerry Mill</director>
+      <director>Paul Walker</director>
+      <producer>Keith Richardson</producer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685546~~2FEP012587610077,imi:8930fb53577876106c23b2de41fe769f21bb9d20/posterTile?imageVersion=_F16_w&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104094000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Inspector Morse</title>
+    <sub-title lang="en">The Settling of the Sun</sub-title>
+    <desc lang="en">When a brutal murder disturbs the tranquillity of an ancient Oxford college, Morse discovers that he has unwittingly provided all the suspects with a watertight alibi.</desc>
+    <credits>
+      <director>Peter Hammond</director>
+      <producer>Ted Childs</producer>
+    </credits>
+    <date>1987</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1628195~~2FEP012641900010,imi:320ba4c69f77828aec9fc981295caa81909ac7de/posterTile?imageVersion=TPGPcA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20261104094000 +0000" stop="20261104104000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Million Pound Pawn</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Exploring the tricky and unpredictable nature of valuing assets. With items going in and out of fashion, what goes up can also go down and pawnbrokers need to be able to spot trends in the market to make sure they are buying at the right time so they can sell on and make a profit. Customers can either borrow money against their valuables and pay interest on the loan or sell them outright with often surprising results.</desc>
+    <credits>
+      <director>Sam Roubicek</director>
+      <producer>Naomi Templeton</producer>
+      <producer>David Clews</producer>
+      <producer>Nic Patten</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Business &amp; Financial</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19582318~~2FEP037720840003,imi:0d9d46c670579ca63e1606c4b6195e4a2535cca0/posterTile?imageVersion=3_rw0A&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261104104000 +0000" stop="20261104114500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">The Pet Show</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Dermot O'Leary and Joanna Page celebrate the UK's animal obsession. Reporter and biologist Patrick Aryee will be out and about bringing us the most incredible stories and vet Dr James Greenwood and behaviourist Chirag Patel will be on hand to solve your pets' problems. Plus, actor Ben Miller and his dog will be the first celebrity to take on our agility course.</desc>
+    <credits>
+      <director>Ben Hardy</director>
+      <producer>Fiona Clark</producer>
+      <producer>Oli Head</producer>
+      <producer>Lyndon Tovey</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Animals</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20889756~~2FEP040684350001,imi:48aeea227787ceca3dc46fdd19c6d65f3f71ced8/posterTile?imageVersion=VhkdZA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261104114500 +0000" stop="20261104124500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">My Unique B&amp;B</title>
+    <sub-title lang="en">Anthony and Bianca's Shed to Shepherd's Hut</sub-title>
+    <desc lang="en">The team travel to Wiltshire to meet Anthony and Bianca, who have grand plans to turn the shed at the bottom of their garden into a unique B&amp;B. Their hopes are dashed when expert Simon Parfett says it's just too old and rickety to renovate.</desc>
+    <credits>
+      <producer>Rebecca Nunn</producer>
+      <producer>Kate Beetham</producer>
+      <producer>Karen Plumb</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Home Improvement</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19617012~~2FEP037781520011,imi:a843f407081e2bd32f336ccffc0d40e433f9b758/posterTile?imageVersion=RcAIIA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20261104124500 +0000" stop="20261104135000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Heartbeat</title>
+    <sub-title lang="en">Not So Special</sub-title>
+    <desc lang="en">The police are called in when an old lady suspects that prowlers are trying to force her off her farm, and Vernon believes he is sure of a cash prize when he takes up a Hot Rod challenge.</desc>
+    <credits>
+      <director>Noreen Kershaw</director>
+      <producer>Keith Richardson</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685609~~2FEP012587610155,imi:6405a7c3a24a2969ed612f86d5bfb1e944977fac/posterTile?imageVersion=NkwZMg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S10 E15</episode-num>
+  </programme>
+  <programme start="20261104135000 +0000" stop="20261104145000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Upstairs, Downstairs</title>
+    <sub-title lang="en">Married Love</sub-title>
+    <desc lang="en">Relations between Elizabeth and her poet husband are strained and, seeing his marriage to Elizabeth threatened by his own sexual failings, Lawrence Kilbride asks Sir Edwin Partridge to help save it.</desc>
+    <credits>
+      <director>Raymond Menmuir</director>
+      <producer>Rex Firkin</producer>
+    </credits>
+    <date>1972</date>
+    <category lang="en">Drama Series</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1236880~~2FEP012659230013,imi:c4f885c499f749482a41761e957c852758507c82/posterTile?imageVersion=N-2NWQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20261104145000 +0000" stop="20261104155000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">The Salvage Squad</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Brian Dowling and his fashion-forward design team are on a mission to prove to the nation that you can achieve the home renovation of your dreams without it literally costing the Earth. Changing Rooms meets the Repair Shop with a new sustainable twist, the challenge here is to transform our bland old rooms, furniture and fittings into unique and stunning showstoppers, using only upcycling and sustainable methods.</desc>
+    <credits>
+      <director>Pete Killane</director>
+      <producer>Colin Cowman</producer>
+      <producer>Jean Devlin</producer>
+      <producer>Sinéad Stimpfig</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Home Improvement</category>
+    <category lang="en">Home &amp; Garden</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F25988624~~2FEP048944150004,imi:1cb6fe024d64920d1c833c4013ac4262c30fb4f0/posterTile?imageVersion=6CHE9Q&amp;w=200" />
+    <country lang="en">IE</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261104155000 +0000" stop="20261104162000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Emmerdale</title>
+    <sub-title lang="en">Episode 213</sub-title>
+    <desc lang="en">Caleb confronts Ruby, Marlon is tempted, and Charity makes a show.</desc>
+    <credits>
+      <director>Brett Fallis</director>
+      <producer>Iain Macleod</producer>
+      <producer>Laura Shaw</producer>
+      <producer>Sophie Roper</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Soap</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368187~~2FEP012568688424,imi:b9ace3a68a03e077b439fe747ff5590aea4721e9/posterTile?imageVersion=yoLgUg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">E213</episode-num>
+    <rating system="IE">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261104162000 +0000" stop="20261104165000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Coronation Street</title>
+    <sub-title lang="en">Episode 213</sub-title>
+    <desc lang="en">Idris tasks Brody with an act of diabolical sabotage, Adam and Daniel come to blows in the street, Gary and Marco dwell on Ross's words, and Kit feels suffocated by Bernie's fussing.</desc>
+    <credits>
+      <director>Ryan Graham</director>
+      <producer>Kate Brooks</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Soap</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368116~~2FEP012606069165,imi:d253a57b4e54e8ff3c0c7e5847b7fc0f3e53d24c/posterTile?imageVersion=10GGRg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">E213</episode-num>
+  </programme>
+  <programme start="20261104165000 +0000" stop="20261104175500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">The Royal</title>
+    <sub-title lang="en">The Rose Queen</sub-title>
+    <desc lang="en">An innocent case of food poisoning turns out to be something more sinister. Frankie does his utmost to ensure that a little girl injured in a cliff fall can still be the Festival Queen, but his relationship with Meryl suffers as a result.</desc>
+    <credits>
+      <director>Tim Dowd</director>
+      <director>Frank W. Smith</director>
+      <producer>Ken Horn</producer>
+      <producer>Keith Richardson</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Medical</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F2804830~~2FEP014230490040,imi:ed22136a3e0e3ee6d0d57cf99bc952fa23262304/posterTile?imageVersion=CvzNCQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20261104175500 +0000" stop="20261104195500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Marple</title>
+    <sub-title lang="en">Towards Zero</sub-title>
+    <desc lang="en">Lady Tressilian hosts a house party on her Devon estate, along with her companion Mary and friend Treves, but when Treves is found dead the next day and another murder follows, Miss Marple is determined to find the killer.</desc>
+    <credits>
+      <director>Roy Boulting</director>
+      <producer>Guy Slater</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Crime Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1584546~~2FEP030582640031,imi:a93356ce8b2b305697d968249acf8078d6ccf59a/posterTile?imageVersion=up1FIw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2008 E30331</episode-num>
+  </programme>
+  <programme start="20261104195500 +0000" stop="20261104210000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Heartbeat</title>
+    <sub-title lang="en">The Long Weekend</sub-title>
+    <desc lang="en">Mike and Jackie discover what a handful teenagers can be when Mike's niece comes to stay, while Vernon plays bodyguard to a Prince from Lithuania at Ashfordly Hall, leaving David to help Bellamy with a very special evening.</desc>
+    <credits>
+      <director>Roger Bamford</director>
+      <producer>Keith Richardson</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F1685614~~2FEP012587610160,imi:909027c7603449db2efe474d521b52832f2edc3b/posterTile?imageVersion=SDx04Q&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S10 E16</episode-num>
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261104220500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">The Hack</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">Nick, Dave and their allies face troubling new threats as the hacking scandal explodes, and Rupert Murdoch faces Parliament. Nick delivers a rallying call to arms for open public-interest journalism.</desc>
+    <credits>
+      <director>Lewis Arnold</director>
+      <producer>Jack Thorne</producer>
+      <producer>Joe Williams</producer>
+      <producer>Lewis Arnold</producer>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Crime</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F31159985~~2FEP060356110007,imi:aceefec9381a7e0dc552f962cb0e21677fe7a771/posterTile?imageVersion=TaJrRw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20261104220500 +0000" stop="20261104223500 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Coronation Street</title>
+    <sub-title lang="en">Episode 214</sub-title>
+    <desc lang="en">Leanne confronts Brody and Idris with her suspicions, Carla makes a sad announcement to her staff, Dev offers Kit some respite, and Gary tackles Ross about his treatment of Marco.</desc>
+    <credits>
+      <director>Ryan Graham</director>
+      <producer>Kate Brooks</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Soap</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368137~~2FEP012606069166,imi:c26f5f24e88606c0ba1b4dc78f50fa400f2113a5/posterTile?imageVersion=KFO7xg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">E214</episode-num>
+  </programme>
+  <programme start="20261104223500 +0000" stop="20261104231000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Emmerdale</title>
+    <sub-title lang="en">Episode 214</sub-title>
+    <desc lang="en">Belle is gutted, Caleb makes a demand, and Robert confronts Charity.</desc>
+    <credits>
+      <director>Brett Fallis</director>
+      <producer>Iain Macleod</producer>
+      <producer>Laura Shaw</producer>
+      <producer>Sophie Roper</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Drama Series</category>
+    <category lang="en">Soap</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F34368191~~2FEP012568688425,imi:2884b108718017f651df88b426c3a40e3b4b5c6b/posterTile?imageVersion=JUU_PA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">E214</episode-num>
+    <rating system="IE">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261104231000 +0000" stop="20261105002000 +0000" channel="Virgin.Media.Three.HD.ie">
+    <title lang="en">Me and My Tourette's</title>
+    <desc lang="en">A warm documentary following three people with Tourette syndrome as they reach turning points in their lives at a camp that could change everything for them and their families.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F23129017~~2FSH063750340000~~2Fspecial,imi:6784d535d71627d7671dfee9bb1db66e6e0d38fb/posterTile?imageVersion=V4_0tA&amp;w=200" />
+    <country lang="en">AU</country>
   </programme>
   <channel id="Astro.Premier.League.my">
     <display-name lang="en">Astro Premier League</display-name>
