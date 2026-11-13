@@ -119,7 +119,6 @@
   <channel id="TV5.ph">
     <display-name lang="en">TV5</display-name>
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" />
-    <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/17162248/tv5-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="TVNMOVIESPINOY.ph">
@@ -142,54 +141,6 @@
     <icon src="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo-300x300.png" />
     <url>http://www.clickthecity.com</url>
   </channel>
-  <programme start="20261112010000 +0000" stop="20261112030000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112050000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112070000 +0000" stop="20261112090000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112130000 +0000" stop="20261112150000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
-  <programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="A2Z.ph">
-    <title lang="en">A2Z</title>
-    <desc lang="en">A2Z.</desc>
-  </programme>
   <programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="A2Z.ph">
     <title lang="en">A2Z</title>
     <desc lang="en">A2Z.</desc>
@@ -338,287 +289,85 @@
     <title lang="en">A2Z</title>
     <desc lang="en">A2Z.</desc>
   </programme>
-  <programme start="20261112223000 +0800" stop="20261112230000 +0800" channel="ANC.ph">
-    <title lang="en">My Puhunan Kaya Mo!</title>
-    <category lang="en">Infotainment</category>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="A2Z.ph">
+    <title lang="en">A2Z</title>
+    <desc lang="en">A2Z.</desc>
   </programme>
-  <programme start="20261112230000 +0800" stop="20261112233000 +0800" channel="ANC.ph">
-    <title lang="en">Executive Class</title>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="A2Z.ph">
+    <title lang="en">A2Z</title>
+    <desc lang="en">A2Z.</desc>
   </programme>
-  <programme start="20261112233000 +0800" stop="20261113000000 +0800" channel="ANC.ph">
-    <title lang="en">Asian Air Safari</title>
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="A2Z.ph">
+    <title lang="en">A2Z</title>
+    <desc lang="en">A2Z.</desc>
   </programme>
-  <programme start="20261113000000 +0800" stop="20261113003000 +0800" channel="ANC.ph">
+  <programme start="20261116050000 +0000" stop="20261116070000 +0000" channel="A2Z.ph">
+    <title lang="en">A2Z</title>
+    <desc lang="en">A2Z.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="A2Z.ph">
+    <title lang="en">A2Z</title>
+    <desc lang="en">A2Z.</desc>
+  </programme>
+  <programme start="20261113230000 +0800" stop="20261114000000 +0800" channel="ANC.ph">
+    <title lang="en">Chasing Flavors</title>
+  </programme>
+  <programme start="20261114000000 +0800" stop="20261114003000 +0800" channel="ANC.ph">
     <title lang="en">The World Tonight</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261113003000 +0800" stop="20261113010000 +0800" channel="ANC.ph">
-    <title lang="en">Women of Style</title>
+  <programme start="20261114003000 +0800" stop="20261114010000 +0800" channel="ANC.ph">
+    <title lang="en">Insight with April Lee-Tan</title>
+    <category lang="en">Talk</category>
   </programme>
-  <programme start="20261113010000 +0800" stop="20261113020000 +0800" channel="ANC.ph">
+  <programme start="20261114010000 +0800" stop="20261114020000 +0800" channel="ANC.ph">
     <title lang="en">Headstart with Karen Davila</title>
     <category lang="en">Talk</category>
   </programme>
-  <programme start="20261113020000 +0800" stop="20261113023000 +0800" channel="ANC.ph">
-    <title lang="en">#NoFilter</title>
-    <category lang="en">Talk</category>
+  <programme start="20261114020000 +0800" stop="20261114023000 +0800" channel="ANC.ph">
+    <title lang="en">Local Legends</title>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261113023000 +0800" stop="20261113030000 +0800" channel="ANC.ph">
-    <title lang="en">My Italy with Margarita</title>
+  <programme start="20261114023000 +0800" stop="20261114030000 +0800" channel="ANC.ph">
+    <title lang="en">On Cue</title>
+  </programme>
+  <programme start="20261114030000 +0800" stop="20261114033000 +0800" channel="ANC.ph">
+    <title lang="en">EIC on The Move</title>
     <category lang="en">Lifestyle</category>
   </programme>
-  <programme start="20261113030000 +0800" stop="20261113033000 +0800" channel="ANC.ph">
+  <programme start="20261114033000 +0800" stop="20261114040000 +0800" channel="ANC.ph">
     <title lang="en">At The Moment</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261113033000 +0800" stop="20261113040000 +0800" channel="ANC.ph">
-    <title lang="en">Casa Daza</title>
-  </programme>
-  <programme start="20261113040000 +0800" stop="20261113043000 +0800" channel="ANC.ph">
-    <title lang="en">Dwellings</title>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20261112224000 +0800" stop="20261112233500 +0800" channel="AXN.ph">
+  <programme start="20261113224000 +0800" stop="20261113233500 +0800" channel="AXN.ph">
     <title lang="en">NCIS: Sydney</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20261112233500 +0800" stop="20261113003000 +0800" channel="AXN.ph">
+  <programme start="20261113233500 +0800" stop="20261114003000 +0800" channel="AXN.ph">
     <title lang="en">S.W.A.T.</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S8</episode-num>
   </programme>
-  <programme start="20261113003000 +0800" stop="20261113012500 +0800" channel="AXN.ph">
+  <programme start="20261114003000 +0800" stop="20261114012500 +0800" channel="AXN.ph">
     <title lang="en">FBI: Most Wanted</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S6</episode-num>
   </programme>
-  <programme start="20261113012500 +0800" stop="20261113022000 +0800" channel="AXN.ph">
+  <programme start="20261114012500 +0800" stop="20261114022000 +0800" channel="AXN.ph">
     <title lang="en">Coroner</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20261113022000 +0800" stop="20261113031500 +0800" channel="AXN.ph">
+  <programme start="20261114022000 +0800" stop="20261114031500 +0800" channel="AXN.ph">
     <title lang="en">NCIS: Sydney</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20261113031500 +0800" stop="20261113041000 +0800" channel="AXN.ph">
+  <programme start="20261114031500 +0800" stop="20261114041000 +0800" channel="AXN.ph">
     <title lang="en">S.W.A.T.</title>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S8</episode-num>
-  </programme>
-  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="Arirang.ph">
-    <title lang="en">Beauty On And Off</title>
-    <desc lang="en">Beauty On And Off.</desc>
-  </programme>
-  <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="Arirang.ph">
-    <title lang="en">Moo No Plan</title>
-    <desc lang="en">Moo No Plan.</desc>
-  </programme>
-  <programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="Arirang.ph">
-    <title lang="en">New Day At Arirang</title>
-    <desc lang="en">New Day At Arirang.</desc>
-  </programme>
-  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="Arirang.ph">
-    <title lang="en">News Generation</title>
-    <desc lang="en">News Generation.</desc>
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="Arirang.ph">
-    <title lang="en">Culture Crunch</title>
-    <desc lang="en">Culture Crunch.</desc>
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="Arirang.ph">
-    <title lang="en">Arirang News 12:00</title>
-    <desc lang="en">Arirang News 12:00.</desc>
-  </programme>
-  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Arirang.ph">
-    <title lang="en">Beauty On And Off</title>
-    <desc lang="en">Beauty On And Off.</desc>
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="Arirang.ph">
-    <title lang="en">Simply K-Pop 2026</title>
-    <desc lang="en">Simply K-Pop 2026.</desc>
-  </programme>
-  <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Dive</title>
-    <desc lang="en">K-Culture Dive.</desc>
-  </programme>
-  <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="Arirang.ph">
-    <title lang="en">News Generation</title>
-    <desc lang="en">News Generation.</desc>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="Arirang.ph">
-    <title lang="en">Moo No Plan</title>
-    <desc lang="en">Moo No Plan.</desc>
-  </programme>
-  <programme start="20261112063000 +0000" stop="20261112065000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Minutes: K-Stage</title>
-    <desc lang="en">K-Culture Minutes: K-Stage.</desc>
-  </programme>
-  <programme start="20261112065000 +0000" stop="20261112070000 +0000" channel="Arirang.ph">
-    <title lang="en">Smartbiz Accelerators 2</title>
-    <desc lang="en">Smartbiz Accelerators 2.</desc>
-  </programme>
-  <programme start="20261112070000 +0000" stop="20261112072000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Sports Beyond</title>
-    <desc lang="en">K-Sports Beyond.</desc>
-  </programme>
-  <programme start="20261112072000 +0000" stop="20261112073000 +0000" channel="Arirang.ph">
-    <title lang="en">Fishing In The Museum</title>
-    <desc lang="en">Fishing In The Museum.</desc>
-  </programme>
-  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="Arirang.ph">
-    <title lang="en">Beauty On And Off</title>
-    <desc lang="en">Beauty On And Off.</desc>
-  </programme>
-  <programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="Arirang.ph">
-    <title lang="en">The Daily Report</title>
-    <desc lang="en">The Daily Report.</desc>
-  </programme>
-  <programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="Arirang.ph">
-    <title lang="en">Press Perspective</title>
-    <desc lang="en">Press Perspective.</desc>
-  </programme>
-  <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="Arirang.ph">
-    <title lang="en">Simply K-Pop 2026</title>
-    <desc lang="en">Simply K-Pop 2026.</desc>
-  </programme>
-  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="Arirang.ph">
-    <title lang="en">Premium Collection</title>
-    <desc lang="en">Premium Collection.</desc>
-  </programme>
-  <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="Arirang.ph">
-    <title lang="en">Moo No Plan</title>
-    <desc lang="en">Moo No Plan.</desc>
-  </programme>
-  <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="Arirang.ph">
-    <title lang="en">Newscenter</title>
-    <desc lang="en">Newscenter.</desc>
-  </programme>
-  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="Arirang.ph">
-    <title lang="en">Within The Frame</title>
-    <desc lang="en">Within The Frame.</desc>
-  </programme>
-  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Dive</title>
-    <desc lang="en">K-Culture Dive.</desc>
-  </programme>
-  <programme start="20261112123000 +0000" stop="20261112125000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Minutes: K-Stage</title>
-    <desc lang="en">K-Culture Minutes: K-Stage.</desc>
-  </programme>
-  <programme start="20261112125000 +0000" stop="20261112130000 +0000" channel="Arirang.ph">
-    <title lang="en">Smartbiz Accelerators 2</title>
-    <desc lang="en">Smartbiz Accelerators 2.</desc>
-  </programme>
-  <programme start="20261112130000 +0000" stop="20261112132000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Sports Beyond</title>
-    <desc lang="en">K-Sports Beyond.</desc>
-  </programme>
-  <programme start="20261112132000 +0000" stop="20261112133000 +0000" channel="Arirang.ph">
-    <title lang="en">Fishing In The Museum</title>
-    <desc lang="en">Fishing In The Museum.</desc>
-  </programme>
-  <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="Arirang.ph">
-    <title lang="en">Beauty On And Off</title>
-    <desc lang="en">Beauty On And Off.</desc>
-  </programme>
-  <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Arirang.ph">
-    <title lang="en">Press Perspective</title>
-    <desc lang="en">Press Perspective.</desc>
-  </programme>
-  <programme start="20261112143000 +0000" stop="20261112145000 +0000" channel="Arirang.ph">
-    <title lang="en">The Grand Heritage ASMR</title>
-    <desc lang="en">The Grand Heritage ASMR.</desc>
-  </programme>
-  <programme start="20261112145000 +0000" stop="20261112150000 +0000" channel="Arirang.ph">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The Grand Heritage.</desc>
-  </programme>
-  <programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="Arirang.ph">
-    <title lang="en">News Generation</title>
-    <desc lang="en">News Generation.</desc>
-  </programme>
-  <programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="Arirang.ph">
-    <title lang="en">Trip In Korea</title>
-    <desc lang="en">Trip In Korea.</desc>
-  </programme>
-  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="Arirang.ph">
-    <title lang="en">Premium Collection</title>
-    <desc lang="en">Premium Collection.</desc>
-  </programme>
-  <programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="Arirang.ph">
-    <title lang="en">Re: Space</title>
-    <desc lang="en">Re: Space.</desc>
-  </programme>
-  <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="Arirang.ph">
-    <title lang="en">Simply K-Pop 2026</title>
-    <desc lang="en">Simply K-Pop 2026.</desc>
-  </programme>
-  <programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Dive</title>
-    <desc lang="en">K-Culture Dive.</desc>
-  </programme>
-  <programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="Arirang.ph">
-    <title lang="en">Beauty On And Off</title>
-    <desc lang="en">Beauty On And Off.</desc>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="Arirang.ph">
-    <title lang="en">Within The Frame</title>
-    <desc lang="en">Within The Frame.</desc>
-  </programme>
-  <programme start="20261112193000 +0000" stop="20261112195000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Minutes: K-Stage</title>
-    <desc lang="en">K-Culture Minutes: K-Stage.</desc>
-  </programme>
-  <programme start="20261112195000 +0000" stop="20261112200000 +0000" channel="Arirang.ph">
-    <title lang="en">The Living Sea Of Jeju</title>
-    <desc lang="en">The Living Sea Of Jeju.</desc>
-  </programme>
-  <programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="Arirang.ph">
-    <title lang="en">Moo No Plan</title>
-    <desc lang="en">Moo No Plan.</desc>
-  </programme>
-  <programme start="20261112203000 +0000" stop="20261112205000 +0000" channel="Arirang.ph">
-    <title lang="en">The Grand Heritage ASMR</title>
-    <desc lang="en">The Grand Heritage ASMR.</desc>
-  </programme>
-  <programme start="20261112205000 +0000" stop="20261112210000 +0000" channel="Arirang.ph">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The Grand Heritage.</desc>
-  </programme>
-  <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="Arirang.ph">
-    <title lang="en">Simply K-Pop 2026</title>
-    <desc lang="en">Simply K-Pop 2026.</desc>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112221500 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Minutes: K-People</title>
-    <desc lang="en">K-Culture Minutes: K-People.</desc>
-  </programme>
-  <programme start="20261112221500 +0000" stop="20261112223000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Culture Minutes: K-People</title>
-    <desc lang="en">K-Culture Minutes: K-People.</desc>
-  </programme>
-  <programme start="20261112223000 +0000" stop="20261112225000 +0000" channel="Arirang.ph">
-    <title lang="en">K-Sports Beyond</title>
-    <desc lang="en">K-Sports Beyond.</desc>
-  </programme>
-  <programme start="20261112225000 +0000" stop="20261112230000 +0000" channel="Arirang.ph">
-    <title lang="en">Heritage Walks With Little Friend</title>
-    <desc lang="en">Heritage Walks With Little Friend.</desc>
-  </programme>
-  <programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="Arirang.ph">
-    <title lang="en">Trip In Korea</title>
-    <desc lang="en">Trip In Korea.</desc>
-  </programme>
-  <programme start="20261112233000 +0000" stop="20261112235000 +0000" channel="Arirang.ph">
-    <title lang="en">Exploring Korean Literature C</title>
-    <desc lang="en">Exploring Korean Literature C.</desc>
-  </programme>
-  <programme start="20261112235000 +0000" stop="20261113000000 +0000" channel="Arirang.ph">
-    <title lang="en">The Living Sea Of Jeju</title>
-    <desc lang="en">The Living Sea Of Jeju.</desc>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="Arirang.ph">
     <title lang="en">The Making Of K-Pop</title>
@@ -1144,340 +893,103 @@
     <title lang="en">Arirang Special</title>
     <desc lang="en">Arirang Special.</desc>
   </programme>
-  <programme start="20261112210000 +0800" stop="20261112230000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Rosa Mistica</title>
+  <programme start="20261113000000 +0800" stop="20261113020000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Bikini Open</title>
     <credits>
-      <actor>Snooky Serna</actor>
-      <actor>Aga Muhlach</actor>
-      <actor>Liza Lorena</actor>
-      <actor>Marissa Delgado</actor>
+      <actor>Cherry Pie Picache</actor>
+      <actor>Francine Prieto</actor>
+      <actor>Diana Zubiri</actor>
+      <actor>Rafael Rosell</actor>
+      <actor>Alfred Vargas</actor>
+      <actor>Ricky Davao</actor>
+      <actor>Michael de Mesa</actor>
     </credits>
-    <date>1987</date>
+    <date>2005</date>
+    <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <country lang="en">Philippines</country>
-  </programme>
-  <programme start="20261112230000 +0800" stop="20261113010000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The Trial</title>
-    <desc lang="en">A mentally challenged young man is accused of raping his teacher, and is then put through the machinations of a very public trial.</desc>
-    <credits>
-      <director>Chito S. Roño</director>
-      <actor>John Lloyd Cruz</actor>
-      <actor>Jessy Mendiola</actor>
-      <actor>Richard Gomez</actor>
-      <actor>Gretchen Barretto</actor>
-      <actor>Enrique Gil</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="http://www.clickthecity.com/movies/img/14754.jpg" />
-    <country lang="en">Philippines</country>
+    <category lang="en">Sexy</category>
     <rating system="MTRCB">
       <value>R-13</value>
     </rating>
-    <star-rating system="Critics">
-      <value>2.5</value>
-    </star-rating>
   </programme>
-  <programme start="20261113010000 +0800" stop="20261113030000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Kagat</title>
+  <programme start="20261113020000 +0800" stop="20261113040000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Disgrasyada</title>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261112224500 +0800" stop="20261112233500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Hoarders S14</title>
+  <programme start="20261113224500 +0800" stop="20261113233500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Accused: Did I Do It?</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112233500 +0800" stop="20261113002500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Hoarders S14</title>
+  <programme start="20261113233500 +0800" stop="20261114002500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Murder At The Motel</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261113002500 +0800" stop="20261113012000 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Taking The Stand S4</title>
+  <programme start="20261114002500 +0800" stop="20261114012000 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Killer Investigations</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261113012000 +0800" stop="20261113021500 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Interrogation Raw S2</title>
+  <programme start="20261114012000 +0800" stop="20261114021500 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Accused: Did I Do It?</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261113021500 +0800" stop="20261113031000 +0800" channel="Crime.Investigation.ph">
-    <title lang="en">Hoarders S14</title>
+  <programme start="20261114021500 +0800" stop="20261114031000 +0800" channel="Crime.Investigation.ph">
+    <title lang="en">Accused: Did I Do It?</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261113031000 +0800" stop="20261113040500 +0800" channel="Crime.Investigation.ph">
+  <programme start="20261114031000 +0800" stop="20261114040500 +0800" channel="Crime.Investigation.ph">
     <title lang="en">Fugitive Hunters: Mexico</title>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112222000 +0800" stop="20261112230000 +0800" channel="GMA.ph">
+  <programme start="20261113222000 +0800" stop="20261113230000 +0800" channel="GMA.ph">
     <title lang="en">Saksi</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261112230000 +0800" stop="20261112233000 +0800" channel="GMA.ph">
+  <programme start="20261113230000 +0800" stop="20261113233000 +0800" channel="GMA.ph">
     <title lang="en">The Kinnaree Conspiracy</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261112223000 +0800" stop="20261112230500 +0800" channel="GTV.ph">
+  <programme start="20261113223000 +0800" stop="20261113230500 +0800" channel="GTV.ph">
     <title lang="en">Task Force Firewall</title>
     <category lang="en">Action/Adventure</category>
   </programme>
-  <programme start="20261112230500 +0800" stop="20261112232500 +0800" channel="GTV.ph">
+  <programme start="20261113230500 +0800" stop="20261113232500 +0800" channel="GTV.ph">
     <title lang="en">State Of The Nation</title>
     <category lang="en">Talk</category>
   </programme>
-  <programme start="20261112220000 +0800" stop="20261112231500 +0800" channel="Jeepney.TV.ph">
+  <programme start="20261113220000 +0800" stop="20261113231500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Magkano Ang Iyong Dangal?</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261112231500 +0800" stop="20261113000000 +0800" channel="Jeepney.TV.ph">
+  <programme start="20261113231500 +0800" stop="20261114000000 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Los Bastardos</title>
     <category lang="en">Action/Adventure</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261113000000 +0800" stop="20261113004500 +0800" channel="Jeepney.TV.ph">
+  <programme start="20261114000000 +0800" stop="20261114004500 +0800" channel="Jeepney.TV.ph">
     <title lang="en">Since I Found You</title>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261113004500 +0800" stop="20261113012000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Huwag Kang Mangamba</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261113012000 +0800" stop="20261113020000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Darating Ang Umaga</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261113020000 +0800" stop="20261113024500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Imortal</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20261113024500 +0800" stop="20261113033000 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Dream Dad</title>
+  <programme start="20261114004500 +0800" stop="20261114014500 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Home Along Da Riles</title>
     <category lang="en">Comedy</category>
-    <category lang="en">Kids/Family</category>
   </programme>
-  <programme start="20261113033000 +0800" stop="20261113044500 +0800" channel="Jeepney.TV.ph">
-    <title lang="en">Magkano Ang Iyong Dangal?</title>
-    <category lang="en">Drama</category>
+  <programme start="20261114014500 +0800" stop="20261114023000 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Oki Doki Doc</title>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261112224500 +0800" stop="20261112231500 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20261113224500 +0800" stop="20261113231500 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">The World Tonight</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261112231500 +0800" stop="20261113020000 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20261113231500 +0800" stop="20261114020000 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20261113020000 +0800" stop="20261113034500 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20261114020000 +0800" stop="20261114034500 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
-  </programme>
-  <programme start="20261112000000 +0000" stop="20261112002000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Preschool</title>
-    <title lang="en">Eccd</title>
-    <desc lang="en">Learn and appreciate the Creator and the Creations, Communication, Cooperation, Relationship, Sense of Purpose.</desc>
-  </programme>
-  <programme start="20261112002000 +0000" stop="20261112004000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Kindergarten</title>
-    <desc lang="en">Learn about the concept of a family, school, and community, as well as letter names, sounds, and different vocabularies about the environment.</desc>
-  </programme>
-  <programme start="20261112004000 +0000" stop="20261112010000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Language</title>
-    <desc lang="en">Matuto tungkol sa pabula at alamat at ang pagkasunod-sunod ng mga pangyayari nito. Alamin rin ang wastong paggamit ng magagalang na pananalita, pangngalan, malalaki at maliliit na letra, pati na rin ang pagbasa at pagbilang ng mga pantig.</desc>
-  </programme>
-  <programme start="20261112010000 +0000" stop="20261112012000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Math</title>
-    <desc lang="en">Learn how to add and subtract whole numbers up to 100 including money.</desc>
-  </programme>
-  <programme start="20261112012000 +0000" stop="20261112014000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Reading &amp; Literacy</title>
-    <desc lang="en">Identify what are action words and describing words, and know how to follow and give directions involving one to two steps.</desc>
-  </programme>
-  <programme start="20261112014000 +0000" stop="20261112020000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Makabansa</title>
-    <desc lang="en">Matutong pahalagahan at unawain ang pamilya at mga kasapi nito kabilang ang mga bahaging ginagampanan ng bawat isa.</desc>
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112022000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Filipino</title>
-    <desc lang="en">Alamin ang mga elemento at bahagi ng kuwento, kabilang na ang pagpaghihinuha at pagbibigay ng susunod na pangyayari sa kuwento.</desc>
-  </programme>
-  <programme start="20261112022000 +0000" stop="20261112024000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Math</title>
-    <desc lang="en">Learn how to subtract and multiply whole numbers up to 1000 including money.</desc>
-  </programme>
-  <programme start="20261112024000 +0000" stop="20261112030000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 English</title>
-    <desc lang="en">Identify different parts of a book and their uses, as well as learn about action words and words with short vowels.</desc>
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112032000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Araling Panlipunan</title>
-    <desc lang="en">Matutong unawain ang kuwento ng pinagmulan ng sariling komunidad batay sa konsepto ng pagbabago at pagpapatuloy upang mapahalagahan ang kulturang nabuo ng komunidad.</desc>
-  </programme>
-  <programme start="20261112032000 +0000" stop="20261112034000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Filipino</title>
-    <desc lang="en">Alamin kung paano gumamit ng magagalang na pananalita, salitang naglalarawan, at angkop na tanong. Alamin rin ang mga salitang magkatugma, pagkukumpara ng kuwento at pagbibigay ng wakas dito.</desc>
-  </programme>
-  <programme start="20261112034000 +0000" stop="20261112040000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Math</title>
-    <desc lang="en">Learn multiplication and division of whole numbers including money.</desc>
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112042000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 English</title>
-    <desc lang="en">Know more about verbs, pronouns, consonant blends, and digraphs, as well as different sources of information and how to identify facts and opinions.</desc>
-  </programme>
-  <programme start="20261112042000 +0000" stop="20261112044000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Araling Panlipunan</title>
-    <desc lang="en">Matutong unawain at pahalagahan ang iba’t ibang kwento at mga sagisag na naglalarawan ng sariling lalawigan at mga karatig lalawigan sa kinabibilangang rehiyon.</desc>
-  </programme>
-  <programme start="20261112044000 +0000" stop="20261112050000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Science</title>
-    <desc lang="en">Discover the parts and functions of the sense organs of the human body; parts and functions of animals and plants and their importance to humans; the characteristics of living and nonliving things and the basic needs of plants, animals and humans.</desc>
-  </programme>
-  <programme start="20261112050000 +0000" stop="20261112052000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 4 Filipino</title>
-    <desc lang="en">Aralin ang mga alamat, tula, at awit, at ang wastong paggamit ng mga pang-abay, pang-uri, at pandiwa.</desc>
-  </programme>
-  <programme start="20261112052000 +0000" stop="20261112054000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 4 Math</title>
-    <desc lang="en">Find out more about factors and multiples, addition and subtraction of fractions, improper fractions, mixed numbers, and decimals.</desc>
-  </programme>
-  <programme start="20261112054000 +0000" stop="20261112060000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 4 English</title>
-    <desc lang="en">Learn about personal pronouns, adjectives, verbs, context clues, and the different kinds of nouns.</desc>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112062000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 4 Araling Panlipunan</title>
-    <desc lang="en">Suriin ang iba’t ibang gawaing pangkabuhayan batay sa heograpiya, oportunidad, at hamong kaakibat nito tungo sa likas kayang pag-unlad.</desc>
-  </programme>
-  <programme start="20261112062000 +0000" stop="20261112064000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 4 Science</title>
-    <desc lang="en">Discover how the major internal organs keep the body healthy. Learn about how animals and plants adapt to land or water, and their life cycles that can be affected by nature, as well as how living things interact with the environment.</desc>
-  </programme>
-  <programme start="20261112064000 +0000" stop="20261112070000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Filipino</title>
-    <desc lang="en">Alamin ang mga iba't ibang sulatin tulad ng mitolohiya, dula, tula, maikling kwento, sanaysay, talumpati, at mga pahayag, kabilang na ang mga nababasa sa social media.</desc>
-  </programme>
-  <programme start="20261112070000 +0000" stop="20261112072000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Math</title>
-    <desc lang="en">Learn about the key concepts of polynomial function, circles and coordinate geometry.</desc>
-  </programme>
-  <programme start="20261112072000 +0000" stop="20261112074000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 English</title>
-    <desc lang="en">Know more about the language used in the different kinds of texts, and study more about formulating statements and claims, public speaking, and writing texts on issues.</desc>
-  </programme>
-  <programme start="20261112074000 +0000" stop="20261112080000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Araling Panlipunan</title>
-    <desc lang="en">Tuklasin ang mga sanhi at implikasyon ng mga lokal at pandaigdigang isyung pang-ekonomiya upang mapaunlad ang kakayahan sa matalinong pagpapasya tungo sa pambansang kaunlaran.</desc>
-  </programme>
-  <programme start="20261112080000 +0000" stop="20261112082000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Science</title>
-    <desc lang="en">Identify the different regions of the electromagnetic spectrum,  learn about the images formed by the different types of mirrors and lenses, and the relationship between electricity and magnetism in electric motors and generators.</desc>
-  </programme>
-  <programme start="20261112082000 +0000" stop="20261112084000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Preschool</title>
-    <title lang="en">Eccd</title>
-    <desc lang="en">Learn and appreciate the Creator and the Creations, Communication, Cooperation, Relationship, Sense of Purpose.</desc>
-  </programme>
-  <programme start="20261112084000 +0000" stop="20261112090000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Kindergarten</title>
-    <desc lang="en">Learn about the concept of a family, school, and community, as well as letter names, sounds, and different vocabularies about the environment.</desc>
-  </programme>
-  <programme start="20261112090000 +0000" stop="20261112092000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Language</title>
-    <desc lang="en">Matuto tungkol sa pabula at alamat at ang pagkasunod-sunod ng mga pangyayari nito. Alamin rin ang wastong paggamit ng magagalang na pananalita, pangngalan, malalaki at maliliit na letra, pati na rin ang pagbasa at pagbilang ng mga pantig.</desc>
-  </programme>
-  <programme start="20261112092000 +0000" stop="20261112094000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Math</title>
-    <desc lang="en">Learn how to add and subtract whole numbers up to 100 including money.</desc>
-  </programme>
-  <programme start="20261112094000 +0000" stop="20261112100000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Reading &amp; Literacy</title>
-    <desc lang="en">Identify what are action words and describing words, and know how to follow and give directions involving one to two steps.</desc>
-  </programme>
-  <programme start="20261112100000 +0000" stop="20261112102000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 1 Makabansa</title>
-    <desc lang="en">Matutong pahalagahan at unawain ang pamilya at mga kasapi nito kabilang ang mga bahaging ginagampanan ng bawat isa.</desc>
-  </programme>
-  <programme start="20261112102000 +0000" stop="20261112104000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Filipino</title>
-    <desc lang="en">Alamin ang mga elemento at bahagi ng kuwento, kabilang na ang pagpaghihinuha at pagbibigay ng susunod na pangyayari sa kuwento.</desc>
-  </programme>
-  <programme start="20261112104000 +0000" stop="20261112110000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Math</title>
-    <desc lang="en">Learn how to subtract and multiply whole numbers up to 1000 including money.</desc>
-  </programme>
-  <programme start="20261112110000 +0000" stop="20261112112000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 English</title>
-    <desc lang="en">Identify different parts of a book and their uses, as well as learn about action words and words with short vowels.</desc>
-  </programme>
-  <programme start="20261112112000 +0000" stop="20261112114000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 2 Araling Panlipunan</title>
-    <desc lang="en">Matutong unawain ang kuwento ng pinagmulan ng sariling komunidad batay sa konsepto ng pagbabago at pagpapatuloy upang mapahalagahan ang kulturang nabuo ng komunidad.</desc>
-  </programme>
-  <programme start="20261112114000 +0000" stop="20261112120000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Filipino</title>
-    <desc lang="en">Alamin kung paano gumamit ng magagalang na pananalita, salitang naglalarawan, at angkop na tanong. Alamin rin ang mga salitang magkatugma, pagkukumpara ng kuwento at pagbibigay ng wakas dito.</desc>
-  </programme>
-  <programme start="20261112120000 +0000" stop="20261112122000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Math</title>
-    <desc lang="en">Learn multiplication and division of whole numbers including money.</desc>
-  </programme>
-  <programme start="20261112122000 +0000" stop="20261112124000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 English</title>
-    <desc lang="en">Know more about verbs, pronouns, consonant blends, and digraphs, as well as different sources of information and how to identify facts and opinions.</desc>
-  </programme>
-  <programme start="20261112124000 +0000" stop="20261112130000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Araling Panlipunan</title>
-    <desc lang="en">Matutong unawain at pahalagahan ang iba’t ibang kwento at mga sagisag na naglalarawan ng sariling lalawigan at mga karatig lalawigan sa kinabibilangang rehiyon.</desc>
-  </programme>
-  <programme start="20261112130000 +0000" stop="20261112132000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 3 Science</title>
-    <desc lang="en">Discover the parts and functions of the sense organs of the human body; parts and functions of animals and plants and their importance to humans; the characteristics of living and nonliving things and the basic needs of plants, animals and humans.</desc>
-  </programme>
-  <programme start="20261112132000 +0000" stop="20261112134000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Filipino</title>
-    <desc lang="en">Alamin ang mga iba't ibang sulatin tulad ng mitolohiya, dula, tula, maikling kwento, sanaysay, talumpati, at mga pahayag, kabilang na ang mga nababasa sa social media.</desc>
-  </programme>
-  <programme start="20261112134000 +0000" stop="20261112140000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Math</title>
-    <desc lang="en">Learn about the key concepts of polynomial function, circles and coordinate geometry.</desc>
-  </programme>
-  <programme start="20261112140000 +0000" stop="20261112142000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 English</title>
-    <desc lang="en">Know more about the language used in the different kinds of texts, and study more about formulating statements and claims, public speaking, and writing texts on issues.</desc>
-  </programme>
-  <programme start="20261112142000 +0000" stop="20261112144000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Araling Panlipunan</title>
-    <desc lang="en">Tuklasin ang mga sanhi at implikasyon ng mga lokal at pandaigdigang isyung pang-ekonomiya upang mapaunlad ang kakayahan sa matalinong pagpapasya tungo sa pambansang kaunlaran.</desc>
-  </programme>
-  <programme start="20261112144000 +0000" stop="20261112220000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 10 Science</title>
-    <desc lang="en">Identify the different regions of the electromagnetic spectrum,  learn about the images formed by the different types of mirrors and lenses, and the relationship between electricity and magnetism in electric motors and generators.</desc>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112222000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Als</title>
-    <desc lang="en">Learn about the process of planning, setting up, running a small business, and entrepreneurial skills.</desc>
-  </programme>
-  <programme start="20261112222000 +0000" stop="20261112224000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 5 Filipino</title>
-    <desc lang="en">Aralin ang wastong pagbabaybay, paggamit ng mga bantas. Alamin rin kung ano ang pandiwa at pang-uri, at kung paano sumuri ng dokyumentaryo, talaarawan at talambuhay.</desc>
-  </programme>
-  <programme start="20261112224000 +0000" stop="20261112230000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 5 Math</title>
-    <desc lang="en">Learn about decimals and the four fundamental operations involving decimals, ratio, and proportion.</desc>
-  </programme>
-  <programme start="20261112230000 +0000" stop="20261112232000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 5 English</title>
-    <desc lang="en">Identify aspects of verbs, modal, conjunctions and point of views.</desc>
-  </programme>
-  <programme start="20261112232000 +0000" stop="20261112234000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 5 Araling Panlipunan</title>
-    <desc lang="en">Unawain ang konteksto sa bahaging ginampanan ng simbahan sa layunin at mga paraan ng pananakopng Espanyol sa Pilipinas at ang epekto ng mga ito sa lipunan.</desc>
-  </programme>
-  <programme start="20261112234000 +0000" stop="20261113000000 +0000" channel="Knowledge.Channel.ph">
-    <title lang="en">Grade 5 Science</title>
-    <desc lang="en">Learn how the parts of the human reproductive system work and how animals and plants reproduce, as well as the interactions for survival among living and nonliving things that take place in estuaries and intertidal zones.</desc>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113002000 +0000" channel="Knowledge.Channel.ph">
     <title lang="en">Preschool</title>
@@ -2097,53 +1609,211 @@
     <title lang="en">Grade 4 Science</title>
     <desc lang="en">Find out how to group different materials based on their properties, and how they undergo changes when exposed to certain conditions.</desc>
   </programme>
-  <programme start="20261112010000 +0000" stop="20261112030000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116000000 +0000" stop="20261116002000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Preschool</title>
+    <title lang="en">Eccd</title>
+    <desc lang="en">Learn and appreciate the Creator and the Creations, Communication, Cooperation, Relationship, Sense of Purpose.</desc>
   </programme>
-  <programme start="20261112030000 +0000" stop="20261112050000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116002000 +0000" stop="20261116004000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Kindergarten</title>
+    <desc lang="en">Learn about letters, body parts and their uses, and objects in the environment with their properties.</desc>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116004000 +0000" stop="20261116010000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Language</title>
+    <desc lang="en">Matuto tungkol sa pabula at alamat at ang pagkasunod-sunod ng mga pangyayari nito. Alamin rin ang wastong paggamit ng magagalang na pananalita, pangngalan, malalaki at maliliit na letra, pati na rin ang pagbasa at pagbilang ng mga pantig.</desc>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112090000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116010000 +0000" stop="20261116012000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Math</title>
+    <desc lang="en">Learn how to add and subtract whole numbers up to 100 including money.</desc>
   </programme>
-  <programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116012000 +0000" stop="20261116014000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Reading &amp; Literacy</title>
+    <desc lang="en">Identify what are action words and describing words, and know how to follow and give directions involving one to two steps.</desc>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116014000 +0000" stop="20261116020000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Makabansa</title>
+    <desc lang="en">Matutong pahalagahan at unawain ang pamilya at mga kasapi nito kabilang ang mga bahaging ginagampanan ng bawat isa.</desc>
   </programme>
-  <programme start="20261112130000 +0000" stop="20261112150000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116020000 +0000" stop="20261116022000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Filipino</title>
+    <desc lang="en">Alamin ang mga elemento at bahagi ng kuwento, kabilang na ang pagpaghihinuha at pagbibigay ng susunod na pangyayari sa kuwento.</desc>
   </programme>
-  <programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116022000 +0000" stop="20261116024000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Math</title>
+    <desc lang="en">Learn how to subtract and multiply whole numbers up to 1000 including money.</desc>
   </programme>
-  <programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116024000 +0000" stop="20261116030000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 English</title>
+    <desc lang="en">Identify different parts of a book and their uses, as well as learn about action words and words with short vowels.</desc>
   </programme>
-  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116030000 +0000" stop="20261116032000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Araling Panlipunan</title>
+    <desc lang="en">Matutong unawain ang kuwento ng pinagmulan ng sariling komunidad batay sa konsepto ng pagbabago at pagpapatuloy upang mapahalagahan ang kulturang nabuo ng komunidad.</desc>
   </programme>
-  <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116032000 +0000" stop="20261116034000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Filipino</title>
+    <desc lang="en">Alamin kung paano gumamit ng magagalang na pananalita, salitang naglalarawan, at angkop na tanong. Alamin rin ang mga salitang magkatugma, pagkukumpara ng kuwento at pagbibigay ng wakas dito.</desc>
   </programme>
-  <programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="Moonbug.Kids.ph">
-    <title lang="en">Moonbug Kids</title>
-    <desc lang="en">Moonbug Kids.</desc>
+  <programme start="20261116034000 +0000" stop="20261116040000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Math</title>
+    <desc lang="en">Learn multiplication and division of whole numbers including money.</desc>
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116042000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 English</title>
+    <desc lang="en">Know more about verbs, pronouns, consonant blends, and digraphs, as well as different sources of information and how to identify facts and opinions.</desc>
+  </programme>
+  <programme start="20261116042000 +0000" stop="20261116044000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Araling Panlipunan</title>
+    <desc lang="en">Matutong unawain at pahalagahan ang iba’t ibang kwento at mga sagisag na naglalarawan ng sariling lalawigan at mga karatig lalawigan sa kinabibilangang rehiyon.</desc>
+  </programme>
+  <programme start="20261116044000 +0000" stop="20261116050000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Science</title>
+    <desc lang="en">Discover the parts and functions of the sense organs of the human body; parts and functions of animals and plants and their importance to humans; the characteristics of living and nonliving things and the basic needs of plants, animals and humans.</desc>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116052000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 4 Filipino</title>
+    <desc lang="en">Alamin ang wastong paggamit ng mga pangngalan at mga panghalip, kung paano magbibigay ng kahulugan ng mga salita, tukuyin ang mga elemento ng kuwento, at sagutin ang mga tanong tungkol dito.</desc>
+  </programme>
+  <programme start="20261116052000 +0000" stop="20261116054000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 4 Math</title>
+    <desc lang="en">Learn about whole numbers up to 100 000, and how to perform multiplication and division to whole numbers, including money.</desc>
+  </programme>
+  <programme start="20261116054000 +0000" stop="20261116060000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 4 English</title>
+    <desc lang="en">Know about the parts of a paragraph, different resources, significant details of different text types, and ways to identify the meaning of words.</desc>
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116062000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 4 Araling Panlipunan</title>
+    <desc lang="en">Aralin ang pagkakakilanlan ng bansa ayon sa mga katangiang heograpikal gamit ang mapa.</desc>
+  </programme>
+  <programme start="20261116062000 +0000" stop="20261116064000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 4 Science</title>
+    <desc lang="en">Find out how to group different materials based on their properties, and how they undergo changes when exposed to certain conditions.</desc>
+  </programme>
+  <programme start="20261116064000 +0000" stop="20261116070000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Filipino</title>
+    <desc lang="en">Alamin ang mga antas ng wika at mga salitang may kinalaman sa paghahambing, pati na rin ang pagsusulat at pagsusuri ng awitin at editoryal na sulatin.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116072000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Math</title>
+    <desc lang="en">Learn about key concepts of measurement, algebraic expressions, the properties of real numbers as applied in linear equations, and inequalities in one variable.</desc>
+  </programme>
+  <programme start="20261116072000 +0000" stop="20261116074000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 English</title>
+    <desc lang="en">Know more about listening strategies, navigating websites, and using search engines, as well as summarizing key information, doing research, using analogy, and transcoding information.</desc>
+  </programme>
+  <programme start="20261116074000 +0000" stop="20261116080000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Araling Panlipunan</title>
+    <desc lang="en">Aralin ang kaisipang Asyano, pilosopiya, at relihiyon na nagbigay daan sa paghubog ng sinaunang kabihasnan sa Asya at sa pagbuo ng pagkakakilanlang Asyano.</desc>
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116082000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Science</title>
+    <desc lang="en">Differentiate the parts and functions of the compound microscope and the different levels of biological organization, alongside the comparison between animal and plant cells, reproduction, and interaction between organisms.</desc>
+  </programme>
+  <programme start="20261116082000 +0000" stop="20261116084000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Preschool</title>
+    <title lang="en">Eccd</title>
+    <desc lang="en">Learn and appreciate the Creator and the Creations, Communication, Cooperation, Relationship, Sense of Purpose.</desc>
+  </programme>
+  <programme start="20261116084000 +0000" stop="20261116090000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Kindergarten</title>
+    <desc lang="en">Learn about letters, body parts and their uses, and objects in the environment with their properties.</desc>
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116092000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Language</title>
+    <desc lang="en">Matuto tungkol sa pabula at alamat at ang pagkasunod-sunod ng mga pangyayari nito. Alamin rin ang wastong paggamit ng magagalang na pananalita, pangngalan, malalaki at maliliit na letra, pati na rin ang pagbasa at pagbilang ng mga pantig.</desc>
+  </programme>
+  <programme start="20261116092000 +0000" stop="20261116094000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Math</title>
+    <desc lang="en">Learn how to add and subtract whole numbers up to 100 including money.</desc>
+  </programme>
+  <programme start="20261116094000 +0000" stop="20261116100000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Reading &amp; Literacy</title>
+    <desc lang="en">Identify what are action words and describing words, and know how to follow and give directions involving one to two steps.</desc>
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116102000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 1 Makabansa</title>
+    <desc lang="en">Matutong pahalagahan at unawain ang pamilya at mga kasapi nito kabilang ang mga bahaging ginagampanan ng bawat isa.</desc>
+  </programme>
+  <programme start="20261116102000 +0000" stop="20261116104000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Filipino</title>
+    <desc lang="en">Alamin ang mga elemento at bahagi ng kuwento, kabilang na ang pagpaghihinuha at pagbibigay ng susunod na pangyayari sa kuwento.</desc>
+  </programme>
+  <programme start="20261116104000 +0000" stop="20261116110000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Math</title>
+    <desc lang="en">Learn how to subtract and multiply whole numbers up to 1000 including money.</desc>
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116112000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 English</title>
+    <desc lang="en">Identify different parts of a book and their uses, as well as learn about action words and words with short vowels.</desc>
+  </programme>
+  <programme start="20261116112000 +0000" stop="20261116114000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 2 Araling Panlipunan</title>
+    <desc lang="en">Matutong unawain ang kuwento ng pinagmulan ng sariling komunidad batay sa konsepto ng pagbabago at pagpapatuloy upang mapahalagahan ang kulturang nabuo ng komunidad.</desc>
+  </programme>
+  <programme start="20261116114000 +0000" stop="20261116120000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Filipino</title>
+    <desc lang="en">Alamin kung paano gumamit ng magagalang na pananalita, salitang naglalarawan, at angkop na tanong. Alamin rin ang mga salitang magkatugma, pagkukumpara ng kuwento at pagbibigay ng wakas dito.</desc>
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116122000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Math</title>
+    <desc lang="en">Learn multiplication and division of whole numbers including money.</desc>
+  </programme>
+  <programme start="20261116122000 +0000" stop="20261116124000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 English</title>
+    <desc lang="en">Know more about verbs, pronouns, consonant blends, and digraphs, as well as different sources of information and how to identify facts and opinions.</desc>
+  </programme>
+  <programme start="20261116124000 +0000" stop="20261116130000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Araling Panlipunan</title>
+    <desc lang="en">Matutong unawain at pahalagahan ang iba’t ibang kwento at mga sagisag na naglalarawan ng sariling lalawigan at mga karatig lalawigan sa kinabibilangang rehiyon.</desc>
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116132000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 3 Science</title>
+    <desc lang="en">Discover the parts and functions of the sense organs of the human body; parts and functions of animals and plants and their importance to humans; the characteristics of living and nonliving things and the basic needs of plants, animals and humans.</desc>
+  </programme>
+  <programme start="20261116132000 +0000" stop="20261116134000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Filipino</title>
+    <desc lang="en">Alamin ang mga antas ng wika at mga salitang may kinalaman sa paghahambing, pati na rin ang pagsusulat at pagsusuri ng awitin at editoryal na sulatin.</desc>
+  </programme>
+  <programme start="20261116134000 +0000" stop="20261116140000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Math</title>
+    <desc lang="en">Learn about key concepts of measurement, algebraic expressions, the properties of real numbers as applied in linear equations, and inequalities in one variable.</desc>
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116142000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 English</title>
+    <desc lang="en">Know more about listening strategies, navigating websites, and using search engines, as well as summarizing key information, doing research, using analogy, and transcoding information.</desc>
+  </programme>
+  <programme start="20261116142000 +0000" stop="20261116144000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Araling Panlipunan</title>
+    <desc lang="en">Aralin ang kaisipang Asyano, pilosopiya, at relihiyon na nagbigay daan sa paghubog ng sinaunang kabihasnan sa Asya at sa pagbuo ng pagkakakilanlang Asyano.</desc>
+  </programme>
+  <programme start="20261116144000 +0000" stop="20261116220000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 7 Science</title>
+    <desc lang="en">Differentiate the parts and functions of the compound microscope and the different levels of biological organization, alongside the comparison between animal and plant cells, reproduction, and interaction between organisms.</desc>
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116222000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Als</title>
+    <desc lang="en">Learn about the process of planning, setting up, running a small business, and entrepreneurial skills.</desc>
+  </programme>
+  <programme start="20261116222000 +0000" stop="20261116224000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 5 Filipino</title>
+    <desc lang="en">Aralin ang wastong pagbabaybay, paggamit ng mga bantas. Alamin rin kung ano ang pandiwa at pang-uri, at kung paano sumuri ng dokyumentaryo, talaarawan at talambuhay.</desc>
+  </programme>
+  <programme start="20261116224000 +0000" stop="20261116230000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 5 Math</title>
+    <desc lang="en">Learn about decimals and the four fundamental operations involving decimals, ratio, and proportion.</desc>
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261116232000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 5 English</title>
+    <desc lang="en">Identify aspects of verbs, modal, conjunctions and point of views.</desc>
+  </programme>
+  <programme start="20261116232000 +0000" stop="20261116234000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 5 Araling Panlipunan</title>
+    <desc lang="en">Unawain ang konteksto sa bahaging ginampanan ng simbahan sa layunin at mga paraan ng pananakopng Espanyol sa Pilipinas at ang epekto ng mga ito sa lipunan.</desc>
+  </programme>
+  <programme start="20261116234000 +0000" stop="20261117000000 +0000" channel="Knowledge.Channel.ph">
+    <title lang="en">Grade 5 Science</title>
+    <desc lang="en">Learn how the parts of the human reproductive system work and how animals and plants reproduce, as well as the interactions for survival among living and nonliving things that take place in estuaries and intertidal zones.</desc>
   </programme>
   <programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="Moonbug.Kids.ph">
     <title lang="en">Moonbug Kids</title>
@@ -2293,161 +1963,127 @@
     <title lang="en">Moonbug Kids</title>
     <desc lang="en">Moonbug Kids.</desc>
   </programme>
-  <programme start="20261112223000 +0800" stop="20261112230000 +0800" channel="Net.25.ph">
-    <title lang="en">Tomorrow Today</title>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="Moonbug.Kids.ph">
+    <title lang="en">Moonbug Kids</title>
+    <desc lang="en">Moonbug Kids.</desc>
   </programme>
-  <programme start="20261112230000 +0800" stop="20261113000000 +0800" channel="Net.25.ph">
-    <title lang="en">Letters and Music</title>
-    <category lang="en">Entertainment</category>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="Moonbug.Kids.ph">
+    <title lang="en">Moonbug Kids</title>
+    <desc lang="en">Moonbug Kids.</desc>
   </programme>
-  <programme start="20261113000000 +0800" stop="20261113003000 +0800" channel="Net.25.ph">
-    <title lang="en">Ang Iglesia Ni Cristo</title>
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="Moonbug.Kids.ph">
+    <title lang="en">Moonbug Kids</title>
+    <desc lang="en">Moonbug Kids.</desc>
   </programme>
-  <programme start="20261113003000 +0800" stop="20261113010000 +0800" channel="Net.25.ph">
+  <programme start="20261116050000 +0000" stop="20261116070000 +0000" channel="Moonbug.Kids.ph">
+    <title lang="en">Moonbug Kids</title>
+    <desc lang="en">Moonbug Kids.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="Moonbug.Kids.ph">
+    <title lang="en">Moonbug Kids</title>
+    <desc lang="en">Moonbug Kids.</desc>
+  </programme>
+  <programme start="20261113223000 +0800" stop="20261113230000 +0800" channel="Net.25.ph">
+    <title lang="en">Global Us</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261113230000 +0800" stop="20261114000000 +0800" channel="Net.25.ph">
+    <title lang="en">Open for Business</title>
+  </programme>
+  <programme start="20261114000000 +0800" stop="20261114003000 +0800" channel="Net.25.ph">
+    <title lang="en">That's in the Bible</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261114003000 +0800" stop="20261114010000 +0800" channel="Net.25.ph">
     <title lang="en">Ang Matuod nga Pagtuo</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20261113010000 +0800" stop="20261113020000 +0800" channel="Net.25.ph">
-    <title lang="en">Your Light Forever</title>
+  <programme start="20261114010000 +0800" stop="20261114013000 +0800" channel="Net.25.ph">
+    <title lang="en">INC international Edition</title>
+    <category lang="en">Special</category>
   </programme>
-  <programme start="20261113020000 +0800" stop="20261113023000 +0800" channel="Net.25.ph">
+  <programme start="20261114013000 +0800" stop="20261114020000 +0800" channel="Net.25.ph">
+    <title lang="en">Gabay Sa Mabuting Asal</title>
+  </programme>
+  <programme start="20261114020000 +0800" stop="20261114023000 +0800" channel="Net.25.ph">
     <title lang="en">Executive News Feature</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261113023000 +0800" stop="20261113033000 +0800" channel="Net.25.ph">
-    <title lang="en">INCinema</title>
-    <category lang="en">Special</category>
+  <programme start="20261114023000 +0800" stop="20261114033000 +0800" channel="Net.25.ph">
+    <title lang="en">Landas Ng Buhay</title>
   </programme>
-  <programme start="20261113033000 +0800" stop="20261113040000 +0800" channel="Net.25.ph">
+  <programme start="20261114033000 +0800" stop="20261114040000 +0800" channel="Net.25.ph">
     <title lang="en">Turning Point</title>
   </programme>
-  <programme start="20261112213000 +0800" stop="20261112233000 +0800" channel="PBO.ph">
-    <title lang="en">Hari Ng Selda: Anak Ni Baby Ama 2</title>
+  <programme start="20261114040000 +0800" stop="20261114043000 +0800" channel="Net.25.ph">
+    <title lang="en">#Panatag</title>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20261114043000 +0800" stop="20261114043000 +0800" channel="Net.25.ph">
+    <title lang="en">Lingap Stories</title>
+    <category lang="en">Public Service</category>
+  </programme>
+  <programme start="20261113213000 +0800" stop="20261113233000 +0800" channel="PBO.ph">
+    <title lang="en">Always</title>
     <credits>
-      <actor>Robin Padilla</actor>
-      <actor>Rommel Padilla</actor>
-      <actor>Johnny Delgado</actor>
-      <actor>Angelika dela Cruz</actor>
+      <actor>Richard Dreyfuss</actor>
     </credits>
-    <date>2002</date>
+    <date>1989</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20261113233000 +0800" stop="20261114013000 +0800" channel="PBO.ph">
+    <title lang="en">Dibdiban Ang Laban</title>
+    <credits>
+      <director>Neil Tan</director>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Action/Adventure</category>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <rating system="MTRCB">
-      <value>PG</value>
-    </rating>
   </programme>
-  <programme start="20261112233000 +0800" stop="20261113020000 +0800" channel="PBO.ph">
-    <title lang="en">Sunny</title>
+  <programme start="20261114013000 +0800" stop="20261114031500 +0800" channel="PBO.ph">
+    <title lang="en">Molata</title>
     <credits>
-      <director>Kang  Hyeong-cheol</director>
-      <actor>Shim  Eun-kyung</actor>
-      <actor>Kang  So-ra</actor>
-      <actor>Yoo  Ho-jeong</actor>
-      <actor>Jin Hee-kyung</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Movie</category>
-    <country lang="en">South Korea</country>
-  </programme>
-  <programme start="20261113020000 +0800" stop="20261113033000 +0800" channel="PBO.ph">
-    <title lang="en">Room Service</title>
-    <credits>
-      <director>Joven Tan</director>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Sexy</category>
-    <rating system="MTRCB">
-      <value>R-18</value>
-    </rating>
-  </programme>
-  <programme start="20261112000000 +0800" stop="20261112010000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Forbidden Fruit S2</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261112010000 +0800" stop="20261112020000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Forbidden Fruit S2</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261112020000 +0800" stop="20261112040000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Laging Sariwa ang Sugat</title>
-    <credits>
-      <actor>Tonton Gutierrez</actor>
-      <actor>Via Veloso</actor>
-      <actor>John Apacible</actor>
+      <actor>Allen Dizon</actor>
     </credits>
     <date>1999</date>
     <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
     <category lang="en">Sexy</category>
     <rating system="MTRCB">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20261112000000 +0800" stop="20261112043000 +0800" channel="TV5.ph">
-    <title lang="en">Oras Ng Himala</title>
-    <category lang="en">Religion</category>
+  <programme start="20261113000000 +0800" stop="20261113020000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Kalayaan</title>
+    <credits>
+      <director>Adolfo Borinaga Alix Jr.</director>
+      <actor>Ananda Everingham</actor>
+      <actor>Zanjoe Marudo</actor>
+      <actor>Luis Alandy</actor>
+      <actor>Rocky Salumbides</actor>
+      <actor>Kiki Sugino</actor>
+      <actor>Angeli Bayani</actor>
+      <writer>Adolfo Borinaga Alix Jr.</writer>
+      <producer>Arleen Cuevas</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="http://www.clickthecity.com/movies/img/13708.jpg" />
+    <country lang="en">Philippines</country>
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Women of Wrestling Season 2</title>
-    <desc lang="en">Women of Wrestling Season 2.</desc>
-  </programme>
-  <programme start="20261112010000 +0000" stop="20261112033000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Sharks Billiard Association (SBA) Season 2</title>
-    <desc lang="en">Sharks Billiard Association (SBA) Season 2.</desc>
-  </programme>
-  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">MONSTER Jam 2023</title>
-    <desc lang="en">MONSTER Jam 2023.</desc>
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112060000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">NBL PILIPINAS Governor's Cup 2026</title>
-    <desc lang="en">NBL PILIPINAS Governor's Cup 2026.</desc>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112080000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">The Asian Tournament 2025</title>
-    <desc lang="en">The Asian Tournament 2025.</desc>
-  </programme>
-  <programme start="20261112080000 +0000" stop="20261112100000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">ITTF World Cup 2026</title>
-    <desc lang="en">ITTF World Cup 2026.</desc>
-  </programme>
-  <programme start="20261112100000 +0000" stop="20261112120000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">NBL PILIPINAS Governor's Cup 2026</title>
-    <desc lang="en">NBL PILIPINAS Governor's Cup 2026.</desc>
-  </programme>
-  <programme start="20261112120000 +0000" stop="20261112143000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Sharks Billiard Association (SBA) Season 2</title>
-    <desc lang="en">Sharks Billiard Association (SBA) Season 2.</desc>
-  </programme>
-  <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Straight up Steve Austin S2</title>
-    <desc lang="en">Straight up Steve Austin S2.</desc>
-  </programme>
-  <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Women of Wrestling Season 2</title>
-    <desc lang="en">Women of Wrestling Season 2.</desc>
-  </programme>
-  <programme start="20261112160000 +0000" stop="20261112180000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">NBL PILIPINAS Governor's Cup 2026</title>
-    <desc lang="en">NBL PILIPINAS Governor's Cup 2026.</desc>
-  </programme>
-  <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Golden Boy CLASSICS</title>
-    <desc lang="en">Golden Boy CLASSICS.</desc>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112213000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">ITTF World Cup 2026</title>
-    <desc lang="en">ITTF World Cup 2026.</desc>
-  </programme>
-  <programme start="20261112213000 +0000" stop="20261112233000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">The Asian Tournament 2025</title>
-    <desc lang="en">The Asian Tournament 2025.</desc>
-  </programme>
-  <programme start="20261112233000 +0000" stop="20261113003000 +0000" channel="Tap.Sports.ph">
-    <title lang="en">Jay Leno's Garage</title>
-    <desc lang="en">Jay Leno's Garage.</desc>
+  <programme start="20261113020000 +0800" stop="20261113040000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Paligayahin Mo Ako</title>
+    <credits>
+      <director>Rolly Bernardo</director>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="Tap.Sports.ph">
     <title lang="en">ON Point</title>
@@ -2645,19 +2281,87 @@
     <title lang="en">Women of Wrestling Season 2</title>
     <desc lang="en">Women of Wrestling Season 2.</desc>
   </programme>
-  <programme start="20261112000000 +0800" stop="20261112021500 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Anino Ni David Crusado</title>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">SUPERBOUTS</title>
+    <desc lang="en">SUPERBOUTS.</desc>
   </programme>
-  <programme start="20261112021500 +0800" stop="20261112040000 +0800" channel="VIVA.Cinema.ph">
-    <title lang="en">Segurista</title>
-    <credits>
-      <director>Tikoy Aguiluz</director>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Drama</category>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">HEROES of Lucha Libre</title>
+    <desc lang="en">HEROES of Lucha Libre.</desc>
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">NBL PILIPINAS Governor's Cup 2026</title>
+    <desc lang="en">NBL PILIPINAS Governor's Cup 2026.</desc>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">Jay Leno's Garage</title>
+    <desc lang="en">Jay Leno's Garage.</desc>
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">World Strongest Man</title>
+    <desc lang="en">World Strongest Man.</desc>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">Women of Wrestling Season 2</title>
+    <desc lang="en">Women of Wrestling Season 2.</desc>
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116100000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">ITTF World Cup 2026</title>
+    <desc lang="en">ITTF World Cup 2026.</desc>
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">Straight up Steve Austin S2</title>
+    <desc lang="en">Straight up Steve Austin S2.</desc>
+  </programme>
+  <programme start="20261116103000 +0000" stop="20261116123000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">MPBL 2026</title>
+    <desc lang="en">MPBL 2026.</desc>
+  </programme>
+  <programme start="20261116123000 +0000" stop="20261116143000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">FIFA ASEAN Cup 2026</title>
+    <desc lang="en">FIFA ASEAN Cup 2026.</desc>
+  </programme>
+  <programme start="20261116143000 +0000" stop="20261116153000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">HEROES of Lucha Libre</title>
+    <desc lang="en">HEROES of Lucha Libre.</desc>
+  </programme>
+  <programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">DRIVE S4</title>
+    <desc lang="en">DRIVE S4.</desc>
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116180000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">NBL PILIPINAS Governor's Cup 2026</title>
+    <desc lang="en">NBL PILIPINAS Governor's Cup 2026.</desc>
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">The Asian Tournament 2025</title>
+    <desc lang="en">The Asian Tournament 2025.</desc>
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">Jay Leno's Garage</title>
+    <desc lang="en">Jay Leno's Garage.</desc>
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">ITTF World Cup 2026</title>
+    <desc lang="en">ITTF World Cup 2026.</desc>
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="Tap.Sports.ph">
+    <title lang="en">HEROES of Lucha Libre</title>
+    <desc lang="en">HEROES of Lucha Libre.</desc>
+  </programme>
+  <programme start="20261113001500 +0800" stop="20261113021500 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Onyok Velasco Story</title>
+    <date>1997</date>
     <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <country lang="en">Philippines</country>
   </programme>
-  <programme start="20261112224500 +0800" stop="20261112231500 +0800" channel="a2z.Channel.11.ph">
+  <programme start="20261113021500 +0800" stop="20261113040000 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Tondo, Libingan Ng Mga Siga</title>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261113224500 +0800" stop="20261113231500 +0800" channel="a2z.Channel.11.ph">
     <title lang="en">Balitang A2Z</title>
     <category lang="en">News</category>
   </programme>
