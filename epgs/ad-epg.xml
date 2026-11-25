@@ -136345,24 +136345,6 @@
     <display-name lang="de">Sky Sport Top Event</display-name>
     <url>http://www.tvtoday.de</url>
   </channel>
-  <programme start="20261125010000 +0000" stop="20261125013000 +0000" channel="sportdigital.Fussball.de">
-    <title lang="de">scooore Polen! Alle Tore</title>
-    <sub-title lang="de">Highlights Ekstraklasa (15. Spieltag)</sub-title>
-    <desc lang="de">Hier können die Zuschauer die beeindruckendsten Tore der höchsten polnischen Liga nochmals sehen. Alle Tore werden von renommierten Fußball-Experten kommentiert. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/82/65/c3/6ad922cd6b6f3b46dcc36582.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20261125013000 +0000" stop="20261125032500 +0000" channel="sportdigital.Fussball.de">
-    <title lang="de">Fußball: Premier League</title>
-    <sub-title lang="de">11. Spieltag: Liverpool FC – Manchester United</sub-title>
-    <desc lang="de">Die Premier League ist die höchste Spielklasse im englischen Fußball und gibt auch international momentan den Ton an. In jeder Saison spielen 20 Vereine zwischen August und Mai um den Titel. Die Rekordmeister sind Manchester United und FC Liverpool mit jeweils 20 Titeln. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/86/f9/10/6a578a8d37d24c784f10f986.jpeg" />
-    <country lang="de">GB</country>
-  </programme>
   <programme start="20261125032500 +0000" stop="20261125053000 +0000" channel="sportdigital.Fussball.de">
     <title lang="de">Fußball: Scottish Premiership</title>
     <sub-title lang="de">Glasgow Rangers – FC Aberdeen (Nachholspiel, 12. Spieltag)</sub-title>
@@ -136791,29 +136773,99 @@
     <icon src="http://img.tvspielfilm.de/f8/04/3f/6aee343d328b063a1f3f04f8.jpeg" />
     <country lang="de">P</country>
   </programme>
-  <programme start="20261125000000 +0000" stop="20261125020000 +0000" channel="Sky.Sport.Bundesliga.de">
-    <title lang="de">Fußball: 2. Bundesliga</title>
-    <sub-title lang="de">Samstags-Konferenz, 12. Spieltag</sub-title>
-    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
-    <category lang="de">2. Bundesliga</category>
-    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="Sky.Sport.Bundesliga.de">
-    <title lang="de">Fußball: 2. Bundesliga Kompakt</title>
-    <sub-title lang="de">12. Spieltag</sub-title>
-    <desc lang="de">Der 12. Spieltag mit Arminia Bielefeld – 1. FC Magdeburg, SV Darmstadt 98 – 1. FC Heidenheim, 1. FC Nürnberg – Eintracht Braunschweig, Hannover 96 – SpVgg Greuther Fürth, VfL Wolfsburg – Holstein Kiel, 1. FC Kaiserslautern – Dynamo Dresden, Energie Cottbus – Hertha BSC, Karlsruher SC – VfL Osnabrück und FC St. Pauli – VfL Bochum. (Senderinfo).</desc>
+  <programme start="20261128052500 +0000" stop="20261128073000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Campeonato Brasileiro</title>
+    <sub-title lang="de">Fluminense – Cruzeiro (37. Spieltag)</sub-title>
+    <desc lang="de">Wer spielt den attraktivsten Fußball bei internationalen Turnieren? Natürlich. Die Brasilianer. Zwar sind die meisten Top-Spieler bei europäischen Vereinen unter Vertrag. Doch will man die Pelés von morgen sehen, lohnt sich ein Blick auf die nationale Meisterschaft. Die Sendung zeigt die spannendsten und wichtigsten Spiele der aktuellen Saison. (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <icon src="http://img.tvspielfilm.de/45/50/46/6ac80a8d207c32108a465045.jpeg" />
+    <country lang="de">Bras.</country>
   </programme>
-  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Sky.Sport.Bundesliga.de">
-    <title lang="de">Fußball: Bundesliga Kompakt</title>
-    <sub-title lang="de">10. Spieltag</sub-title>
-    <desc lang="de">Der 10. Spieltag mit Borussia Mönchengladbach – Borussia Dortmund, Bayer Leverkusen – SC Paderborn 07, Eintracht Frankfurt – 1899 Hoffenheim, 1. FC Union Berlin – RB Leipzig, SV Elversberg – SC Freiburg, FC Schalke 04 – VfB Stuttgart, FC Bayern München – 1. FC Köln, FC Augsburg – 1. FSV Mainz 05 und Werder Bremen – Hamburger SV. (Senderinfo).</desc>
+  <programme start="20261128073000 +0000" stop="20261128083500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">A-League</title>
+    <sub-title lang="de">Macarthur FC – Melbourne City (6. Spieltag)</sub-title>
+    <desc lang="de">Fußball fristete in Australien lange Zeit ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse sind neun australische und ein neuseeländischer Club vertreten. 2006 wechselte der australische Fußballverband zur Asian Football Confederation. Seitdem messen sich die Spieler der australischen Nationalmannschaft und der Fußballclubs mit Gegnern aus Asien. (Senderinfo).</desc>
     <date>2026</date>
-    <category lang="de">Fußballmagazin</category>
-    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/bf/72/3d/6aed920d328b063a1f3d72bf.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20261128083500 +0000" stop="20261128105500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: A-League</title>
+    <sub-title lang="de">Central Coast Mariners – Auckland FC (6. Spieltag)</sub-title>
+    <desc lang="de">Fußball fristete in Australien lange Zeit ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse sind neun australische und ein neuseeländischer Club vertreten. 2006 wechselte der australische Fußballverband zur Asian Football Confederation. Seitdem messen sich die Spieler der australischen Nationalmannschaft und der Fußballclubs mit Gegnern aus Asien. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/38/9f/23/6ab7848c207c32108a239f38.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20261128105500 +0000" stop="20261128121000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Champions League</title>
+    <sub-title lang="de">Manchester City – SSC Neapel (Ligaphase, 5. Spieltag)</sub-title>
+    <desc lang="de">1992 wurde der seit 1955 jährlich ausgetragene Europapokal der Landesmeister stark modifiziert und fortan Champions League genannt. Die Startplätze werden gemäß der UEFA-Fünfjahreswertung an die nationalen Ligen verteilt. Ab der kommenden Spielzeit wurde der Modus abermals verändert. Die 36 (statt bisher 32) qualifizierten Teams spielen zunächst 8 Spiele (4 davon zu Hause und 4 auswärts) in der neu geschaffenen League Phase. Die Ergebnisse laufen in eine Gesamttabelle aller 36 Teams ein. Die ersten 8 Teams sind direkt für das Achtelfinale qualifiziert, die Plätze 9-24 spielen in einem KO-Playoff um die übrigen Tickets für das Achtelfinale. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/39/27/f1/6a46e77d37d24c784ff12739.jpeg" />
+  </programme>
+  <programme start="20261128121000 +0000" stop="20261128141500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Saudi Pro League</title>
+    <sub-title lang="de">Al-Hazm – Al-Nassr (13. Spieltag)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">Saudi-Arab.</country>
+  </programme>
+  <programme start="20261128141500 +0000" stop="20261128163500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Saudi Pro League</title>
+    <sub-title lang="de">Al-Ettifaq – Al-Hilal (13. Spieltag)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">Saudi-Arab.</country>
+  </programme>
+  <programme start="20261128163500 +0000" stop="20261128174000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Champions League</title>
+    <sub-title lang="de">FC Bruegge – Liverpool FC (Ligaphase, 5. Spieltag)</sub-title>
+    <desc lang="de">1992 wurde der seit 1955 jährlich ausgetragene Europapokal der Landesmeister stark modifiziert und fortan Champions League genannt. Die Startplätze werden gemäß der UEFA-Fünfjahreswertung an die nationalen Ligen verteilt. Ab der kommenden Spielzeit wurde der Modus abermals verändert. Die 36 (statt bisher 32) qualifizierten Teams spielen zunächst 8 Spiele (4 davon zu Hause und 4 auswärts) in der neu geschaffenen League Phase. Die Ergebnisse laufen in eine Gesamttabelle aller 36 Teams ein. Die ersten 8 Teams sind direkt für das Achtelfinale qualifiziert, die Plätze 9-24 spielen in einem KO-Playoff um die übrigen Tickets für das Achtelfinale. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/86/f9/10/6a578a8d37d24c784f10f986.jpeg" />
+  </programme>
+  <programme start="20261128174000 +0000" stop="20261128194500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Eredivisie</title>
+    <sub-title lang="de">PSV Eindhoven – Go Ahead Eagles (14. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten derzeit 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei wird die "Eredivisie" von den Vereinen Ajax Amsterdam, dem PSV Eindhoven und Feyenoord Rotterdam dominiert. In den letzten Jahren konnten jedoch auch der AZ Alkmaar (in der Saison 2008/09) und Twente Enschede (in der Saison 2009/10) Meisterschaften feiern. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/98/2b/1a/6a5bbecc37d24c784f1a2b98.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20261128194500 +0000" stop="20261128223000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Copa Libertadores</title>
+    <sub-title lang="de">Palmeiras (BRA) – Estudiantes (ARG) (Finale)</sub-title>
+    <desc lang="de">Was für Europa die Champions League ist, firmiert in Südamerika unter dem Namen Copa Libertadores. 47 Mannschaften kämpfen um die Krone des wichtigsten Wettbewerbs im Vereinsfußball des Kontinents. Aktueller Titelträger ist der Club Atlético River Plate aus Argentinien, der den Pokal durch ein 3:1 im Superclásico gegen die Boca Juniors – ebenfalls aus Argentinien – gewinnen konnte. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/6d/e3/1f/6ab5d45e207c32108a1fe36d.jpeg" />
+  </programme>
+  <programme start="20261128223000 +0000" stop="20261128225500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Argentinien! Alle Tore</title>
+    <sub-title lang="de">Highlights Liga Profesional Clausura (Achtelfinale)</sub-title>
+    <desc lang="de">Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von "scooore" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/94/f1/a0/69a725fff8d1137692a0f194.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128225500 +0000" stop="20261129011500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Viertelfinale</title>
+    <sub-title lang="de">Liga Profesional Clausura (Viertelfinale)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/e8/bd/16/6ab23f7e207c32108a16bde8.jpeg" />
+    <country lang="de">Argent.</country>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125043000 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: Bundesliga</title>
@@ -137344,27 +137396,27 @@
   </programme>
   <programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: Bundesliga</title>
-    <sub-title lang="de">Bundesliga Weekly</sub-title>
-    <desc lang="de">Das wöchentliche Magazin mit Themen rund um die Bundesliga. "Bundesliga Weekly" liefert einen Einblick in die Welt der höchsten deutschen Fußball-Liga. (Senderinfo).</desc>
-    <category lang="de">1. Bundesliga</category>
-    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="Sky.Sport.Bundesliga.de">
-    <title lang="de">Fußball: Bundesliga</title>
     <sub-title lang="de">90in30: S04 – VFB, 10. Spieltag</sub-title>
     <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der Bundesliga in komprimierter Form. (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußballmagazin</category>
     <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
-  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="Sky.Sport.Bundesliga.de">
+  <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: 2. Bundesliga</title>
     <sub-title lang="de">90in30: STP – BOC, 12. Spieltag</sub-title>
     <desc lang="de">90 Minuten in 30 Minuten: Das Topspiel der 2. Bundesliga in komprimierter Form. (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußballmagazin</category>
     <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Bundesliga Weekly</sub-title>
+    <desc lang="de">Das wöchentliche Magazin mit Themen rund um die Bundesliga. "Bundesliga Weekly" liefert einen Einblick in die Welt der höchsten deutschen Fußball-Liga. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
   </programme>
   <programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: 2. Bundesliga</title>
@@ -137393,7 +137445,7 @@
   <programme start="20261127183000 +0000" stop="20261127221500 +0000" channel="Sky.Sport.Bundesliga.de">
     <title lang="de">Fußball: Bundesliga</title>
     <sub-title lang="de">Werder Bremen – Borussia M'gladbach, Flutlicht-Freitag, 11. Spieltag</sub-title>
-    <desc lang="de">Werder Bremen – Borussia Mönchengladbach 43 Heimspiele war Werder ungeschlagen, als die Borussia am 21. März 1987 in die Hansestadt kam – und mal eben 7:1 gewann. Auch zuletzt waren die Fohlen an der Weser ungern gesehen: Von den vergangenen neun Heimduellen gewannen die Bremer nur eines. \n\nZuletzt im Januar sprang dank eines Assists von Olivier Deman gerade noch ein 1:1 heraus, nach dem Trainer Horst Steffen entlassen wurde. Sein Nachfolger Daniel Thioune startete allerdings auch mit drei Niederlagen.</desc>
+    <desc lang="de">Der 4:0-Erfolg im Nordderby gegen den Hamburger SV war ein deutliches Ausrufezeichen der Mannschaft Daniel Thiounes. Dabei beendeten gleich zwei Spieler in Grün-Weiß ihre Durststrecke: Seit dem letzten Tor von Marco Friedl (1:0) war fast ein Jahr vergangen. Doppelpacker Justin Njinmah (3:0, 4:0) knipste unterdessen zuletzt im April beim 1:0-Auswärtssieg gegen den VfL Wolfsburg. Ungeachtet der jüngsten Erfolge bleibt die personelle Lage jedoch teilweise angespannt: Musah, Ndiaye, Stage und Topp stehen weiter auf der Invalidenliste. Hinter den Einsätzen von Agu, Alvero, Grüll und Weiser stehen noch Fragezeichen.\n \nBorussia Mönchengladbach steht dagegen nach der 0:1-Heimniederlage gegen Borussia Dortmund immer noch unter Druck und wartet weiter auf den nächsten Befreiungsschlag in der Liga. Nach wie vor steht den acht Niederlagen lediglich ein Sieg und ein Remis gegenüber. Auch die Personalsituation bleibt schwierig: Tim Kleindienst fehlte jüngst wegen eines Muskelfaserrisses, sein Comeback ist allerdings in Sicht, wenngleich ein Einsatz noch fraglich bleibt. Ebenfalls nicht zur Verfügung stehen Leopold, Leszczyński und Ullrich. Bolin und Hashioka sind angeschlagen.</desc>
     <category lang="de">1. Bundesliga</category>
     <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
     <country lang="de">D</country>
@@ -137437,28 +137489,149 @@
     <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
     <country lang="de">D</country>
   </programme>
-  <programme start="20261125001500 +0000" stop="20261125003000 +0000" channel="Sky.Sport.Premier.League.de">
-    <title lang="de">Fußball: Premier League</title>
-    <sub-title lang="de">Challenge accepted – Matthias Jaissle Exklusiv</sub-title>
-    <desc lang="de">Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. (Senderinfo).</desc>
-    <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Meine Geschichte</title>
+    <desc lang="de">Ehrlich, privat und hautnah wie nie: Riccardo Basile besucht prominente Persönlichkeiten aus der Welt des Sports und spricht mit ihnen über ihr Leben und besondere Geschichten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Porträt</category>
+    <icon src="http://img.tvspielfilm.de/07/41/4a/6177d8ef8189652ccb4a4107.jpeg" />
   </programme>
-  <programme start="20261125003000 +0000" stop="20261125010000 +0000" channel="Sky.Sport.Premier.League.de">
-    <title lang="de">Fußball: England, Premier League</title>
-    <sub-title lang="de">Club 100: David James</sub-title>
-    <desc lang="de">Ein exklusiver Klub für Weltklasse-Torhüter: Club 100 beleuchtet die besten Keeper der Premier League, die bereits 100 oder mehr Spiele ohne Gegentor auf dem Konto haben. (Senderinfo).</desc>
-    <category lang="de">Fußballmagazin</category>
-    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
-    <country lang="de">GB</country>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Werder Bremen – Borussia M'gladbach, Flutlicht-Freitag, 11. Spieltag</sub-title>
+    <desc lang="de">Auf Kurs: Bremen steht nach dem 4:0 im Nordderby kurz vor den CL-Plätzen. Gibt es den nächsten Sieg gegen Gladbach? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="Sky.Sport.Premier.League.de">
-    <title lang="de">Fußball: Premier League</title>
-    <sub-title lang="de">Goal Rush, Chelsea – Leeds United, Premier League Konferenz, 11. Spieltag</sub-title>
-    <desc lang="de">Die Premier League in der Konferenz: Mit "Goal Rush" entgeht dir während des Hauptspiels am Samstag kein Tor und keine strittige Szene. Heutiges Topspiel: FC Chelsea vs. Leeds United. (Senderinfo).</desc>
+  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Sky Sport News</title>
+    <sub-title lang="de">Guten Morgen Fans!</sub-title>
+    <desc lang="de">Guten Morgen, Fans! In der Bundesliga, 2. Bundesliga und Premier League rollt wieder der Ball. Sky Sport News stimmt auf den Anpfiff ein. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Sportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/54/7e/ac/54513977e4b0d02df3ac7e54.jpeg" />
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128094500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga, Alle Spiele, alle Tore</title>
+    <sub-title lang="de">Die Vodafone Highlight-Show, 13. Spieltag, Freitag</sub-title>
+    <desc lang="de">Der 13. Spieltag mit 1. FC Heidenheim – 1. FC Nürnberg und VfL Bochum – SV Darmstadt 98. (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
-    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261128094500 +0000" stop="20261128100000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Highlghts XXL: SV Werder Bremen – Borussia Mönchengladbach, 11. Spieltag</sub-title>
+    <desc lang="de">Die besten Szenen aus der Bundesliga und 2. Bundesliga: Highlights XXL zeigt die großen Momente der vergangenen Partien. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128113000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Sky Sport News</title>
+    <sub-title lang="de">Guten Morgen Fans!</sub-title>
+    <desc lang="de">Guten Morgen, Fans! In der Bundesliga, 2. Bundesliga und Premier League rollt wieder der Ball. Sky Sport News stimmt auf den Anpfiff ein. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Sportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/54/7e/ac/54513977e4b0d02df3ac7e54.jpeg" />
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128114500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Highlights XXL: 1. FC Heidenheim 1846 – 1. FC Nürnberg, 13. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128114500 +0000" stop="20261128120000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Highlights XXL: VfL Bochum – SV Darmstadt 98, 13. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128130000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Matchplan: VfB Stuttgart – Eintracht Frankfurt, 11. Spieltag</sub-title>
+    <desc lang="de">Eine Partie, zwei Trainer, eine Stunde Zeit für die perfekte Taktik: In "Matchplan" nehmen Moderator Jan Henkel und seine Gäste ein ausgewähltes Spitzenspiel fußballtaktisch unter die Lupe. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128140000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">NEO.bet Countdown, 11. Spieltag</sub-title>
+    <desc lang="de">Spannende Vorberichte und knallharte Analysen: Der NEO.bet Countdown stimmt auf den bevorstehenden Samstags-Spieltag der Bundesliga ein. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128141500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Hamburger SV – FC Bayern München: NEO.bet Countdown, 11. Spieltag</sub-title>
+    <desc lang="de">Spannende Vorberichte und knallharte Analysen: Der NEO.bet Countdown stimmt auf den bevorstehenden Samstags-Spieltag der Bundesliga ein. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128141500 +0000" stop="20261128163000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Hamburger SV – FC Bayern München, 11. Spieltag</sub-title>
+    <desc lang="de">U. a.: Hamburger SV – FC Bayern.\nNach neun teilweise sehr hohen Niederlagen holte der HSV (Miro Muheim) beim 2:2 im letzten Duell im Volkspark immerhin einen Punkt. Auf einen Sieg gegen die Bayern warten die Rothosen seit 21 Pflichtspielen. Im September 2009 gewannen die Hansestädter durch einen Treffer von Mladen Petric.</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128201500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">VfB Stuttgart – Eintracht Frankfurt, tipico Topspiel der Woche, 11. Spieltag</sub-title>
+    <desc lang="de">Aktuell Mittelmaß: Stuttgart droht den Anschluss an die Spitze zu verlieren. Können die Schwaben zu Hause gegen Frankfurt siegen? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128201500 +0000" stop="20261128214500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga, Alle Spiele, alle Tore</title>
+    <sub-title lang="de">Die Vodafone Highlight-Show, 11. Spieltag, Samstag komplett</sub-title>
+    <desc lang="de">Der 11. Spieltag mit Hamburger SV – FC Bayern München, 1. FSV Mainz 05 – 1. FC Union Berlin, 1. FC Köln – SV Elversberg, SC Paderborn 07 – FC Schalke 04 und VfB Stuttgart – Eintracht Frankfurt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261128214500 +0000" stop="20261128220000 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Highlghts XXL: SV Werder Bremen – Borussia Mönchengladbach, 11. Spieltag</sub-title>
+    <desc lang="de">Die besten Szenen aus der Bundesliga und 2. Bundesliga: Highlights XXL zeigt die großen Momente der vergangenen Partien. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128224500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 3. Liga</title>
+    <sub-title lang="de">Alle Spiele, alle Tore, 15. Spieltag, Samstag</sub-title>
+    <desc lang="de">Das Beste vom Spieltag: Sky zeigt alle Spiele und alle Tore vom Spieltag der 3. Liga. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">3. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128224500 +0000" stop="20261128234500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Alle Spiele, alle Stimmen, 11. Spieltag</sub-title>
+    <desc lang="de">Der Rückblick auf die vergangenen Samstagspartien: Sky liefert in "Alle Spiele, alle Stimmen" alle Infos und Highlights der Samstagsmatches in der Bundesliga. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128234500 +0000" stop="20261129004500 +0000" channel="Sky.Sport.Bundesliga.de">
+    <title lang="de">Fußball: 2. Bundesliga, Alle Spiele, alle Tore</title>
+    <sub-title lang="de">Die Vodafone Highlight-Show, 11. Spieltag, Samstag komplett</sub-title>
+    <desc lang="de">Der 13. Spieltag mit Hertha BSC – Karlsruher SC, Dynamo Dresden – FC St. Pauli, Holstein Kiel – 1. FC Kaiserslautern und VfL Osnabrück – Hannover 96. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
   </programme>
   <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Sky.Sport.Premier.League.de">
     <title lang="de">Fußball: Premier League</title>
@@ -138464,7 +138637,7 @@
   <programme start="20261127195000 +0000" stop="20261127220000 +0000" channel="Sky.Sport.Premier.League.de">
     <title lang="de">Fußball: Premier League</title>
     <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
-    <desc lang="de">Das letzte Aufeinandertreffen auf heimischem Boden endete für die Mannschaft aus Nottingham mit einer Enttäuschung. Die Gastgeber mussten eine 0:3-Niederlage hinnehmen. Den Sieg für Chelsea sicherten Josh Acheampong, Pedro Neto und Reece James. Die "Blues" beendeten die Partie in Unterzahl. (Senderinfo).</desc>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
@@ -138483,7 +138656,7 @@
   <programme start="20261127223000 +0000" stop="20261128003000 +0000" channel="Sky.Sport.Premier.League.de">
     <title lang="de">Fußball: Premier League</title>
     <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
-    <desc lang="de">Das letzte Aufeinandertreffen auf heimischem Boden endete für die Mannschaft aus Nottingham mit einer Enttäuschung. Die Gastgeber mussten eine 0:3-Niederlage hinnehmen. Den Sieg für Chelsea sicherten Josh Acheampong, Pedro Neto und Reece James. Die "Blues" beendeten die Partie in Unterzahl. (Senderinfo).</desc>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
@@ -138510,26 +138683,148 @@
   <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="Sky.Sport.Premier.League.de">
     <title lang="de">Fußball: Premier League</title>
     <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
-    <desc lang="de">Das letzte Aufeinandertreffen auf heimischem Boden endete für die Mannschaft aus Nottingham mit einer Enttäuschung. Die Gastgeber mussten eine 0:3-Niederlage hinnehmen. Den Sieg für Chelsea sicherten Josh Acheampong, Pedro Neto und Reece James. Die "Blues" beendeten die Partie in Unterzahl. (Senderinfo).</desc>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
   </programme>
-  <programme start="20261125003000 +0000" stop="20261125010000 +0000" channel="Sky.Sport.Top.Event.de">
-    <title lang="de">Eishockey: NHL</title>
-    <sub-title lang="de">On the Fly</sub-title>
-    <desc lang="de">Nordamerikanisches Eishockey der Extraklasse: Atemberaubende Treffer, spektakuläre Saves und Analysen von namhaften Experten – Das NHL-Format "NHL: On the Fly" liefert alle Infos rund um den Puck. (Senderinfo).</desc>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/e6/29/ac/54511410e4b0d02df3ac29e6.jpeg" />
+  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Michael Owen</title>
+    <sub-title lang="de">Leicester City 2015/16</sub-title>
+    <desc lang="de">Momente in der Premier League, die man nie vergisst: "PL Moments" blickt auf prägende Momente der Premier-League-Historie. (Senderinfo).</desc>
+    <category lang="de">Fußballerporträt</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
   </programme>
-  <programme start="20261125010000 +0000" stop="20261125040000 +0000" channel="Sky.Sport.Top.Event.de">
-    <title lang="de">Basketball: NBA</title>
-    <sub-title lang="de">Boston Celtics @ Washington Wizards</sub-title>
-    <desc lang="de">Seit 1998 schafften es die Wizards (Anthony Gill) in 29 Jahren nur neunmal in die Play-offs. Zuletzt kam das Saisonaus fünfmal in Folge nach der regulären Saison. Kein anderes Team gewann 2025/26 seltener als die Wizards (17-mal).</desc>
+  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">Club 100: David James</sub-title>
+    <desc lang="de">Ein exklusiver Klub für Weltklasse-Torhüter: Club 100 beleuchtet die besten Keeper der Premier League, die bereits 100 oder mehr Spiele ohne Gegentor auf dem Konto haben. (Senderinfo).</desc>
+    <category lang="de">Fußballmagazin</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261128053000 +0000" stop="20261128054500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Goal of the Season Winners</sub-title>
+    <desc lang="de">Tore, Tore, Tore: Auch in der Saison 2025/26 gab es in der Premier League einige ansehliche Treffer. Der Blick auf die schönsten Tore der vergangenen Spielzeit. (Senderinfo).</desc>
     <date>2026</date>
-    <category lang="de">Basketball</category>
-    <icon src="http://img.tvspielfilm.de/6b/de/6b/548a2d0de4b0c014706bde6b.jpeg" />
-    <country lang="de">USA</country>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128054500 +0000" stop="20261128074500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128074500 +0000" stop="20261128080000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Superhuman PL Moments</sub-title>
+    <desc lang="de">Artistische Fallrückzieher, spektakuläre Paraden und knallharte Tacklings: Superhuman Premier League Moments zeigt die außergewöhnlichsten Szenen der letzten 30 Jahre. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">Best Goals: Merseyside Derby</sub-title>
+    <date>2017</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261128083000 +0000" stop="20261128085500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Best Freekicks</sub-title>
+    <desc lang="de">Ansatzlos in den Winkel gesetzt: Best Free Kicks zeigt die besten und schönsten Freistoßtore in der Geschichte der Premier League. (Senderinfo).</desc>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128085500 +0000" stop="20261128105500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128105500 +0000" stop="20261128112500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Classic Match: FC Arsenal – Manchester City (2000/2001)</sub-title>
+    <desc lang="de">Legendäre Duelle, die niemand mehr vergisst: Classic Match zeigt die besten Partien in der Geschichte der Premier League. (Senderinfo).</desc>
+    <date>2000</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128112500 +0000" stop="20261128115500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Preview, 12. Spieltag (Freitag)</sub-title>
+    <desc lang="de">Die Spannung steigt, der Anstoß zum nächsten Spieltag naht: der Ausblick zum 12. Spieltag der Premier League. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128115500 +0000" stop="20261128122500 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: England, Premier League</title>
+    <sub-title lang="de">PL Stories (Norwich – The Nearly Men)</sub-title>
+    <credits>
+      <producer>Mike Rodgers</producer>
+    </credits>
+    <date>2026</date>
+    <category lang="de">Fußballdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20261128122500 +0000" stop="20261128145000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: League Championship</title>
+    <sub-title lang="de">Preston North End – Norwich City, 18. Spieltag</sub-title>
+    <desc lang="de">Aufstieg, Abstieg und Fußball-Tradition: Sky zeigt dir umfassende Live-Berichterstattungen aus dem Carabao-Cup, der Championship, League One, League Two sowie der Vertu Trophy. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261128145000 +0000" stop="20261128172000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Manchester United – FC Brentford, 12. Spieltag</sub-title>
+    <desc lang="de">Manchester United – Brentford.\n2021 stieg Bryan Mbeumo (27) mit Brentford in die Premier League auf. Nach sechs Jahren und insgesamt 242 Pflichtspielen für die Bees wechselte der Kameruner 2025 zu United. In den zwei bisherigen Duellen gegen seinen Ex-Verein blieb er torlos.</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128172000 +0000" stop="20261128193000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Ipswich Town – Aston Villa, 12. Spieltag</sub-title>
+    <desc lang="de">Rutsch ins Mittelfeld: Mit dem dritten Liga-Remis in Folge ist Aston Villa auf dem zwölften Platz angekommen. Bei Neuling Ipswich Town soll ein Sieg her. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128213000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Manchester United – FC Brentford, 12. Spieltag</sub-title>
+    <desc lang="de">Desolates Debüt: Mauricio Pochettinos Einstand als United-Coach ging mit 0:4 gegen Liverpool in die Hose. Gegen Brentford muss ein Erfolg her. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128213000 +0000" stop="20261128233000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Ipswich Town – Aston Villa, 12. Spieltag</sub-title>
+    <desc lang="de">Rutsch ins Mittelfeld: Mit dem dritten Liga-Remis in Folge ist Aston Villa auf dem zwölften Platz angekommen. Bei Neuling Ipswich Town soll ein Sieg her. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129013000 +0000" channel="Sky.Sport.Premier.League.de">
+    <title lang="de">Fußball: Premier League</title>
+    <sub-title lang="de">Leeds United – Coventry City, 12. Spieltag</sub-title>
+    <desc lang="de">Breite Brust: Leeds United bezwang zuletzt auswärts den FC Chelsea mit 4:1. Gibt es jetzt den Sieg vor heimischem Publikum gegen Coventry City? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
   </programme>
   <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Basketball: NBA</title>
@@ -138891,6 +139186,7 @@
   <programme start="20261127131500 +0000" stop="20261127150000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Formel 1: Großer Preis von Katar</title>
     <sub-title lang="de">1. Freies Training</sub-title>
+    <desc lang="de">Kampf um die Vize-WM: Max Verstappen holte in Las Vegas den Sieg und geriet mit George Russell aneinander. Wer gewinnt in Katar? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Formel 1</category>
     <icon src="http://img.tvspielfilm.de/14/24/4a/6177ce018189652ccb4a2414.jpeg" />
@@ -138952,7 +139248,7 @@
   <programme start="20261128000000 +0000" stop="20261128020000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Fußball: Premier League</title>
     <sub-title lang="de">Nottingham Forest – FC Chelsea, 12. Spieltag</sub-title>
-    <desc lang="de">Das letzte Aufeinandertreffen auf heimischem Boden endete für die Mannschaft aus Nottingham mit einer Enttäuschung. Die Gastgeber mussten eine 0:3-Niederlage hinnehmen. Den Sieg für Chelsea sicherten Josh Acheampong, Pedro Neto und Reece James. Die "Blues" beendeten die Partie in Unterzahl. (Senderinfo).</desc>
+    <desc lang="de">Enge Kiste: Bis auf den Überraschungssieg gegen ManCity holte Nottingham kaum Punkte und liegt knapp über der Abstiegszone. Wie läuft es gegen Chelsea? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Fußball</category>
     <icon src="http://img.tvspielfilm.de/07/1a/4b/5460e172e4b08cb8014b1a07.jpeg" />
@@ -138960,6 +139256,7 @@
   <programme start="20261128020000 +0000" stop="20261128033000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Formel 1: Großer Preis von Katar</title>
     <sub-title lang="de">1. Freies Training</sub-title>
+    <desc lang="de">Kampf um die Vize-WM: Max Verstappen holte in Las Vegas den Sieg und geriet mit George Russell aneinander. Wer gewinnt in Katar? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Formel 1</category>
     <icon src="http://img.tvspielfilm.de/14/24/4a/6177ce018189652ccb4a2414.jpeg" />
@@ -138968,135 +139265,143 @@
   <programme start="20261128033000 +0000" stop="20261128050000 +0000" channel="Sky.Sport.Top.Event.de">
     <title lang="de">Formel 1: Großer Preis von Katar</title>
     <sub-title lang="de">2. Freies Training</sub-title>
+    <desc lang="de">Kampf um die Vize-WM: Max Verstappen holte in Las Vegas den Sieg und geriet mit George Russell aneinander. Wer gewinnt in Katar? (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Formel 1</category>
     <icon src="http://img.tvspielfilm.de/14/24/4a/6177ce018189652ccb4a2414.jpeg" />
     <country lang="de">Katar</country>
   </programme>
-  <channel id="Now.Sports.Premier.League.1.hk">
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-    <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">Now Sports Premier League 1</display-name>
-  </channel>
+  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Meine Geschichte</title>
+    <desc lang="de">Ehrlich, privat und hautnah wie nie: Riccardo Basile besucht prominente Persönlichkeiten aus der Welt des Sports und spricht mit ihnen über ihr Leben und besondere Geschichten. (Senderinfo).</desc>
+    <category lang="de">Porträt</category>
+    <icon src="http://img.tvspielfilm.de/07/41/4a/6177d8ef8189652ccb4a4107.jpeg" />
+  </programme>
+  <programme start="20261128053000 +0000" stop="20261128061500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: 2. Bundesliga, Alle Spiele, alle Tore</title>
+    <sub-title lang="de">Die Vodafone Highlight-Show, 13. Spieltag, Freitag</sub-title>
+    <desc lang="de">Der 13. Spieltag mit 1. FC Heidenheim – 1. FC Nürnberg und VfL Bochum – SV Darmstadt 98. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20261128061500 +0000" stop="20261128073500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Motorrad: Großer Preis der Stadt Valencia</title>
+    <sub-title lang="de">Training – GP Valencia</sub-title>
+    <desc lang="de">Nochmal Vollgas: Die MotoGP kommt zum großen Saisonfinale nach Valencia. Zeigt der WM-Champ Marc Márquez auf der Strecke nochmal sein Können? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+  </programme>
+  <programme start="20261128073500 +0000" stop="20261128081500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Motorrad: Großer Preis der Stadt Valencia</title>
+    <sub-title lang="de">2. Freies Training – GP Valencia</sub-title>
+    <desc lang="de">Motorradsport der Extraklasse: Sky überträgt alle Sessions der Moto2 und Moto3 live. Welche Fahrer setzen sich in den kleineren Klassen durch und empfehlen sich für einen Platz in der MotoGP? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+  </programme>
+  <programme start="20261128081500 +0000" stop="20261128090000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Motorrad: Großer Preis der Stadt Valencia</title>
+    <sub-title lang="de">2. Freies Training – GP Valencia</sub-title>
+    <desc lang="de">Motorradsport der Extraklasse: Sky überträgt alle Sessions der Moto2 und Moto3 live. Welche Fahrer setzen sich in den kleineren Klassen durch und empfehlen sich für einen Platz in der MotoGP? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128094500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Motorrad: Großer Preis der Stadt Valencia</title>
+    <sub-title lang="de">2. Freies Training – GP Valencia</sub-title>
+    <desc lang="de">Nochmal Vollgas: Die MotoGP kommt zum großen Saisonfinale nach Valencia. Zeigt der WM-Champ Marc Márquez auf der Strecke nochmal sein Können? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+  </programme>
+  <programme start="20261128094500 +0000" stop="20261128110000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Motorrad: Großer Preis der Stadt Valencia</title>
+    <sub-title lang="de">Qualifying – GP Valencia</sub-title>
+    <desc lang="de">Nochmal Vollgas: Die MotoGP kommt zum großen Saisonfinale nach Valencia. Zeigt der WM-Champ Marc Márquez auf der Strecke nochmal sein Können? (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorrad</category>
+    <icon src="http://img.tvspielfilm.de/fb/ae/18/545a00b6e4b0f17a8318aefb.jpeg" />
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128111500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Highlights XXL: 1. FC Heidenheim 1846 – 1. FC Nürnberg, 13. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128111500 +0000" stop="20261128113000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Highlghts XXL: SV Werder Bremen – Borussia Mönchengladbach, 11. Spieltag</sub-title>
+    <desc lang="de">Die besten Szenen aus der Bundesliga und 2. Bundesliga: Highlights XXL zeigt die großen Momente der vergangenen Partien. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128140000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">Samstags-Konferenz, 13. Spieltag</sub-title>
+    <desc lang="de">Die 2. Fußball-Bundesliga ist nach der -Bundesliga die höchste Spielklasse im deutschen Männerfußball. Im heutigen fußballerischen Volksmund bezeichnet man sie auch als „Unterhaus“, während die 1. Liga „Oberhaus“ genannt wird. Etabliert wurde die 2. Bundesliga 1974, elf Jahre nach der Gründung ihrer großen Schwester. So sollte die wirtschaftliche Kluft von Profi- und Amateurbereich überwunden werden, die zwischen der Bundesliga und den bis dahin als zweite Liga fungierenden fünf Regionalligen entstanden war.\n \nAn 34 Spieltagen wird um den Aufstieg bzw. Abstieg gespielt; der Meister sowie der Vize-Meister steigen automatisch in die 1. Liga auf, während sich der Drittplatzierte in zwei Relegationsspielen (Hin- und Rückspiel) mit dem 16. der 1. Bundesliga um den Aufstieg bzw. – aus Sicht des Erstligisten – Verbleib duellieren muss.\n \nAnders als im Oberhaus, wo Bayern München mit 32 Titeln seit der Liga-Gründung 1963/64 den unangefochtenen Rekordmeister markiert, gibt es im Unterhaus fünf Co-Rekordmeister. Diese sind der FC Nürnberg, der SC Freiburg, der FC Köln, Arminia Bielefeld und der VfL Bochum, alle mit je vier Titeln.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128141500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Hamburger SV – FC Bayern München: NEO.bet Countdown, 11. Spieltag</sub-title>
+    <desc lang="de">Spannende Vorberichte und knallharte Analysen: Der NEO.bet Countdown stimmt auf den bevorstehenden Samstags-Spieltag der Bundesliga ein. (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128141500 +0000" stop="20261128164500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">Hamburger SV – FC Bayern München, 11. Spieltag</sub-title>
+    <desc lang="de">Gebeutelte Münchner: Der FC Bayern ist aktuell von Verletzungssorgen geplagt. Harry Kane fällt länger aus. Ist das die Chance für den HSV? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128164500 +0000" stop="20261128192500 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: Bundesliga</title>
+    <sub-title lang="de">VfB Stuttgart – Eintracht Frankfurt, tipico Topspiel der Woche, 11. Spieltag</sub-title>
+    <desc lang="de">Aktuell Mittelmaß: Stuttgart droht den Anschluss an die Spitze zu verlieren. Können die Schwaben zu Hause gegen Frankfurt siegen? (Senderinfo).</desc>
+    <category lang="de">1. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/17/c9/35/60dab9508189657f8135c917.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128192500 +0000" stop="20261128220000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Fußball: 2. Bundesliga</title>
+    <sub-title lang="de">VfL Osnabrück – Hannover 96, tipico Topspiel der Woche, 13. Spieltag</sub-title>
+    <desc lang="de">Im März und im Juli trafen sich die Teams zu Testspielen. Beide Male gewann Hannover. Das letzte Pflichtspielduell gab es im Februar vor zwei Jahren. Da setzte sich der VfL (Fabian Rosinski) zu Hause mit 1:0 durch und stieg ab.</desc>
+    <category lang="de">2. Bundesliga</category>
+    <icon src="http://img.tvspielfilm.de/db/67/8a/54544a19e4b0840f008a67db.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261129010000 +0000" channel="Sky.Sport.Top.Event.de">
+    <title lang="de">Basketball: NBA</title>
+    <sub-title lang="de">Orlando Magic @ Washington Wizards</sub-title>
+    <desc lang="de">Die NBA (National Basketball Association) ist die höchste professionelle Basketballliga in Nordamerika und gilt als die beste der Welt. Sie wurde 1946 gegründet (damals als BAA – Basketball Association of America) und trägt seit 1949 nach der Fusion mit der NBL (National Basketball League) ihren heutigen Namen. \n\nDie Liga besteht aus 30 Teams, die in zwei Conferences unterteilt sind; die Eastern Conference und die Western Conference. Eine Saison besteht aus einer Regular Season (82 Spiele pro Team), den Playoffs, die Mitte April starten, und den NBA Finals, in denen im Juni der Meister gekürt wird.</desc>
+    <date>2026</date>
+    <category lang="de">Basketball</category>
+    <icon src="http://img.tvspielfilm.de/6b/de/6b/548a2d0de4b0c014706bde6b.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
   <channel id="Now.Sports.Premier.League.2.hk">
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">Now Sports Premier League 2</display-name>
   </channel>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124080000 +0000" stop="20261124100000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Brentford vs Everton</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
+  <channel id="Now.Sports.Premier.League.1.hk">
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124100000 +0000" stop="20261124103000 +0000">
-    <title lang="en">PL Stories 26/27</title>
-    <sub-title lang="en">NEMANJA MATIC</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124103000 +0000" stop="20261124104500 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 9</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124104500 +0000" stop="20261124110000 +0000">
-    <title lang="en">PL Goals 26/27</title>
-    <sub-title lang="en">Week 10</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124110000 +0000" stop="20261124130000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Aston Villa vs Sunderland</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124130000 +0000" stop="20261124150000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Brentford vs Everton</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124150000 +0000" stop="20261124160000 +0000">
-    <title lang="en">Premier League Highlights 26/27</title>
-    <sub-title lang="en">Week 11</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124160000 +0000" stop="20261124180000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Manchester City vs Fulham</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124180000 +0000" stop="20261124200000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Coventry City vs Crystal Palace</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124200000 +0000" stop="20261124220000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Tottenham Hotspur vs Ipswich Town</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261124220000 +0000" stop="20261125000000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Manchester City vs Fulham</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261125000000 +0000" stop="20261125010000 +0000">
-    <title lang="en">Premier League Highlights 26/27</title>
-    <sub-title lang="en">Week 11</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261125010000 +0000" stop="20261125030000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Coventry City vs Crystal Palace</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261125030000 +0000" stop="20261125050000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Tottenham Hotspur vs Ipswich Town</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261125050000 +0000" stop="20261125060000 +0000">
-    <title lang="en">Premier League Highlights 26/27</title>
-    <sub-title lang="en">Week 11</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
-  <programme channel="Now.Sports.Premier.League.1.hk" start="20261125060000 +0000" stop="20261125080000 +0000">
-    <title lang="en">Premier League 26/27</title>
-    <sub-title lang="en">Manchester City vs Fulham</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">PL/Soccer/match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
-  </programme>
+    <url>http://www.nowplayer.now.com</url>
+    <display-name lang="en">Now Sports Premier League 1</display-name>
+  </channel>
   <programme channel="Now.Sports.Premier.League.1.hk" start="20261125080000 +0000" stop="20261125100000 +0000">
     <title lang="en">Premier League 26/27</title>
     <sub-title lang="en">Coventry City vs Crystal Palace</sub-title>
@@ -139426,35 +139731,250 @@
     <category lang="en">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261124080000 +0000" stop="20261124120000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127180000 +0000" stop="20261127190000 +0000">
+    <title lang="en">Premier League Highlights 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261124120000 +0000" stop="20261124160000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127190000 +0000" stop="20261127191500 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261124160000 +0000" stop="20261124200000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127191500 +0000" stop="20261127195000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">FRANK LAMPARD</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261124200000 +0000" stop="20261125000000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127195000 +0000" stop="20261127220000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261125000000 +0000" stop="20261125040000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127220000 +0000" stop="20261127221500 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 10</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
-  <programme channel="Now.Sports.Premier.League.2.hk" start="20261125040000 +0000" stop="20261125080000 +0000">
-    <title lang="en">Stay tuned for the next broadcast</title>
-    <category lang="en">Sports Category</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127221500 +0000" stop="20261127223000 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127223000 +0000" stop="20261127230000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">MIKEL ARTETA</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127230000 +0000" stop="20261127233000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">NEMANJA MATIC</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127233000 +0000" stop="20261127234500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261127234500 +0000" stop="20261128000000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128000000 +0000" stop="20261128001500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128001500 +0000" stop="20261128003000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128003000 +0000" stop="20261128004500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128004500 +0000" stop="20261128010000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128010000 +0000" stop="20261128011500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128011500 +0000" stop="20261128013000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128013000 +0000" stop="20261128014500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128014500 +0000" stop="20261128020000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128020000 +0000" stop="20261128021500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128021500 +0000" stop="20261128023000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128023000 +0000" stop="20261128024500 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128024500 +0000" stop="20261128030000 +0000">
+    <title lang="en">PL Online 26/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128030000 +0000" stop="20261128050000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128050000 +0000" stop="20261128051500 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 10</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128051500 +0000" stop="20261128053000 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128053000 +0000" stop="20261128060000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">FRANK LAMPARD</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128060000 +0000" stop="20261128080000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128080000 +0000" stop="20261128090000 +0000">
+    <title lang="en">Premier League Highlights 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128090000 +0000" stop="20261128110000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128110000 +0000" stop="20261128113000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">MIKEL ARTETA</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128113000 +0000" stop="20261128133000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128133000 +0000" stop="20261128140000 +0000">
+    <title lang="en">PL Stories 26/27</title>
+    <sub-title lang="en">FRANK LAMPARD</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128140000 +0000" stop="20261128141500 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 10</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128141500 +0000" stop="20261128143000 +0000">
+    <title lang="en">PL Goals 26/27</title>
+    <sub-title lang="en">Week 11</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.1.hk" start="20261128143000 +0000" stop="20261128170000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Manchester United vs Brentford</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" />
   </programme>
   <programme channel="Now.Sports.Premier.League.2.hk" start="20261125080000 +0000" stop="20261125120000 +0000">
     <title lang="en">Stay tuned for the next broadcast</title>
@@ -139529,6 +140049,38 @@
   <programme channel="Now.Sports.Premier.League.2.hk" start="20261127160000 +0000" stop="20261127200000 +0000">
     <title lang="en">Stay tuned for the next broadcast</title>
     <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261127200000 +0000" stop="20261128000000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261128000000 +0000" stop="20261128040000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261128040000 +0000" stop="20261128080000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261128080000 +0000" stop="20261128120000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261128120000 +0000" stop="20261128145000 +0000">
+    <title lang="en">Stay tuned for the next broadcast</title>
+    <category lang="en">Sports Category</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
+  </programme>
+  <programme channel="Now.Sports.Premier.League.2.hk" start="20261128145000 +0000" stop="20261128170000 +0000">
+    <title lang="en">Premier League 26/27</title>
+    <sub-title lang="en">Leeds United vs Coventry City</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">PL/Soccer/match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" />
   </programme>
   <channel id="Virgin.Media.One.HD.ie">
